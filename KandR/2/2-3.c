@@ -20,10 +20,12 @@ int main()
 }
 
 int htoi(char s[]) {
-    //if (s[0] == "0" && (s[1] == "x" || s[1] == "X")
+    int garbage = 0;
+    if (s[0] == '0' && (s[1] == 'x' || s[1] == 'X'))
+        garbage += 2;
     int result = 0;
     int max = strlen(s)-2;
-    for (int i=0; i<=max; i++) {
+    for (int i=(0+garbage); i<=max; i++) {
         char c = tolower(s[i]);
         int h;
         switch (c) {
