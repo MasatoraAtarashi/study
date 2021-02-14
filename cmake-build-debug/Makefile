@@ -521,141 +521,6 @@ KandR/1/1-9.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/1/1-9.c.s
 .PHONY : KandR/1/1-9.c.s
 
-KandR/1/hello.o: KandR/1/hello.c.o
-
-.PHONY : KandR/1/hello.o
-
-# target to build an object file
-KandR/1/hello.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/1/hello.c.o
-.PHONY : KandR/1/hello.c.o
-
-KandR/1/hello.i: KandR/1/hello.c.i
-
-.PHONY : KandR/1/hello.i
-
-# target to preprocess a source file
-KandR/1/hello.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/1/hello.c.i
-.PHONY : KandR/1/hello.c.i
-
-KandR/1/hello.s: KandR/1/hello.c.s
-
-.PHONY : KandR/1/hello.s
-
-# target to generate assembly for a file
-KandR/1/hello.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/1/hello.c.s
-.PHONY : KandR/1/hello.c.s
-
-KandR/1/print_logest_line.o: KandR/1/print_logest_line.c.o
-
-.PHONY : KandR/1/print_logest_line.o
-
-# target to build an object file
-KandR/1/print_logest_line.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/1/print_logest_line.c.o
-.PHONY : KandR/1/print_logest_line.c.o
-
-KandR/1/print_logest_line.i: KandR/1/print_logest_line.c.i
-
-.PHONY : KandR/1/print_logest_line.i
-
-# target to preprocess a source file
-KandR/1/print_logest_line.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/1/print_logest_line.c.i
-.PHONY : KandR/1/print_logest_line.c.i
-
-KandR/1/print_logest_line.s: KandR/1/print_logest_line.c.s
-
-.PHONY : KandR/1/print_logest_line.s
-
-# target to generate assembly for a file
-KandR/1/print_logest_line.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/1/print_logest_line.c.s
-.PHONY : KandR/1/print_logest_line.c.s
-
-KandR/1/temp-float.o: KandR/1/temp-float.c.o
-
-.PHONY : KandR/1/temp-float.o
-
-# target to build an object file
-KandR/1/temp-float.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/1/temp-float.c.o
-.PHONY : KandR/1/temp-float.c.o
-
-KandR/1/temp-float.i: KandR/1/temp-float.c.i
-
-.PHONY : KandR/1/temp-float.i
-
-# target to preprocess a source file
-KandR/1/temp-float.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/1/temp-float.c.i
-.PHONY : KandR/1/temp-float.c.i
-
-KandR/1/temp-float.s: KandR/1/temp-float.c.s
-
-.PHONY : KandR/1/temp-float.s
-
-# target to generate assembly for a file
-KandR/1/temp-float.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/1/temp-float.c.s
-.PHONY : KandR/1/temp-float.c.s
-
-KandR/1/temp.o: KandR/1/temp.c.o
-
-.PHONY : KandR/1/temp.o
-
-# target to build an object file
-KandR/1/temp.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/1/temp.c.o
-.PHONY : KandR/1/temp.c.o
-
-KandR/1/temp.i: KandR/1/temp.c.i
-
-.PHONY : KandR/1/temp.i
-
-# target to preprocess a source file
-KandR/1/temp.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/1/temp.c.i
-.PHONY : KandR/1/temp.c.i
-
-KandR/1/temp.s: KandR/1/temp.c.s
-
-.PHONY : KandR/1/temp.s
-
-# target to generate assembly for a file
-KandR/1/temp.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/1/temp.c.s
-.PHONY : KandR/1/temp.c.s
-
-KandR/1/temp2.o: KandR/1/temp2.c.o
-
-.PHONY : KandR/1/temp2.o
-
-# target to build an object file
-KandR/1/temp2.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/1/temp2.c.o
-.PHONY : KandR/1/temp2.c.o
-
-KandR/1/temp2.i: KandR/1/temp2.c.i
-
-.PHONY : KandR/1/temp2.i
-
-# target to preprocess a source file
-KandR/1/temp2.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/1/temp2.c.i
-.PHONY : KandR/1/temp2.c.i
-
-KandR/1/temp2.s: KandR/1/temp2.c.s
-
-.PHONY : KandR/1/temp2.s
-
-# target to generate assembly for a file
-KandR/1/temp2.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/1/temp2.c.s
-.PHONY : KandR/1/temp2.c.s
-
 KandR/2/2-2.o: KandR/2/2-2.c.o
 
 .PHONY : KandR/2/2-2.o
@@ -710,6 +575,168 @@ KandR/2/2-3.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/2/2-3.c.s
 .PHONY : KandR/2/2-3.c.s
 
+KandR/sample/hello.o: KandR/sample/hello.c.o
+
+.PHONY : KandR/sample/hello.o
+
+# target to build an object file
+KandR/sample/hello.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/sample/hello.c.o
+.PHONY : KandR/sample/hello.c.o
+
+KandR/sample/hello.i: KandR/sample/hello.c.i
+
+.PHONY : KandR/sample/hello.i
+
+# target to preprocess a source file
+KandR/sample/hello.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/sample/hello.c.i
+.PHONY : KandR/sample/hello.c.i
+
+KandR/sample/hello.s: KandR/sample/hello.c.s
+
+.PHONY : KandR/sample/hello.s
+
+# target to generate assembly for a file
+KandR/sample/hello.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/sample/hello.c.s
+.PHONY : KandR/sample/hello.c.s
+
+KandR/sample/print_logest_line.o: KandR/sample/print_logest_line.c.o
+
+.PHONY : KandR/sample/print_logest_line.o
+
+# target to build an object file
+KandR/sample/print_logest_line.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/sample/print_logest_line.c.o
+.PHONY : KandR/sample/print_logest_line.c.o
+
+KandR/sample/print_logest_line.i: KandR/sample/print_logest_line.c.i
+
+.PHONY : KandR/sample/print_logest_line.i
+
+# target to preprocess a source file
+KandR/sample/print_logest_line.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/sample/print_logest_line.c.i
+.PHONY : KandR/sample/print_logest_line.c.i
+
+KandR/sample/print_logest_line.s: KandR/sample/print_logest_line.c.s
+
+.PHONY : KandR/sample/print_logest_line.s
+
+# target to generate assembly for a file
+KandR/sample/print_logest_line.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/sample/print_logest_line.c.s
+.PHONY : KandR/sample/print_logest_line.c.s
+
+KandR/sample/strindex.o: KandR/sample/strindex.c.o
+
+.PHONY : KandR/sample/strindex.o
+
+# target to build an object file
+KandR/sample/strindex.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/sample/strindex.c.o
+.PHONY : KandR/sample/strindex.c.o
+
+KandR/sample/strindex.i: KandR/sample/strindex.c.i
+
+.PHONY : KandR/sample/strindex.i
+
+# target to preprocess a source file
+KandR/sample/strindex.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/sample/strindex.c.i
+.PHONY : KandR/sample/strindex.c.i
+
+KandR/sample/strindex.s: KandR/sample/strindex.c.s
+
+.PHONY : KandR/sample/strindex.s
+
+# target to generate assembly for a file
+KandR/sample/strindex.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/sample/strindex.c.s
+.PHONY : KandR/sample/strindex.c.s
+
+KandR/sample/temp-float.o: KandR/sample/temp-float.c.o
+
+.PHONY : KandR/sample/temp-float.o
+
+# target to build an object file
+KandR/sample/temp-float.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/sample/temp-float.c.o
+.PHONY : KandR/sample/temp-float.c.o
+
+KandR/sample/temp-float.i: KandR/sample/temp-float.c.i
+
+.PHONY : KandR/sample/temp-float.i
+
+# target to preprocess a source file
+KandR/sample/temp-float.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/sample/temp-float.c.i
+.PHONY : KandR/sample/temp-float.c.i
+
+KandR/sample/temp-float.s: KandR/sample/temp-float.c.s
+
+.PHONY : KandR/sample/temp-float.s
+
+# target to generate assembly for a file
+KandR/sample/temp-float.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/sample/temp-float.c.s
+.PHONY : KandR/sample/temp-float.c.s
+
+KandR/sample/temp.o: KandR/sample/temp.c.o
+
+.PHONY : KandR/sample/temp.o
+
+# target to build an object file
+KandR/sample/temp.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/sample/temp.c.o
+.PHONY : KandR/sample/temp.c.o
+
+KandR/sample/temp.i: KandR/sample/temp.c.i
+
+.PHONY : KandR/sample/temp.i
+
+# target to preprocess a source file
+KandR/sample/temp.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/sample/temp.c.i
+.PHONY : KandR/sample/temp.c.i
+
+KandR/sample/temp.s: KandR/sample/temp.c.s
+
+.PHONY : KandR/sample/temp.s
+
+# target to generate assembly for a file
+KandR/sample/temp.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/sample/temp.c.s
+.PHONY : KandR/sample/temp.c.s
+
+KandR/sample/temp2.o: KandR/sample/temp2.c.o
+
+.PHONY : KandR/sample/temp2.o
+
+# target to build an object file
+KandR/sample/temp2.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/sample/temp2.c.o
+.PHONY : KandR/sample/temp2.c.o
+
+KandR/sample/temp2.i: KandR/sample/temp2.c.i
+
+.PHONY : KandR/sample/temp2.i
+
+# target to preprocess a source file
+KandR/sample/temp2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/sample/temp2.c.i
+.PHONY : KandR/sample/temp2.c.i
+
+KandR/sample/temp2.s: KandR/sample/temp2.c.s
+
+.PHONY : KandR/sample/temp2.s
+
+# target to generate assembly for a file
+KandR/sample/temp2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_study.dir/build.make CMakeFiles/C_study.dir/KandR/sample/temp2.c.s
+.PHONY : KandR/sample/temp2.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -761,27 +788,30 @@ help:
 	@echo "... KandR/1/1-9.o"
 	@echo "... KandR/1/1-9.i"
 	@echo "... KandR/1/1-9.s"
-	@echo "... KandR/1/hello.o"
-	@echo "... KandR/1/hello.i"
-	@echo "... KandR/1/hello.s"
-	@echo "... KandR/1/print_logest_line.o"
-	@echo "... KandR/1/print_logest_line.i"
-	@echo "... KandR/1/print_logest_line.s"
-	@echo "... KandR/1/temp-float.o"
-	@echo "... KandR/1/temp-float.i"
-	@echo "... KandR/1/temp-float.s"
-	@echo "... KandR/1/temp.o"
-	@echo "... KandR/1/temp.i"
-	@echo "... KandR/1/temp.s"
-	@echo "... KandR/1/temp2.o"
-	@echo "... KandR/1/temp2.i"
-	@echo "... KandR/1/temp2.s"
 	@echo "... KandR/2/2-2.o"
 	@echo "... KandR/2/2-2.i"
 	@echo "... KandR/2/2-2.s"
 	@echo "... KandR/2/2-3.o"
 	@echo "... KandR/2/2-3.i"
 	@echo "... KandR/2/2-3.s"
+	@echo "... KandR/sample/hello.o"
+	@echo "... KandR/sample/hello.i"
+	@echo "... KandR/sample/hello.s"
+	@echo "... KandR/sample/print_logest_line.o"
+	@echo "... KandR/sample/print_logest_line.i"
+	@echo "... KandR/sample/print_logest_line.s"
+	@echo "... KandR/sample/strindex.o"
+	@echo "... KandR/sample/strindex.i"
+	@echo "... KandR/sample/strindex.s"
+	@echo "... KandR/sample/temp-float.o"
+	@echo "... KandR/sample/temp-float.i"
+	@echo "... KandR/sample/temp-float.s"
+	@echo "... KandR/sample/temp.o"
+	@echo "... KandR/sample/temp.i"
+	@echo "... KandR/sample/temp.s"
+	@echo "... KandR/sample/temp2.o"
+	@echo "... KandR/sample/temp2.i"
+	@echo "... KandR/sample/temp2.s"
 .PHONY : help
 
 

@@ -18,10 +18,10 @@ add_executable(C_study
         KandR/1/1-6.c
         KandR/1/1-8.c
         KandR/1/1-9.c
-        KandR/1/hello.c
-        KandR/1/print_logest_line.c
-        KandR/1/temp-float.c
-        KandR/1/temp.c
-        KandR/1/temp2.c
+        KandR/sample/hello.c
+        KandR/sample/print_logest_line.c
+        KandR/sample/temp-float.c
+        KandR/sample/temp.c
+        KandR/sample/temp2.c
         KandR/2/2-2.c
-        KandR/2/2-3.c)
+        KandR/2/2-3.c KandR/sample/strindex.c)

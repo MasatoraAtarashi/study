@@ -120,25 +120,28 @@
 		<Unit filename="/Users/MasatoraAtarashi/environment/C-study/KandR/1/1-9.c">
 			<Option target="C_study"/>
 		</Unit>
-		<Unit filename="/Users/MasatoraAtarashi/environment/C-study/KandR/1/hello.c">
-			<Option target="C_study"/>
-		</Unit>
-		<Unit filename="/Users/MasatoraAtarashi/environment/C-study/KandR/1/print_logest_line.c">
-			<Option target="C_study"/>
-		</Unit>
-		<Unit filename="/Users/MasatoraAtarashi/environment/C-study/KandR/1/temp-float.c">
-			<Option target="C_study"/>
-		</Unit>
-		<Unit filename="/Users/MasatoraAtarashi/environment/C-study/KandR/1/temp.c">
-			<Option target="C_study"/>
-		</Unit>
-		<Unit filename="/Users/MasatoraAtarashi/environment/C-study/KandR/1/temp2.c">
-			<Option target="C_study"/>
-		</Unit>
 		<Unit filename="/Users/MasatoraAtarashi/environment/C-study/KandR/2/2-2.c">
 			<Option target="C_study"/>
 		</Unit>
 		<Unit filename="/Users/MasatoraAtarashi/environment/C-study/KandR/2/2-3.c">
+			<Option target="C_study"/>
+		</Unit>
+		<Unit filename="/Users/MasatoraAtarashi/environment/C-study/KandR/sample/hello.c">
+			<Option target="C_study"/>
+		</Unit>
+		<Unit filename="/Users/MasatoraAtarashi/environment/C-study/KandR/sample/print_logest_line.c">
+			<Option target="C_study"/>
+		</Unit>
+		<Unit filename="/Users/MasatoraAtarashi/environment/C-study/KandR/sample/strindex.c">
+			<Option target="C_study"/>
+		</Unit>
+		<Unit filename="/Users/MasatoraAtarashi/environment/C-study/KandR/sample/temp-float.c">
+			<Option target="C_study"/>
+		</Unit>
+		<Unit filename="/Users/MasatoraAtarashi/environment/C-study/KandR/sample/temp.c">
+			<Option target="C_study"/>
+		</Unit>
+		<Unit filename="/Users/MasatoraAtarashi/environment/C-study/KandR/sample/temp2.c">
 			<Option target="C_study"/>
 		</Unit>
 		<Unit filename="/Users/MasatoraAtarashi/environment/C-study/CMakeLists.txt">

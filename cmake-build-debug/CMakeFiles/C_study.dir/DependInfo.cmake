@@ -18,13 +18,14 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/MasatoraAtarashi/environment/C-study/KandR/1/1-6.c" "/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles/C_study.dir/KandR/1/1-6.c.o"
   "/Users/MasatoraAtarashi/environment/C-study/KandR/1/1-8.c" "/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles/C_study.dir/KandR/1/1-8.c.o"
   "/Users/MasatoraAtarashi/environment/C-study/KandR/1/1-9.c" "/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles/C_study.dir/KandR/1/1-9.c.o"
-  "/Users/MasatoraAtarashi/environment/C-study/KandR/1/hello.c" "/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles/C_study.dir/KandR/1/hello.c.o"
-  "/Users/MasatoraAtarashi/environment/C-study/KandR/1/print_logest_line.c" "/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles/C_study.dir/KandR/1/print_logest_line.c.o"
-  "/Users/MasatoraAtarashi/environment/C-study/KandR/1/temp-float.c" "/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles/C_study.dir/KandR/1/temp-float.c.o"
-  "/Users/MasatoraAtarashi/environment/C-study/KandR/1/temp.c" "/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles/C_study.dir/KandR/1/temp.c.o"
-  "/Users/MasatoraAtarashi/environment/C-study/KandR/1/temp2.c" "/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles/C_study.dir/KandR/1/temp2.c.o"
   "/Users/MasatoraAtarashi/environment/C-study/KandR/2/2-2.c" "/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles/C_study.dir/KandR/2/2-2.c.o"
   "/Users/MasatoraAtarashi/environment/C-study/KandR/2/2-3.c" "/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles/C_study.dir/KandR/2/2-3.c.o"
+  "/Users/MasatoraAtarashi/environment/C-study/KandR/sample/hello.c" "/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles/C_study.dir/KandR/sample/hello.c.o"
+  "/Users/MasatoraAtarashi/environment/C-study/KandR/sample/print_logest_line.c" "/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles/C_study.dir/KandR/sample/print_logest_line.c.o"
+  "/Users/MasatoraAtarashi/environment/C-study/KandR/sample/strindex.c" "/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles/C_study.dir/KandR/sample/strindex.c.o"
+  "/Users/MasatoraAtarashi/environment/C-study/KandR/sample/temp-float.c" "/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles/C_study.dir/KandR/sample/temp-float.c.o"
+  "/Users/MasatoraAtarashi/environment/C-study/KandR/sample/temp.c" "/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles/C_study.dir/KandR/sample/temp.c.o"
+  "/Users/MasatoraAtarashi/environment/C-study/KandR/sample/temp2.c" "/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles/C_study.dir/KandR/sample/temp2.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

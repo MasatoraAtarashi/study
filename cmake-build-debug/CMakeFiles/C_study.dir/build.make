@@ -259,70 +259,70 @@ CMakeFiles/C_study.dir/KandR/1/1-9.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_study.dir/KandR/1/1-9.c.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/MasatoraAtarashi/environment/C-study/KandR/1/1-9.c -o CMakeFiles/C_study.dir/KandR/1/1-9.c.s
 
-CMakeFiles/C_study.dir/KandR/1/hello.c.o: CMakeFiles/C_study.dir/flags.make
-CMakeFiles/C_study.dir/KandR/1/hello.c.o: ../KandR/1/hello.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/C_study.dir/KandR/1/hello.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_study.dir/KandR/1/hello.c.o   -c /Users/MasatoraAtarashi/environment/C-study/KandR/1/hello.c
+CMakeFiles/C_study.dir/KandR/sample/hello.c.o: CMakeFiles/C_study.dir/flags.make
+CMakeFiles/C_study.dir/KandR/sample/hello.c.o: ../KandR/sample/hello.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/C_study.dir/KandR/sample/hello.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_study.dir/KandR/sample/hello.c.o   -c /Users/MasatoraAtarashi/environment/C-study/KandR/sample/hello.c
 
-CMakeFiles/C_study.dir/KandR/1/hello.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_study.dir/KandR/1/hello.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/MasatoraAtarashi/environment/C-study/KandR/1/hello.c > CMakeFiles/C_study.dir/KandR/1/hello.c.i
+CMakeFiles/C_study.dir/KandR/sample/hello.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_study.dir/KandR/sample/hello.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/MasatoraAtarashi/environment/C-study/KandR/sample/hello.c > CMakeFiles/C_study.dir/KandR/sample/hello.c.i
 
-CMakeFiles/C_study.dir/KandR/1/hello.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_study.dir/KandR/1/hello.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/MasatoraAtarashi/environment/C-study/KandR/1/hello.c -o CMakeFiles/C_study.dir/KandR/1/hello.c.s
+CMakeFiles/C_study.dir/KandR/sample/hello.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_study.dir/KandR/sample/hello.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/MasatoraAtarashi/environment/C-study/KandR/sample/hello.c -o CMakeFiles/C_study.dir/KandR/sample/hello.c.s
 
-CMakeFiles/C_study.dir/KandR/1/print_logest_line.c.o: CMakeFiles/C_study.dir/flags.make
-CMakeFiles/C_study.dir/KandR/1/print_logest_line.c.o: ../KandR/1/print_logest_line.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/C_study.dir/KandR/1/print_logest_line.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_study.dir/KandR/1/print_logest_line.c.o   -c /Users/MasatoraAtarashi/environment/C-study/KandR/1/print_logest_line.c
+CMakeFiles/C_study.dir/KandR/sample/print_logest_line.c.o: CMakeFiles/C_study.dir/flags.make
+CMakeFiles/C_study.dir/KandR/sample/print_logest_line.c.o: ../KandR/sample/print_logest_line.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/C_study.dir/KandR/sample/print_logest_line.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_study.dir/KandR/sample/print_logest_line.c.o   -c /Users/MasatoraAtarashi/environment/C-study/KandR/sample/print_logest_line.c
 
-CMakeFiles/C_study.dir/KandR/1/print_logest_line.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_study.dir/KandR/1/print_logest_line.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/MasatoraAtarashi/environment/C-study/KandR/1/print_logest_line.c > CMakeFiles/C_study.dir/KandR/1/print_logest_line.c.i
+CMakeFiles/C_study.dir/KandR/sample/print_logest_line.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_study.dir/KandR/sample/print_logest_line.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/MasatoraAtarashi/environment/C-study/KandR/sample/print_logest_line.c > CMakeFiles/C_study.dir/KandR/sample/print_logest_line.c.i
 
-CMakeFiles/C_study.dir/KandR/1/print_logest_line.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_study.dir/KandR/1/print_logest_line.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/MasatoraAtarashi/environment/C-study/KandR/1/print_logest_line.c -o CMakeFiles/C_study.dir/KandR/1/print_logest_line.c.s
+CMakeFiles/C_study.dir/KandR/sample/print_logest_line.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_study.dir/KandR/sample/print_logest_line.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/MasatoraAtarashi/environment/C-study/KandR/sample/print_logest_line.c -o CMakeFiles/C_study.dir/KandR/sample/print_logest_line.c.s
 
-CMakeFiles/C_study.dir/KandR/1/temp-float.c.o: CMakeFiles/C_study.dir/flags.make
-CMakeFiles/C_study.dir/KandR/1/temp-float.c.o: ../KandR/1/temp-float.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/C_study.dir/KandR/1/temp-float.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_study.dir/KandR/1/temp-float.c.o   -c /Users/MasatoraAtarashi/environment/C-study/KandR/1/temp-float.c
+CMakeFiles/C_study.dir/KandR/sample/temp-float.c.o: CMakeFiles/C_study.dir/flags.make
+CMakeFiles/C_study.dir/KandR/sample/temp-float.c.o: ../KandR/sample/temp-float.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/C_study.dir/KandR/sample/temp-float.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_study.dir/KandR/sample/temp-float.c.o   -c /Users/MasatoraAtarashi/environment/C-study/KandR/sample/temp-float.c
 
-CMakeFiles/C_study.dir/KandR/1/temp-float.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_study.dir/KandR/1/temp-float.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/MasatoraAtarashi/environment/C-study/KandR/1/temp-float.c > CMakeFiles/C_study.dir/KandR/1/temp-float.c.i
+CMakeFiles/C_study.dir/KandR/sample/temp-float.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_study.dir/KandR/sample/temp-float.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/MasatoraAtarashi/environment/C-study/KandR/sample/temp-float.c > CMakeFiles/C_study.dir/KandR/sample/temp-float.c.i
 
-CMakeFiles/C_study.dir/KandR/1/temp-float.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_study.dir/KandR/1/temp-float.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/MasatoraAtarashi/environment/C-study/KandR/1/temp-float.c -o CMakeFiles/C_study.dir/KandR/1/temp-float.c.s
+CMakeFiles/C_study.dir/KandR/sample/temp-float.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_study.dir/KandR/sample/temp-float.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/MasatoraAtarashi/environment/C-study/KandR/sample/temp-float.c -o CMakeFiles/C_study.dir/KandR/sample/temp-float.c.s
 
-CMakeFiles/C_study.dir/KandR/1/temp.c.o: CMakeFiles/C_study.dir/flags.make
-CMakeFiles/C_study.dir/KandR/1/temp.c.o: ../KandR/1/temp.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/C_study.dir/KandR/1/temp.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_study.dir/KandR/1/temp.c.o   -c /Users/MasatoraAtarashi/environment/C-study/KandR/1/temp.c
+CMakeFiles/C_study.dir/KandR/sample/temp.c.o: CMakeFiles/C_study.dir/flags.make
+CMakeFiles/C_study.dir/KandR/sample/temp.c.o: ../KandR/sample/temp.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/C_study.dir/KandR/sample/temp.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_study.dir/KandR/sample/temp.c.o   -c /Users/MasatoraAtarashi/environment/C-study/KandR/sample/temp.c
 
-CMakeFiles/C_study.dir/KandR/1/temp.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_study.dir/KandR/1/temp.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/MasatoraAtarashi/environment/C-study/KandR/1/temp.c > CMakeFiles/C_study.dir/KandR/1/temp.c.i
+CMakeFiles/C_study.dir/KandR/sample/temp.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_study.dir/KandR/sample/temp.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/MasatoraAtarashi/environment/C-study/KandR/sample/temp.c > CMakeFiles/C_study.dir/KandR/sample/temp.c.i
 
-CMakeFiles/C_study.dir/KandR/1/temp.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_study.dir/KandR/1/temp.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/MasatoraAtarashi/environment/C-study/KandR/1/temp.c -o CMakeFiles/C_study.dir/KandR/1/temp.c.s
+CMakeFiles/C_study.dir/KandR/sample/temp.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_study.dir/KandR/sample/temp.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/MasatoraAtarashi/environment/C-study/KandR/sample/temp.c -o CMakeFiles/C_study.dir/KandR/sample/temp.c.s
 
-CMakeFiles/C_study.dir/KandR/1/temp2.c.o: CMakeFiles/C_study.dir/flags.make
-CMakeFiles/C_study.dir/KandR/1/temp2.c.o: ../KandR/1/temp2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/C_study.dir/KandR/1/temp2.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_study.dir/KandR/1/temp2.c.o   -c /Users/MasatoraAtarashi/environment/C-study/KandR/1/temp2.c
+CMakeFiles/C_study.dir/KandR/sample/temp2.c.o: CMakeFiles/C_study.dir/flags.make
+CMakeFiles/C_study.dir/KandR/sample/temp2.c.o: ../KandR/sample/temp2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/C_study.dir/KandR/sample/temp2.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_study.dir/KandR/sample/temp2.c.o   -c /Users/MasatoraAtarashi/environment/C-study/KandR/sample/temp2.c
 
-CMakeFiles/C_study.dir/KandR/1/temp2.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_study.dir/KandR/1/temp2.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/MasatoraAtarashi/environment/C-study/KandR/1/temp2.c > CMakeFiles/C_study.dir/KandR/1/temp2.c.i
+CMakeFiles/C_study.dir/KandR/sample/temp2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_study.dir/KandR/sample/temp2.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/MasatoraAtarashi/environment/C-study/KandR/sample/temp2.c > CMakeFiles/C_study.dir/KandR/sample/temp2.c.i
 
-CMakeFiles/C_study.dir/KandR/1/temp2.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_study.dir/KandR/1/temp2.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/MasatoraAtarashi/environment/C-study/KandR/1/temp2.c -o CMakeFiles/C_study.dir/KandR/1/temp2.c.s
+CMakeFiles/C_study.dir/KandR/sample/temp2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_study.dir/KandR/sample/temp2.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/MasatoraAtarashi/environment/C-study/KandR/sample/temp2.c -o CMakeFiles/C_study.dir/KandR/sample/temp2.c.s
 
 CMakeFiles/C_study.dir/KandR/2/2-2.c.o: CMakeFiles/C_study.dir/flags.make
 CMakeFiles/C_study.dir/KandR/2/2-2.c.o: ../KandR/2/2-2.c
@@ -350,6 +350,19 @@ CMakeFiles/C_study.dir/KandR/2/2-3.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_study.dir/KandR/2/2-3.c.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/MasatoraAtarashi/environment/C-study/KandR/2/2-3.c -o CMakeFiles/C_study.dir/KandR/2/2-3.c.s
 
+CMakeFiles/C_study.dir/KandR/sample/strindex.c.o: CMakeFiles/C_study.dir/flags.make
+CMakeFiles/C_study.dir/KandR/sample/strindex.c.o: ../KandR/sample/strindex.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/C_study.dir/KandR/sample/strindex.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_study.dir/KandR/sample/strindex.c.o   -c /Users/MasatoraAtarashi/environment/C-study/KandR/sample/strindex.c
+
+CMakeFiles/C_study.dir/KandR/sample/strindex.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_study.dir/KandR/sample/strindex.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/MasatoraAtarashi/environment/C-study/KandR/sample/strindex.c > CMakeFiles/C_study.dir/KandR/sample/strindex.c.i
+
+CMakeFiles/C_study.dir/KandR/sample/strindex.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_study.dir/KandR/sample/strindex.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/MasatoraAtarashi/environment/C-study/KandR/sample/strindex.c -o CMakeFiles/C_study.dir/KandR/sample/strindex.c.s
+
 # Object files for target C_study
 C_study_OBJECTS = \
 "CMakeFiles/C_study.dir/KandR/1/1-10.c.o" \
@@ -366,13 +379,14 @@ C_study_OBJECTS = \
 "CMakeFiles/C_study.dir/KandR/1/1-6.c.o" \
 "CMakeFiles/C_study.dir/KandR/1/1-8.c.o" \
 "CMakeFiles/C_study.dir/KandR/1/1-9.c.o" \
-"CMakeFiles/C_study.dir/KandR/1/hello.c.o" \
-"CMakeFiles/C_study.dir/KandR/1/print_logest_line.c.o" \
-"CMakeFiles/C_study.dir/KandR/1/temp-float.c.o" \
-"CMakeFiles/C_study.dir/KandR/1/temp.c.o" \
-"CMakeFiles/C_study.dir/KandR/1/temp2.c.o" \
+"CMakeFiles/C_study.dir/KandR/sample/hello.c.o" \
+"CMakeFiles/C_study.dir/KandR/sample/print_logest_line.c.o" \
+"CMakeFiles/C_study.dir/KandR/sample/temp-float.c.o" \
+"CMakeFiles/C_study.dir/KandR/sample/temp.c.o" \
+"CMakeFiles/C_study.dir/KandR/sample/temp2.c.o" \
 "CMakeFiles/C_study.dir/KandR/2/2-2.c.o" \
-"CMakeFiles/C_study.dir/KandR/2/2-3.c.o"
+"CMakeFiles/C_study.dir/KandR/2/2-3.c.o" \
+"CMakeFiles/C_study.dir/KandR/sample/strindex.c.o"
 
 # External object files for target C_study
 C_study_EXTERNAL_OBJECTS =
@@ -391,16 +405,17 @@ C_study: CMakeFiles/C_study.dir/KandR/1/1-5.c.o
 C_study: CMakeFiles/C_study.dir/KandR/1/1-6.c.o
 C_study: CMakeFiles/C_study.dir/KandR/1/1-8.c.o
 C_study: CMakeFiles/C_study.dir/KandR/1/1-9.c.o
-C_study: CMakeFiles/C_study.dir/KandR/1/hello.c.o
-C_study: CMakeFiles/C_study.dir/KandR/1/print_logest_line.c.o
-C_study: CMakeFiles/C_study.dir/KandR/1/temp-float.c.o
-C_study: CMakeFiles/C_study.dir/KandR/1/temp.c.o
-C_study: CMakeFiles/C_study.dir/KandR/1/temp2.c.o
+C_study: CMakeFiles/C_study.dir/KandR/sample/hello.c.o
+C_study: CMakeFiles/C_study.dir/KandR/sample/print_logest_line.c.o
+C_study: CMakeFiles/C_study.dir/KandR/sample/temp-float.c.o
+C_study: CMakeFiles/C_study.dir/KandR/sample/temp.c.o
+C_study: CMakeFiles/C_study.dir/KandR/sample/temp2.c.o
 C_study: CMakeFiles/C_study.dir/KandR/2/2-2.c.o
 C_study: CMakeFiles/C_study.dir/KandR/2/2-3.c.o
+C_study: CMakeFiles/C_study.dir/KandR/sample/strindex.c.o
 C_study: CMakeFiles/C_study.dir/build.make
 C_study: CMakeFiles/C_study.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Linking C executable C_study"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking C executable C_study"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/C_study.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
