@@ -1,3 +1,0 @@
-/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/MasatoraAtarashi/environment/C-study/cmake-build-debug/CMakeFiles/C_study.dir
