@@ -2,7 +2,7 @@
 #define MAXLINE 1000
 
 int get_line(char s[], int lim);
-void strcat_ori(char s[], char t[]);
+void strcat_ori(char *s, char *t);
 
 int main()
 {
@@ -11,6 +11,7 @@ int main()
     while (get_line(line, MAXLINE) > 0) {
         get_line(line2, MAXLINE);
         strcat_ori(line, line2);
+        printf("line: %s", line);
     }
 
     return 0;
@@ -30,15 +31,11 @@ int get_line(char s[], int lim)
     return i;
 }
 
-void strcat_ori(char s[], char t[])
+void strcat_ori(char *s, char *t)
 {
-    int i, j;
-
-    i = j = 0;
-    while (s[i] != '\0')
-        i++;
-    s[--i] = '\0';
-    while ((s[i++] = t[j++]) != '\0')
+    while (*s)
+        s++;
+    *--s = '\0';
+    while (*s++ = *t++)
         ;
-    printf("line: %s", s);
 }
