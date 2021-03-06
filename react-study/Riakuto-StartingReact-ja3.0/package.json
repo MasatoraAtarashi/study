@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/react": "^17.0.0",
+    "react": "^17.0.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0"
+  },
+  "name": "Riakuto-StartingReact-ja3.0"
+}
