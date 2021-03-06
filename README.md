@@ -6,7 +6,7 @@
 - courseraのSQLコース
 
 # React
-- りあクト！
+- りあクト！1~3
 
 # linux
 - ubuntuのスクリプトを読む
