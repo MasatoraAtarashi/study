@@ -6,12 +6,14 @@
 - Go
   - [x] A Tour of Go  
 - Ruby
+  - [x] プロを目指す人のためのRuby入門
 
 ## Web
+- [x] Webを支える技術
 - Ruby on Rails
   - [x] Railsチュートリアル
-  - [ ] 
   - [ ] Railsガイド
+  - [x] パーフェクトRuby on Rails
 - React
   - [ ] りあクト！
     - [x] 1
@@ -36,22 +38,40 @@
 
 ## Low Layer
 - CPU
+  - [ ] コンピュータの構成と設計
+    - [x] 上
+    - [ ] 下
   - [x] プロセッサを支える技術 
 ## Cloud
 - AWS
+  - [x] Amazon Web Services 基礎からのネットワーク&サーバー構築
+  - [x] ゼロからわかるAmazon Web Service
 - GCP
 
 ## Database
+- [x] 達人に学ぶDB設計徹底指南書
 - SQL
   - [x] courseraのSQLコース
+  - [x] SQL ゼロからはじめるデータベース操作 
 ## Networking
 - [x] マスタリングTCP/IP 入門編
 
 ## Security
 ## Machine Learning
+- [ ] [Python機械学習プログラミング](url)
+- [x] [すぐに使える! 業務で実践できる! PythonによるAI・機械学習・深層学習アプリの作り方](url)
 - 数学
-
+  - [x] あ
+  - [x] 大学基礎数学 線形代数 
+  - [x] 線形代数 キャンパス・ゼミ
+  - [ ] 大学基礎数学 確立統計
+  - [ ] 統計学 キャンパス・ゼミ
+  - [ ] 大学基礎数学 確立統計
+  - [ ] 統計学 キャンパス・ゼミ
 ## Data Structure and Algorithm
+- [x] アルゴリズム図鑑
+- [ ] アルゴリズムとデータ構造
+
 ## Programming
 - [x] リーダブルコード
 
