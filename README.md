@@ -4,42 +4,59 @@
   - [x] [プログラミング言語C第二版](https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9EC-%E7%AC%AC2%E7%89%88-ANSI%E8%A6%8F%E6%A0%BC%E6%BA%96%E6%8B%A0-B-W-%E3%82%AB%E3%83%BC%E3%83%8B%E3%83%8F%E3%83%B3-ebook/dp/B084SXSPDN/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9EC&qid=1612798520&sr=8-1)
   - [ ] ~~新・明解C言語入門編~~
 - Go
-  - [x] A Tour of Go  
+  - [x] [A Tour of Go ](url) 
 - Ruby
-  - [x] プロを目指す人のためのRuby入門
+  - [x] [プロを目指す人のためのRuby入門](url)
   - [ ] メタプログラミングRuby
+  - [ ] Effective Ruby
 
 ## Web
 - [x] Webを支える技術
+- [ ] WebAPI The Good Parts
+  - [x] 1
+  - [x] 2
+  - [x] 3
+  - [ ] 4以降
+- [ ] [Webエンジニアが知っておきたいインフラの基本](url)
+- [ ] Nginx実践入門
 - Ruby on Rails
-  - [x] Railsチュートリアル
-  - [x] パーフェクトRuby on Rails
-  - [x] Everyday Rails - RSpecによるRailsテスト入門
-  - [x] 使えるRSpec入門 1〜4
+  - [x] [Railsチュートリアル](url)
+  - [x] [パーフェクトRuby on Rails](url)
+  - [x] [Everyday Rails - RSpecによるRailsテスト入門](url)
+  - [x] [使えるRSpec入門 1〜4](url)
   - [ ] Railsガイド
+    - [x] はじめに
+    - [ ] モデル
+    - [ ] ビュー
+    - [ ] コントローラ
+    - [ ] その他
 - React
-  - [x] Reactチュートリアル
-  - [ ] りあクト！
+  - [x] [Reactチュートリアル](url)
+  - [ ] [りあクト！](url)
     - [x] 1
     - [x] 2
     - [ ] 3
 - Go
-  - [ ] a
+  - [x] [GoでISUCONパフォーマンスチューニング ](url)
 
 ## 仮想化
 - [x] おうちで学べる仮想化の基本
 - Docker
+  - [x] マンガでわかるDocker
   - [x] Docker実践ガイド
   - [x] Docker/Kubernetes実践コンテナ開発入門
+- エミュレータ
+  - [ ] 自作エミュレータで学ぶx86アーキテクチャ　コンピュータが動く仕組みを徹底理解！
 
 ## OS
-- [ ] モダンオペレーティングシステム
+- [ ] 30日でできる! OS自作入門
+- [ ] [モダンオペレーティングシステム](url)
   - [x] 1
   - [x] 2
   - [ ] 3章以降
 - [ ] 入門UNIXシェルプログラミング
 - linux
-  - [x] Linux標準教科書 
+  - [x] [Linux標準教科書](url) 
   - [ ] ubuntuのスクリプトを読む
 
 ## Low Layer
@@ -51,9 +68,10 @@
 
 ## Cloud
 - AWS
-  - [x] Amazon Web Services 基礎からのネットワーク&サーバー構築
-  - [x] ゼロからわかるAmazon Web Service
-  - [ ] 
+  - [x] [Amazon Web Services 基礎からのネットワーク&サーバー構築](url)
+  - [x] [ゼロからわかるAmazon Web Service](url)
+  - [x] [AWS Hands-on for Beginners 〜スケーラブルウェブサイト構築編〜](https://pages.awscloud.com/event_JAPAN_Hands-on-for-Beginners-Scalable_Contents.html)
+  - [x] [AWS Well-Architected Frameworkハンズオン](https://www.wellarchitectedlabs.com/reliability/300_labs/300_testing_for_resiliency_of_ec2_rds_and_s3/)
 - GCP
 
 ## Database
@@ -70,6 +88,10 @@
 - [ ] Linuxサーバーセキュリティ徹底入門
 - [ ] 体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 脆弱性が生まれる原理と対策の実践
 - [ ] 暗号技術入門
+
+## 開発手法
+- [x] [スクラムガイド](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Japanese.pdf)
+- [x] [アジャイルソフトウェア開発宣言](https://agilemanifesto.org/iso/ja/manifesto.html)
 
 ## Machine Learning
 - [x] [Coursera Machine Learning course](url)
@@ -93,22 +115,27 @@
   - [x] 統計学 キャンパス・ゼミ
 
 ## Data Structure and Algorithm
-- [x] アルゴリズム図鑑
+- [x] [アルゴリズム図鑑](url)
 - [ ] アルゴリズムとデータ構造
+- [ ] 世界で闘うプログラミング力を鍛える本 -コーディング面接189問とその解法-
 
 ## Programming
-- [x] リーダブルコード
+- [x] [リーダブルコード](url)
 
 ## DevOps
 - Kubernetes
-  - [x] Kubernetesチュートリアル
+  - [x] [Kubernetesチュートリアル](url)
 - CircleCI
+
+## Authentication
+- [ ] OAuth徹底入門
+
 ## Mobile
 - iOS
-  - [x] Udemy iOSアプリ開発講座
+  - [x] [Udemy iOSアプリ開発講座](url)
 
 ## デザイン
-- [x] なるほどデザイン
+- [x] [なるほどデザイン](url)
 - [x] [Figma入門](https://note.com/fjkn/m/m9829c621e025)
 
 ## Data Science
@@ -116,3 +143,8 @@
 ## Make and Distribute Some Package/Library
 - [x] [gem作成](url)
 - [x] [OSS contribute](url)
+
+## Others
+- [x] [Moneyforward Tech Book](url)
+- [ ] ABEMA Tech Book
+- [x] [Wantedly Tech Book](url)
