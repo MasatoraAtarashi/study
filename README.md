@@ -5,19 +5,29 @@
   - [ ] ~~新・明解C言語入門編~~
 
 ## Web
-
+- Ruby on Rails
+- React
+  - [ ] りあクト！
+    - [x] 1
+    - [x] 2
+    - [ ] 3
 ## 仮想化
 ## OS
-# SQL
-- courseraのSQLコース
+- モダンオペレーティングシステム
+  - [ ] 1
+  - [ ] 2
+  - [ ] 3
+  - [ ] 4
+  - [ ] 5
+- linux
+  - [ ] ubuntuのスクリプトを読む
 
-# React
-- りあクト！1~3
 
-# linux
-- ubuntuのスクリプトを読む
+
 
 ## Database
+- SQL
+  - [ ] courseraのSQLコース
 ## Networking
 ## Security
 Make and Distribute Some Package/Library
