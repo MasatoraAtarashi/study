@@ -5,6 +5,7 @@
   - [ ] ~~新・明解C言語入門編~~
 - Go
   - [x] [A Tour of Go ](url) 
+  - [ ] プログラミング言語Go完全入門
 - Ruby
   - [x] [プロを目指す人のためのRuby入門](url)
   - [ ] メタプログラミングRuby
@@ -38,6 +39,10 @@
     - [ ] 3
 - Go
   - [x] [GoでISUCONパフォーマンスチューニング ](url)
+  - [ ] オンライン版　CA Tech Dojo サーバサイド (Go)編
+  - [ ] [Go Webプログラミング](https://astaxie.gitbooks.io/build-web-application-with-golang/content/ja/index.html)
+  - [ ] Go言語によるWebアプリケーション開発
+
 
 ## 仮想化
 - [x] おうちで学べる仮想化の基本
@@ -80,6 +85,8 @@
   - [x] [courseraのSQLコース](url)
   - [x] [SQL ゼロからはじめるデータベース操作](url)
   - [ ] SQLアンチパターン
+- MongoDB
+  - [ ] MongoDBの薄い本
 
 ## Networking
 - [x] マスタリングTCP/IP 入門編
@@ -122,6 +129,10 @@
 ## Programming
 - [x] [リーダブルコード](url)
 
+## Architecture
+- マイクロサービスアーキテクチャ
+  - [ ] マイクロサービスアーキテクチャ
+
 ## DevOps
 - Kubernetes
   - [x] [Kubernetesチュートリアル](url)
@@ -133,6 +144,10 @@
 ## Mobile
 - iOS
   - [x] [Udemy iOSアプリ開発講座](url)
+
+## CDN
+- Akamai
+- [ ] Web配信の技術
 
 ## デザイン
 - [x] [なるほどデザイン](url)
