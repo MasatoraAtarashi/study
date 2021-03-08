@@ -58,16 +58,25 @@
 
 ## Security
 ## Machine Learning
+- [x] [Coursera Machine Learning course](url)
+- [x] [Coursera Deep Learning course](url)
+- [x] [Udacity Machine Learning course](url)
 - [ ] [Python機械学習プログラミング](url)
 - [x] [すぐに使える! 業務で実践できる! PythonによるAI・機械学習・深層学習アプリの作り方](url)
 - 数学
-  - [x] あ
+  - [x] 中学3年間の数学を8時間でやり直す本
+  - [x] 初めから始める数学1・A Part1
+  - [x] 初めから始める数学1・A Part2
+  - [x] 初めから始める数学2・B Part1
+  - [x] 初めから始める数学2・B Part2
+  - [x] 初めから始める数学3・C Part1
+  - [x] 初めから始める数学3・C Part2
   - [x] 大学基礎数学 線形代数 
   - [x] 線形代数 キャンパス・ゼミ
-  - [ ] 大学基礎数学 確立統計
-  - [ ] 統計学 キャンパス・ゼミ
-  - [ ] 大学基礎数学 確立統計
-  - [ ] 統計学 キャンパス・ゼミ
+  - [x] 大学基礎数学 確立統計
+  - [x] 統計学 キャンパス・ゼミ
+  - [x] 大学基礎数学 確立統計
+  - [x] 統計学 キャンパス・ゼミ
 ## Data Structure and Algorithm
 - [x] アルゴリズム図鑑
 - [ ] アルゴリズムとデータ構造
