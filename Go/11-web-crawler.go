@@ -12,11 +12,11 @@ type SafeFetcher struct {
 
 func (f *SafeFetcher) Fetched(url string) bool {
 	f.mu.Lock()
+	defer f.mu.Unlock()
 	_, exist := f.fetched_urls[url]
 	if !exist {
 		f.fetched_urls[url] = true
 	}
-	defer f.mu.Unlock()
 	return exist
 }
 
@@ -30,17 +30,18 @@ type Fetcher interface {
 
 // Crawl uses fetcher to recursively crawl
 // pages starting with url, to a maximum of depth.
-func Crawl(url string, depth int, fetcher Fetcher) {
+func Crawl(url string, depth int, fetcher Fetcher, wg *sync.WaitGroup) {
 	// TODO: Fetch URLs in parallel.
 	// TODO: Don't fetch the same URL twice.
 	// This implementation doesn't do either:
+	defer wg.Done()
 	if depth <= 0 {
 		return
 	}
-	body, urls, err := fetcher.Fetch(url)
 	if safe_fetcher.Fetched(url) {
 		return
 	}
+	body, urls, err := fetcher.Fetch(url)
 	if err != nil {
 		fmt.Println(err)
 		return
@@ -48,13 +49,17 @@ func Crawl(url string, depth int, fetcher Fetcher) {
 	fmt.Printf("found: %s %q\n", url, body)
 	fmt.Println(depth)
 	for _, u := range urls {
-		Crawl(u, depth-1, fetcher)
+		wg.Add(1)
+		go Crawl(u, depth-1, fetcher, wg)
 	}
 	return
 }
 
 func main() {
-	Crawl("https://golang.org/", 4, fetcher)
+	var wg sync.WaitGroup
+	wg.Add(1)
+	Crawl("https://golang.org/", 4, fetcher, &wg)
+	wg.Wait()
 }
 
 // fakeFetcher is Fetcher that returns canned results.
