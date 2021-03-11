@@ -38,18 +38,17 @@
     - [x] 2
     - [ ] 3
 - Go
+  - [x] [Goプログラミング実践入門 標準ライブラリでゼロからWebアプリを作る](url)
   - [x] [GoでISUCONパフォーマンスチューニング ](url)
   - [ ] オンライン版　CA Tech Dojo サーバサイド (Go)編
-  - [ ] [Go Webプログラミング](https://astaxie.gitbooks.io/build-web-application-with-golang/content/ja/index.html)
-  - [ ] Go言語によるWebアプリケーション開発
 
 
 ## 仮想化
-- [x] おうちで学べる仮想化の基本
+- [x] [おうちで学べる仮想化の基本](url)
 - Docker
-  - [x] マンガでわかるDocker
-  - [x] Docker実践ガイド
-  - [x] Docker/Kubernetes実践コンテナ開発入門
+  - [x] [マンガでわかるDocker](url)
+  - [x] [Docker実践ガイド](url)
+  - [x] [Docker/Kubernetes実践コンテナ開発入門](url)
 - エミュレータ
   - [ ] 自作エミュレータで学ぶx86アーキテクチャ　コンピュータが動く仕組みを徹底理解！
 
@@ -89,7 +88,7 @@
   - [ ] MongoDBの薄い本
 
 ## Networking
-- [x] マスタリングTCP/IP 入門編
+- [x] [マスタリングTCP/IP 入門編](url)
 
 ## Security
 - [ ] Linuxサーバーセキュリティ徹底入門
@@ -161,5 +160,5 @@
 
 ## Others
 - [x] [Moneyforward Tech Book](url)
-- [ ] ABEMA Tech Book
+- [x] [ABEMA Tech Book](url)
 - [x] [Wantedly Tech Book](url)
