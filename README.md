@@ -12,8 +12,8 @@
   - [ ] Effective Ruby
 
 ## Web
-- [x] Webを支える技術
-- [ ] WebAPI The Good Parts
+- [x] [Webを支える技術](url)
+- [ ] [WebAPI The Good Parts](url)
   - [x] 1
   - [x] 2
   - [x] 3
@@ -38,7 +38,7 @@
     - [x] 2
     - [ ] 3
 - Go
-  - [x] [Goプログラミング実践入門 標準ライブラリでゼロからWebアプリを作る](url)
+  - [] [Goプログラミング実践入門 標準ライブラリでゼロからWebアプリを作る](url)
   - [x] [GoでISUCONパフォーマンスチューニング ](url)
   - [ ] オンライン版　CA Tech Dojo サーバサイド (Go)編
 
