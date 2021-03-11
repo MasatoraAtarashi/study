@@ -1,0 +1,22 @@
+{
+	"ImportPath": "web",
+	"GoVersion": "go1.16",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/lib/pq",
+			"Comment": "v1.10.0",
+			"Rev": "072e83d238c297c71cab11154695af301010031e"
+		},
+		{
+			"ImportPath": "github.com/lib/pq/oid",
+			"Comment": "v1.10.0",
+			"Rev": "072e83d238c297c71cab11154695af301010031e"
+		},
+		{
+			"ImportPath": "github.com/lib/pq/scram",
+			"Comment": "v1.10.0",
+			"Rev": "072e83d238c297c71cab11154695af301010031e"
+		}
+	]
+}
