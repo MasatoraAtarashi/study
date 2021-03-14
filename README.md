@@ -40,7 +40,7 @@
 - Go
   - [x] [Goプログラミング実践入門 標準ライブラリでゼロからWebアプリを作る](url)
   - [x] [GoでISUCONパフォーマンスチューニング ](url)
-  - [ ] オンライン版　CA Tech Dojo サーバサイド (Go)編
+  - [x] [オンライン版　CA Tech Dojo サーバサイド (Go)編](https://techbowl.co.jp/techtrain/missions/12)
 
 
 ## 仮想化
