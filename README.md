@@ -14,7 +14,7 @@
 ## Web
 - [x] [Webを支える技術](url)
 - [x] [WebAPI The Good Parts](url)
-- [ ] [Webエンジニアが知っておきたいインフラの基本](url)
+- [ ] Webエンジニアが知っておきたいインフラの基本
 - [ ] Nginx実践入門
 - Ruby on Rails
   - [x] [Railsチュートリアル](url)
@@ -63,7 +63,7 @@
 
 ## Low Layer
 - CPU
-  - [ ] コンピュータの構成と設計
+  - [ ] [コンピュータの構成と設計](url)
     - [x] 上
     - [ ] 下
   - [x] [プロセッサを支える技術](url)
