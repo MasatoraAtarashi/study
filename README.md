@@ -13,11 +13,7 @@
 
 ## Web
 - [x] [Webを支える技術](url)
-- [ ] [WebAPI The Good Parts](url)
-  - [x] 1
-  - [x] 2
-  - [x] 3
-  - [ ] 4以降
+- [x] [WebAPI The Good Parts](url)
 - [ ] [Webエンジニアが知っておきたいインフラの基本](url)
 - [ ] Nginx実践入門
 - Ruby on Rails
