@@ -40,7 +40,7 @@
 
 
 ## 仮想化
-- [ ] [ハイパーバイザの作り方～ちゃんと理解する仮想化技術～](url)
+- [x] [ハイパーバイザの作り方～ちゃんと理解する仮想化技術～](http://syuu1228.github.io/howto_implement_hypervisor)
 - [x] [おうちで学べる仮想化の基本](url)
 - Docker
   - [x] [マンガでわかるDocker](url)
