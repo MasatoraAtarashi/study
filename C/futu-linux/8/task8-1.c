@@ -6,21 +6,25 @@
 #define _GNU_SOURCE
 #include <getopt.h>
 
-static void do_grep(regex_t *pat, FILE *f);
+static void do_grep(regex_t *pat, FILE *f, int invert_match);
 
 static struct option longopts[] = {
         {"ignore-case", no_argument, NULL, 'i'},
+        {"invert-match", no_argument, NULL, 'v'},
         {0, 0,0, 0}
 };
 
 int
 main(int argc, char *argv[])
 {
-    int ignore_case, opt;
-    while ((opt = getopt_long(argc, argv, "i", longopts, NULL)) != -1) {
+    int ignore_case, invert_match, opt;
+    while ((opt = getopt_long(argc, argv, "iv", longopts, NULL)) != -1) {
         switch (opt) {
             case 'i':
                 ignore_case = 1;
+                break;
+            case 'v':
+                invert_match = 1;
                 break;
             case '?':
                 fprintf(stderr, "Error: %s", argv[0]);
@@ -52,10 +56,10 @@ main(int argc, char *argv[])
         fprintf(stderr, "Error: %s\n", argv[0]);
         exit(1);
     } else if (argc == (optind+1)) {
-        do_grep(&pat, stdin);
+        do_grep(&pat, stdin, invert_match);
     }
     else {
-        for (i = optind; i < argc; i++) {
+        for (i = optind+1; i < argc; i++) {
             FILE *f;
 
             f = fopen(argv[i], "r");
@@ -63,7 +67,7 @@ main(int argc, char *argv[])
                 perror(argv[i]);
                 exit(1);
             }
-            do_grep(&pat, f);
+            do_grep(&pat, f, invert_match);
             fclose(f);
         }
     }
@@ -72,13 +76,16 @@ main(int argc, char *argv[])
 }
 
 static void
-do_grep(regex_t *pat, FILE *src)
+do_grep(regex_t *pat, FILE *src, int invert_match)
 {
     char buf[4096];
 
     while (fgets(buf, sizeof buf, src)) {
-        if (regexec(pat, buf, 0, NULL, 0) == 0) {
-            fputs(buf, stdout);
+        int f = regexec(pat, buf, 0, NULL, 0);
+        if (invert_match) {
+            if (f != 0) fputs(buf, stdout);
+        } else {
+            if (f == 0) fputs(buf, stdout);
         }
     }
 }
