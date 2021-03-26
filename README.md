@@ -144,7 +144,7 @@
 
 ## Mobile
 - iOS
-  - [x] [Udemy iOSアプリ開発講座](url)
+  - [x] [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 
 ## CDN
 - Akamai
@@ -155,10 +155,6 @@
 - [x] [Figma入門](https://note.com/fjkn/m/m9829c621e025)
 
 ## Data Science
-
-## Make and Distribute Some Package/Library
-- [x] [gem作成](url)
-- [x] [OSS contribute](url)
 
 ## Others
 - [x] [Moneyforward Tech Book](url)
