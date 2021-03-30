@@ -65,7 +65,9 @@
   - [ ] ubuntuのスクリプトを読む
 
 ## Low Layer
-- [ ] [コンピュータシステムの理論と実装](https://www.oreilly.co.jp/books/9784873117126/)
+- [ ] [コンピュータシステムの理論と実装](https://github.com/MasatoraAtarashi/nand2tetris)
+  - [x] ~4章
+  - [ ] 5章以降
 - CPU
   - [ ] [コンピュータの構成と設計](url)
     - [x] 上
