@@ -9,7 +9,9 @@
 - Go
   - [x] [A Tour of Go ](url) 
   - [x] [みんなのGo言語](https://gihyo.jp/book/2019/978-4-297-10727-7)
-  - [ ] プログラミング言語Go完全入門
+  - [ ] [プログラミング言語Go完全入門](https://engineering.mercari.com/blog/entry/goforbeginners/)
+    - [x] ~2
+    - [ ] 3~
   - [ ] Go言語によるWebアプリケーション開発
   - [ ] Go言語による並行処理
   - [ ] Goならわかるシステムプログラミング
