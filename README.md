@@ -166,7 +166,12 @@
 
 ## Data Science
 
-## Others
+## Tech Book
 - [x] [Moneyforward Tech Book](url)
 - [x] [ABEMA Tech Book](url)
 - [x] [Wantedly Tech Book](url)
+
+## Others
+- [x] [ITパスポート試験 対策テキスト&過去問題集 (よくわかるマスター)](https://amzn.to/3t5ZHpA)
+- [ ] [かんたん合格 基本情報技術者教科書](https://amzn.to/2RkyK3I)
+- [ ] [キタミ式イラストIT塾 応用情報技術者](https://amzn.to/2PF3uvT)
