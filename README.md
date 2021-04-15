@@ -92,12 +92,10 @@
 
 ## Database
 - [x] [達人に学ぶDB設計徹底指南書](url)
-- SQL
-  - [x] [courseraのSQLコース](url)
-  - [x] [SQL ゼロからはじめるデータベース操作](url)
-  - [ ] SQLアンチパターン
-- MongoDB
-  - [x] [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf)
+- [x] [courseraのSQLコース](url)
+- [x] [SQL ゼロからはじめるデータベース操作](https://amzn.to/3uNNOoX)
+- [ ] SQLアンチパターン
+- [x] [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf)
 
 ## Networking
 - [x] [マスタリングTCP/IP 入門編](url)
