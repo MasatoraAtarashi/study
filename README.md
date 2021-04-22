@@ -17,6 +17,9 @@
   - [ ] Goならわかるシステムプログラミング
   - [ ] スターティングGo言語
   - [ ] プログラミング言語Go
+- Scala
+  - [ ] [Scala研修テキスト](https://scala-text.github.io/scala_text/)
+  - [ ] [Scala関数型デザイン&プログラミング](https://amzn.to/3gpALpM)
 - Ruby
   - [x] [プロを目指す人のためのRuby入門](url)
   - [ ] メタプログラミングRuby
@@ -137,6 +140,7 @@
 
 ## Programming
 - [x] [リーダブルコード](url)
+- [ ] [関数プログラミング実践入門](https://amzn.to/2P9O81Y)
 
 ## Architecture
 - マイクロサービスアーキテクチャ
