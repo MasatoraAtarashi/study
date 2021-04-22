@@ -118,7 +118,8 @@
 - [x] [Udacity Machine Learning course](url)
 - [ ] Python 機械学習プログラミング 達人データサイエンティストによる理論と実践
 - [x] [すぐに使える! 業務で実践できる! PythonによるAI・機械学習・深層学習アプリの作り方](url)
-- 数学
+
+## 数学
   - [x] [中学3年間の数学を8時間でやり直す本](url)
   - [x] [初めから始める数学1・A Part1](url)
   - [x] [初めから始める数学1・A Part2](url)
@@ -175,5 +176,5 @@
 
 ## Others
 - [x] [ITパスポート試験 対策テキスト&過去問題集 (よくわかるマスター)](https://amzn.to/3t5ZHpA)
-- [ ] [かんたん合格 基本情報技術者教科書](https://amzn.to/2RkyK3I)
-- [ ] [キタミ式イラストIT塾 応用情報技術者](https://amzn.to/2PF3uvT)
+- [x] [かんたん合格 基本情報技術者教科書](https://amzn.to/2RkyK3I)
+- [x] [キタミ式イラストIT塾 応用情報技術者](https://amzn.to/2PF3uvT)
