@@ -1,5 +1,5 @@
 package exercise
 
-class Main {
-
+object Main extends App {
+  println("unko")
 }
