@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/MasatoraAtarashi/environment/study/Scala/scala_text/sandbox/User.scala:4:23: not found: type user[0m
+[0m[[0m[31merror[0m] [0m[0m  def printUser(user: user) = println(user.name + " " + user.age)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
