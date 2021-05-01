@@ -1,0 +1,5 @@
+# Scala研修テキスト
+https://scala-text.github.io/scala_text/
+
+### 練習問題
+- [ ] 1
