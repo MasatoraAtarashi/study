@@ -2,4 +2,4 @@
 https://scala-text.github.io/scala_text/
 
 ### 練習問題
-- [ ] 1
+- [x] Scalaの基本
