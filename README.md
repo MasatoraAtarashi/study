@@ -1,12 +1,25 @@
 # 勉強したこと・しようとしていることの記録
+勉強したやつは青くなってる。しようと思ってるのは白い
+
 ## Language
-- C language
+- C
   - [x] [プログラミング言語C第二版](https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9EC-%E7%AC%AC2%E7%89%88-ANSI%E8%A6%8F%E6%A0%BC%E6%BA%96%E6%8B%A0-B-W-%E3%82%AB%E3%83%BC%E3%83%8B%E3%83%8F%E3%83%B3-ebook/dp/B084SXSPDN/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9EC&qid=1612798520&sr=8-1)
-  - [ ] [ふつうのLinuxプログラミング]()
+  - [x] [ふつうのLinuxプログラミング]()
   - [ ] ~~新・明解C言語入門編~~
 - Go
-  - [x] [A Tour of Go ](url) 
-  - [ ] プログラミング言語Go完全入門
+  - [x] [A Tour of Go](url) 
+  - [x] [みんなのGo言語](https://gihyo.jp/book/2019/978-4-297-10727-7)
+  - [ ] [プログラミング言語Go完全入門](https://engineering.mercari.com/blog/entry/goforbeginners/)
+    - [x] ~2
+    - [ ] 3~
+  - [ ] Go言語によるWebアプリケーション開発
+  - [ ] Go言語による並行処理
+  - [ ] Goならわかるシステムプログラミング
+  - [ ] スターティングGo言語
+  - [ ] プログラミング言語Go
+- Scala
+  - [ ] [Scala研修テキスト](https://scala-text.github.io/scala_text/)
+  - [ ] [Scala関数型デザイン&プログラミング](https://amzn.to/3gpALpM)
 - Ruby
   - [x] [プロを目指す人のためのRuby入門](url)
   - [ ] メタプログラミングRuby
@@ -58,16 +71,17 @@
   - [x] 2
   - [ ] 3章以降
 - [ ] 入門UNIXシェルプログラミング
-- linux
-  - [x] [Linux標準教科書](url) 
-  - [ ] ubuntuのスクリプトを読む
+- [x] [Linux標準教科書](url) 
+- [ ] ubuntuのスクリプトを読む
 
 ## Low Layer
-- CPU
-  - [ ] [コンピュータの構成と設計](url)
-    - [x] 上
-    - [ ] 下
-  - [x] [プロセッサを支える技術](url)
+- [ ] [コンピュータシステムの理論と実装](https://github.com/MasatoraAtarashi/nand2tetris)
+  - [x] ~4章
+  - [ ] 5章以降
+- [ ] [コンピュータの構成と設計](url)
+  - [x] 上
+  - [ ] 下
+- [x] [プロセッサを支える技術](url)
 
 ## Cloud
 - AWS
@@ -79,12 +93,10 @@
 
 ## Database
 - [x] [達人に学ぶDB設計徹底指南書](url)
-- SQL
-  - [x] [courseraのSQLコース](url)
-  - [x] [SQL ゼロからはじめるデータベース操作](url)
-  - [ ] SQLアンチパターン
-- MongoDB
-  - [x] [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf)
+- [x] [courseraのSQLコース](url)
+- [x] [SQL ゼロからはじめるデータベース操作](https://amzn.to/3uNNOoX)
+- [ ] SQLアンチパターン
+- [x] [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf)
 
 ## Networking
 - [x] [マスタリングTCP/IP 入門編](url)
@@ -104,7 +116,8 @@
 - [x] [Udacity Machine Learning course](url)
 - [ ] Python 機械学習プログラミング 達人データサイエンティストによる理論と実践
 - [x] [すぐに使える! 業務で実践できる! PythonによるAI・機械学習・深層学習アプリの作り方](url)
-- 数学
+
+## 数学
   - [x] [中学3年間の数学を8時間でやり直す本](url)
   - [x] [初めから始める数学1・A Part1](url)
   - [x] [初めから始める数学1・A Part2](url)
@@ -126,10 +139,11 @@
 
 ## Programming
 - [x] [リーダブルコード](url)
+- [ ] [関数プログラミング実践入門](https://amzn.to/2P9O81Y)
+- [ ] なぜ関数プログラミングは重要か
 
 ## Architecture
-- マイクロサービスアーキテクチャ
-  - [ ] マイクロサービスアーキテクチャ
+- [ ] マイクロサービスアーキテクチャ
 
 ## DevOps
 - Kubernetes
@@ -140,11 +154,9 @@
 - [ ] OAuth徹底入門
 
 ## Mobile
-- iOS
-  - [x] [Udemy iOSアプリ開発講座](url)
+- [x] [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 
 ## CDN
-- Akamai
 - [ ] Web配信の技術
 
 ## デザイン
@@ -153,11 +165,12 @@
 
 ## Data Science
 
-## Make and Distribute Some Package/Library
-- [x] [gem作成](url)
-- [x] [OSS contribute](url)
-
-## Others
+## Tech Book
 - [x] [Moneyforward Tech Book](url)
 - [x] [ABEMA Tech Book](url)
 - [x] [Wantedly Tech Book](url)
+
+## Others
+- [x] [ITパスポート試験 対策テキスト&過去問題集 (よくわかるマスター)](https://amzn.to/3t5ZHpA)
+- [x] [かんたん合格 基本情報技術者教科書](https://amzn.to/2RkyK3I)
+- [x] [キタミ式イラストIT塾 応用情報技術者](https://amzn.to/2PF3uvT)
