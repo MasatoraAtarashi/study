@@ -24,6 +24,8 @@
   - [x] [プロを目指す人のためのRuby入門](url)
   - [ ] メタプログラミングRuby
   - [ ] Effective Ruby
+- java
+  - [ ] スッキリわかるJava入門
 
 ## Web
 - [x] [Webを支える技術](url)
@@ -53,19 +55,20 @@
   - [x] [GoでISUCONパフォーマンスチューニング ](url)
   - [x] [オンライン版　CA Tech Dojo サーバサイド (Go)編](https://techbowl.co.jp/techtrain/missions/12)
 
+## データベース
+- [x] [達人に学ぶDB設計徹底指南書](url)
+- [x] [courseraのSQLコース](url)
+- [x] [SQL ゼロからはじめるデータベース操作](https://amzn.to/3uNNOoX)
+- [ ] SQLアンチパターン
+- [x] [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf)
 
-## 仮想化
+## システムソフトウェアとオペレーティング・システム
+- [ ] ゼロからのOS自作入門
 - [x] [ハイパーバイザの作り方～ちゃんと理解する仮想化技術～](http://syuu1228.github.io/howto_implement_hypervisor)
 - [x] [おうちで学べる仮想化の基本](url)
-- Docker
-  - [x] [マンガでわかるDocker](url)
-  - [x] [Docker実践ガイド](url)
-  - [x] [Docker/Kubernetes実践コンテナ開発入門](url)
-- エミュレータ
-  - [x] [自作エミュレータで学ぶx86アーキテクチャ　コンピュータが動く仕組みを徹底理解！](url)
-
-## OS
-- [ ] 30日でできる! OS自作入門
+- [x] [マンガでわかるDocker](url)
+- [x] [Docker実践ガイド](url)
+- [x] [Docker/Kubernetes実践コンテナ開発入門](url)
 - [ ] [モダンオペレーティングシステム](url)
   - [x] 1
   - [x] 2
@@ -74,7 +77,7 @@
 - [x] [Linux標準教科書](url) 
 - [ ] ubuntuのスクリプトを読む
 
-## Low Layer
+## システム・アーキテクチャ
 - [ ] [コンピュータシステムの理論と実装](https://github.com/MasatoraAtarashi/nand2tetris)
   - [x] ~4章
   - [ ] 5章以降
@@ -82,6 +85,35 @@
   - [x] 上
   - [ ] 下
 - [x] [プロセッサを支える技術](url)
+- [x] [自作エミュレータで学ぶx86アーキテクチャ　コンピュータが動く仕組みを徹底理解！](url)
+- [ ] GPUを支える技術
+- [ ] はじめて読む485
+- [ ] CPUの創り方
+
+## プログラミング
+- [x] [リーダブルコード](url)
+- [ ] [関数プログラミング実践入門](https://amzn.to/2P9O81Y)
+- [ ] なぜ関数プログラミングは重要か
+
+## アルゴリズム
+- [x] [アルゴリズム図鑑](url)
+- [ ] アルゴリズムとデータ構造
+- [ ] 世界で闘うプログラミング力を鍛える本 -コーディング面接189問とその解法-
+
+## ネットワーク
+- [x] [マスタリングTCP/IP 入門編](url)
+- [ ] ネットワークはなぜつながるのか
+- [ ] プロフェッショナルIPv6
+
+## セキュリティ
+- [ ] Linuxサーバーセキュリティ徹底入門
+- [ ] 体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 脆弱性が生まれる原理と対策の実践
+- [ ] 暗号技術入門
+
+## ソフトウェア工学
+- [ ] マイクロサービスアーキテクチャ
+- [x] [スクラムガイド](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Japanese.pdf)
+- [x] [アジャイルソフトウェア開発宣言](https://agilemanifesto.org/iso/ja/manifesto.html)
 
 ## Cloud
 - AWS
@@ -91,24 +123,6 @@
   - [x] [AWS Well-Architected Frameworkハンズオン](https://www.wellarchitectedlabs.com/reliability/300_labs/300_testing_for_resiliency_of_ec2_rds_and_s3/)
 - GCP
 
-## Database
-- [x] [達人に学ぶDB設計徹底指南書](url)
-- [x] [courseraのSQLコース](url)
-- [x] [SQL ゼロからはじめるデータベース操作](https://amzn.to/3uNNOoX)
-- [ ] SQLアンチパターン
-- [x] [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf)
-
-## Networking
-- [x] [マスタリングTCP/IP 入門編](url)
-
-## Security
-- [ ] Linuxサーバーセキュリティ徹底入門
-- [ ] 体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 脆弱性が生まれる原理と対策の実践
-- [ ] 暗号技術入門
-
-## 開発手法
-- [x] [スクラムガイド](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Japanese.pdf)
-- [x] [アジャイルソフトウェア開発宣言](https://agilemanifesto.org/iso/ja/manifesto.html)
 
 ## Machine Learning
 - [x] [Coursera Machine Learning course](url)
@@ -132,18 +146,6 @@
   - [x] [大学基礎数学 確立統計](url)
   - [x] [統計学 キャンパス・ゼミ](url)
 
-## Data Structure and Algorithm
-- [x] [アルゴリズム図鑑](url)
-- [ ] アルゴリズムとデータ構造
-- [ ] 世界で闘うプログラミング力を鍛える本 -コーディング面接189問とその解法-
-
-## Programming
-- [x] [リーダブルコード](url)
-- [ ] [関数プログラミング実践入門](https://amzn.to/2P9O81Y)
-- [ ] なぜ関数プログラミングは重要か
-
-## Architecture
-- [ ] マイクロサービスアーキテクチャ
 
 ## DevOps
 - Kubernetes
