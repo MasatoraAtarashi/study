@@ -19,7 +19,9 @@
   - [ ] プログラミング言語Go
 - Scala
   - [ ] [Scala研修テキスト](https://scala-text.github.io/scala_text/)
+    - [x] ~Scalaの制御構文
   - [ ] [Scala関数型デザイン&プログラミング](https://amzn.to/3gpALpM)
+  - [ ] 実践Scala入門
 - Ruby
   - [x] [プロを目指す人のためのRuby入門](url)
   - [ ] メタプログラミングRuby
