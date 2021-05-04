@@ -77,6 +77,7 @@
   - [ ] 3章以降
 - [ ] 入門UNIXシェルプログラミング
 - [x] [Linux標準教科書](url) 
+- [ ] 詳解LINUXカーネル
 - [ ] ubuntuのスクリプトを読む
 
 ## システム・アーキテクチャ
@@ -95,6 +96,7 @@
 ## プログラミング
 - [x] [リーダブルコード](url)
 - [ ] [関数プログラミング実践入門](https://amzn.to/2P9O81Y)
+  - [x] ~3
 - [ ] なぜ関数プログラミングは重要か
 
 ## アルゴリズム
@@ -106,34 +108,37 @@
 - [x] [マスタリングTCP/IP 入門編](url)
 - [ ] ネットワークはなぜつながるのか
 - [ ] プロフェッショナルIPv6
+- [ ] 徹底攻略 ネットワークスペシャリスト
 
 ## セキュリティ
 - [ ] Linuxサーバーセキュリティ徹底入門
 - [ ] 体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 脆弱性が生まれる原理と対策の実践
 - [ ] 暗号技術入門
+- [x] [情報処理教科書 出るとこだけ！情報セキュリティマネジメント](https://amzn.to/2PKSL2S)
 
 ## ソフトウェア工学
 - [ ] マイクロサービスアーキテクチャ
 - [x] [スクラムガイド](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Japanese.pdf)
 - [x] [アジャイルソフトウェア開発宣言](https://agilemanifesto.org/iso/ja/manifesto.html)
+- [ ] アジャイルサムライ
 
-## Cloud
+## その他
+- [x] [Kubernetesチュートリアル](url)
+- [ ] OAuth徹底入門
+- [x] [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
+- [ ] Web配信の技術
 - AWS
   - [x] [Amazon Web Services 基礎からのネットワーク&サーバー構築](url)
   - [x] [ゼロからわかるAmazon Web Service](url)
   - [x] [AWS Hands-on for Beginners 〜スケーラブルウェブサイト構築編〜](https://pages.awscloud.com/event_JAPAN_Hands-on-for-Beginners-Scalable_Contents.html)
   - [x] [AWS Well-Architected Frameworkハンズオン](https://www.wellarchitectedlabs.com/reliability/300_labs/300_testing_for_resiliency_of_ec2_rds_and_s3/)
-- GCP
-
-
-## Machine Learning
-- [x] [Coursera Machine Learning course](url)
-- [x] [Coursera Deep Learning course](url)
-- [x] [Udacity Machine Learning course](url)
-- [ ] Python 機械学習プログラミング 達人データサイエンティストによる理論と実践
-- [x] [すぐに使える! 業務で実践できる! PythonによるAI・機械学習・深層学習アプリの作り方](url)
-
-## 数学
+- Machine Learning
+  - [x] [Coursera Machine Learning course](url)
+  - [x] [Coursera Deep Learning course](url)
+  - [x] [Udacity Machine Learning course](url)
+  - [ ] Python 機械学習プログラミング 達人データサイエンティストによる理論と実践
+  - [x] [すぐに使える! 業務で実践できる! PythonによるAI・機械学習・深層学習アプリの作り方](url)
+- 数学
   - [x] [中学3年間の数学を8時間でやり直す本](url)
   - [x] [初めから始める数学1・A Part1](url)
   - [x] [初めから始める数学1・A Part2](url)
@@ -147,34 +152,14 @@
   - [x] [統計学 キャンパス・ゼミ](url)
   - [x] [大学基礎数学 確立統計](url)
   - [x] [統計学 キャンパス・ゼミ](url)
-
-
-## DevOps
-- Kubernetes
-  - [x] [Kubernetesチュートリアル](url)
-- CircleCI
-
-## Authentication
-- [ ] OAuth徹底入門
-
-## Mobile
-- [x] [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
-
-## CDN
-- [ ] Web配信の技術
-
-## デザイン
-- [x] [なるほどデザイン](url)
-- [x] [Figma入門](https://note.com/fjkn/m/m9829c621e025)
-
-## Data Science
-
-## Tech Book
-- [x] [Moneyforward Tech Book](url)
-- [x] [ABEMA Tech Book](url)
-- [x] [Wantedly Tech Book](url)
-
-## Others
-- [x] [ITパスポート試験 対策テキスト&過去問題集 (よくわかるマスター)](https://amzn.to/3t5ZHpA)
-- [x] [かんたん合格 基本情報技術者教科書](https://amzn.to/2RkyK3I)
-- [x] [キタミ式イラストIT塾 応用情報技術者](https://amzn.to/2PF3uvT)
+- デザイン
+  - [x] [なるほどデザイン](url)
+  - [x] [Figma入門](https://note.com/fjkn/m/m9829c621e025)
+- Tech Book
+  - [x] [Moneyforward Tech Book](url)
+  - [x] [ABEMA Tech Book](url)
+  - [x] [Wantedly Tech Book](url)
+- 資格
+  - [x] [ITパスポート試験 対策テキスト&過去問題集 (よくわかるマスター)](https://amzn.to/3t5ZHpA)
+  - [x] [かんたん合格 基本情報技術者教科書](https://amzn.to/2RkyK3I)
+  - [x] [キタミ式イラストIT塾 応用情報技術者](https://amzn.to/2PF3uvT)
