@@ -22,6 +22,7 @@
     - [x] ~Scalaの制御構文
   - [ ] [Scala関数型デザイン&プログラミング](https://amzn.to/3gpALpM)
   - [ ] 実践Scala入門
+  - [ ] Scalaスケーラブルプログラミング
 - Ruby
   - [x] [プロを目指す人のためのRuby入門](url)
   - [ ] メタプログラミングRuby
