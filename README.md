@@ -99,7 +99,7 @@
 ## プログラミング
 - [x] [リーダブルコード](url)
 - [x] [関数プログラミング実践入門](https://amzn.to/2P9O81Y)
-- [ ] なぜ関数プログラミングは重要か
+- [x] [なぜ関数プログラミングは重要か](https://www.sampou.org/haskell/article/whyfp.html)
 - [ ] Code Reading オープンソースから学ぶソフトウェア開発技法
 
 ## アルゴリズム
