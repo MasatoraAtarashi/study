@@ -19,7 +19,7 @@
   - [ ] プログラミング言語Go
 - Scala
   - [ ] [Scala研修テキスト](https://scala-text.github.io/scala_text/)
-    - [x] ~クラス
+    - [x] ~トレイト
   - [ ] [Scala関数型デザイン&プログラミング](https://amzn.to/3gpALpM)
   - [ ] 実践Scala入門
   - [ ] Scalaスケーラブルプログラミング
