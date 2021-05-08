@@ -5,16 +5,12 @@ abstract class Shape {
  * RectangleとCircleの定義
  */
 
-class Rectangle(val w: Double, val h: Double) extends Shape {
-  override def area: Double = {
-    w * h
-  }
+class Rectangle(val width: Double, val height: Double) extends Shape {
+  override def area: Double = width * height
 }
 
-class Circle(val r: Double) extends Shape {
-  override def area: Double = {
-    r * r * math.Pi
-  }
+class Circle(val radius: Double) extends Shape {
+  override def area: Double = radius * radius * math.Pi
 }
 
 var shape: Shape = new Rectangle(10.0, 20.0)
