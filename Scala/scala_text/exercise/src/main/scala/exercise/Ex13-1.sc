@@ -11,3 +11,11 @@ def withFile[A](filename: String)(f: Source => A): A = {
 def printFile(filename: String): Unit = withFile(filename)(s => s.getLines.foreach(println))
 
 printFile("/Users/MasatoraAtarashi/environment/study/Scala/scala_text/exercise/src/main/scala/exercise/Ex13-1.sc")
+
+/*** 模範解答
+def printFile(filename: String): Unit = {
+  withFile(filename) { file =>
+    file.getLines.foreach(println)
+  }
+}
+***/
