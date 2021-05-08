@@ -8,7 +8,7 @@
   - [x] [新・明解C言語入門編(途中まで)](url)
 - Go
   - [x] [A Tour of Go](url) 
-  - [x] [みんなのGo言語](https://gihyo.jp/book/2019/978-4-297-10727-7)
+  - [] [みんなのGo言語](https://gihyo.jp/book/2019/978-4-297-10727-7)
   - [ ] [プログラミング言語Go完全入門](https://engineering.mercari.com/blog/entry/goforbeginners/)
     - [x] ~2
     - [ ] 3~
@@ -19,7 +19,7 @@
   - [ ] プログラミング言語Go
 - Scala
   - [ ] [Scala研修テキスト](https://scala-text.github.io/scala_text/)
-    - [x] ~Scalaの制御構文
+    - [x] ~クラス
   - [ ] [Scala関数型デザイン&プログラミング](https://amzn.to/3gpALpM)
   - [ ] 実践Scala入門
   - [ ] Scalaスケーラブルプログラミング
@@ -28,7 +28,7 @@
   - [ ] メタプログラミングRuby
   - [ ] Effective Ruby
 - java
-  - [ ] スッキリわかるJava入門
+  - [x] [スッキリわかるJava入門](https://amzn.to/3eyREx3)
 - swift
   - [x] [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 
