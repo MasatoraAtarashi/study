@@ -43,41 +43,25 @@ depth(Branch(10, Branch(20,
     Empty
   ),
   Empty))) == 3
+
+def toList(tree: Tree): List[Int] = tree match {
+  case Empty => Nil
+  case Branch(v, l, r) => toList(l) ++ List(v) ++ toList(r)
 }
+
 // sort
-def sort(tree: Tree): Tree = tree match {
-  case tree: Branch => {
-    val l = tree.left match {
-      case l: Branch => {
-        val r = tree.right match {
-          // B(B, B)
-          case r: Branch => {
-            val max = List(tree.value, l.value, r.value).max
-            val min = List(tree.value, l.value, r.value).min
-            val mid = List(tree.value, l.value, r.value).diff(List(max, min))(0)
-            val new_l = Branch(value = min, left = l.left, right = l.right)
-            val new_r = Branch(value = max, left = r.left, right = r.right)
-            return Branch(value = mid, left = new_l, right = new_r)
-          }
-          // B(B,E)
-          case _ => {
-            val new_l = Branch(value = List(tree.value, l.value).min, left = l.left, right = l.right)
-            return Branch(value = List(tree.value, l.value).max, left = new_l, right = Empty)
-          }
-        }
-      }
-      case _ => {
-        val r = tree.right match {
-          // B(E, B)
-          case r: Branch => {
-            val new_r = Branch(value = List(tree.value, r.value).max, left = r.left, right = r.right)
-            return Branch(value = List(tree.value, r.value).min, left = Empty, right = new_r)
-          }
-          // B(E,E)
-          case _ => return tree
-        }
-      }
+def sort(tree: Tree): Tree = {
+  def fromList(list: List[Int]): Tree = {
+    def insert(value: Int, tree: Tree): Tree = tree match {
+      case Empty => Branch(value, Empty, Empty)
+      case Branch(v, l, r) => {}
+        if (value <= v) {
+          Branch(v, insert(value, l), r)
+        } else Branch(v, l, insert(value, r))
     }
+    list.foldLeft(Empty:Tree)((t, v) => insert(v, t))
   }
-  case _ => Empty
+  fromList(toList(tree))
 }
+sort(tree)
+sort(tree2)
