@@ -17,7 +17,7 @@ max(tree2)
 // min
 def min(tree: Tree): Int = tree match {
   case tree: Branch => List(tree.value, min(tree.left: Tree), min(tree.right: Tree)).min
-  case _ => 100000000
+  case _ => 2^31-1
 }
 min(tree)
 min(tree2)
