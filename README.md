@@ -31,6 +31,8 @@
   - [x] [スッキリわかるJava入門](https://amzn.to/3eyREx3)
 - swift
   - [x] [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
+- Haskell
+  - [ ] すごいHaskellたのしく学ぼう！  
 
 ## Web
 - [x] [Webを支える技術](url)
