@@ -123,6 +123,7 @@
 
 ## ソフトウェア工学
 - [ ] マイクロサービスアーキテクチャ
+- [ ] エリック・エヴァンスのドメイン駆動設計
 - [x] [スクラムガイド](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Japanese.pdf)
 - [x] [アジャイルソフトウェア開発宣言](https://agilemanifesto.org/iso/ja/manifesto.html)
 - [ ] アジャイルサムライ
@@ -174,3 +175,4 @@
   - [x] [ネット広告がわかる 基本キーワード70](https://amzn.to/3f19icI)
   - [ ] ザ・アドテクノロジー
   - [ ] この一冊ですべてわかる広告の基本
+  - [ ] アトリビューション 広告効果の考え方を根底から覆す新手法
