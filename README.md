@@ -32,7 +32,6 @@
   - [x] [スッキリわかるJava入門](https://amzn.to/3eyREx3)
   - [ ] スッキリわかるサーブレット&JSP入門
   - [ ] Gradle User Guide
-  - [x] [詳解Tomcat](https://amzn.to/3p5cpnp)
   - [ ] 『なぜ，あなただけJavaでオブジェクト指向開発ができないのか？』～Javaの壁を克服する実践トレーニング～
   - [ ] Java言語で学ぶデザインパターン入門
 - swift
