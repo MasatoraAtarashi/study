@@ -32,6 +32,7 @@
   - [x] [スッキリわかるJava入門](https://amzn.to/3eyREx3)
   - [x] [スッキリわかるサーブレット&JSP入門](https://amzn.to/3p98tCk)
   - [x] [Gradle User Guide](http://gradle.monochromeroad.com/docs/userguide/userguide.html)
+  - [ ] JUnit実践入門 ── 体系的に学ぶユニットテストの技法
   - [ ] 『なぜ，あなただけJavaでオブジェクト指向開発ができないのか？』～Javaの壁を克服する実践トレーニング～
   - [ ] Java言語で学ぶデザインパターン入門
 - swift
