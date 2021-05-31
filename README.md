@@ -193,3 +193,6 @@
   - [x] [ザ・アドテクノロジー](https://amzn.to/33Y4puV)
   - [ ] この一冊ですべてわかる広告の基本
   - [ ] アトリビューション 広告効果の考え方を根底から覆す新手法
+- エディタ
+  - [ ] [IntelliJ IDEA公式チュートリアル](https://pleiades.io/help/idea/discover-intellij-idea.html#IntelliJ-IDEA-supported-languages) 
+  - [ ] IntelliJ IDEAハンズオン ――基本操作からプロジェクト管理までマスタ
