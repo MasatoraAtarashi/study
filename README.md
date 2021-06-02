@@ -149,6 +149,7 @@
 - [ ] OAuth徹底入門
 - [ ] Web配信の技術
 - [ ] 文字コード超研究
+- [x] [thrift tutorial](https://thrift-tutorial.readthedocs.io/en/latest/index.html)
 - AWS
   - [x] [Amazon Web Services 基礎からのネットワーク&サーバー構築](url)
   - [x] [ゼロからわかるAmazon Web Service](url)
