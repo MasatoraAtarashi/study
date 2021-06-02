@@ -35,6 +35,7 @@
   - [x] [JUnit実践入門 ── 体系的に学ぶユニットテストの技法(直近必要になったとこだけ)](https://amzn.to/3phGoc9)
   - [ ] 『なぜ，あなただけJavaでオブジェクト指向開発ができないのか？』～Javaの壁を克服する実践トレーニング～
   - [ ] Java言語で学ぶデザインパターン入門
+  - [ ] Java言語で学ぶリファクタリング入門
 - swift
   - [x] [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 - Haskell
