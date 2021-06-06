@@ -203,3 +203,5 @@
 - エディタ
   - [ ] [IntelliJ IDEA公式チュートリアル](https://pleiades.io/help/idea/discover-intellij-idea.html#IntelliJ-IDEA-supported-languages) 
   - [ ] IntelliJ IDEAハンズオン ――基本操作からプロジェクト管理までマスタ
+- 電子工作
+  - [ ] これ一冊でできる！ラズベリーパイ超入門
