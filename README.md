@@ -77,6 +77,7 @@
 - [x] [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf)
 
 ## システムソフトウェアとオペレーティング・システム
+- [ ] [Linux Kernel Programming: A comprehensive guide to kernel internals, writing kernel modules, and kernel synchronization](https://amzn.to/3vhizm1)
 - [ ] ゼロからのOS自作入門
 - [x] [ハイパーバイザの作り方～ちゃんと理解する仮想化技術～](http://syuu1228.github.io/howto_implement_hypervisor)
 - [x] [おうちで学べる仮想化の基本](url)
@@ -151,11 +152,13 @@
 - [ ] 知識ゼロから学ぶソフトウェアテスト
 
 ## その他
-- [x] [Kubernetesチュートリアル](url)
 - [ ] OAuth徹底入門
 - [ ] Web配信の技術
 - [ ] 文字コード超研究
 - [x] [thrift tutorial](https://thrift-tutorial.readthedocs.io/en/latest/index.html)
+- Kubernetes
+  - [x] [Kubernetesチュートリアル](url)
+  - [ ] [15Stepで習得 Dockerから入るKubernetes コンテナ開発からK8s本番運用まで](https://amzn.to/3pL0uLQ)
 - AWS
   - [x] [Amazon Web Services 基礎からのネットワーク&サーバー構築](url)
   - [x] [ゼロからわかるAmazon Web Service](url)
