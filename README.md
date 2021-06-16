@@ -159,6 +159,7 @@
 - Kubernetes
   - [x] [Kubernetesチュートリアル](url)
   - [ ] [15Stepで習得 Dockerから入るKubernetes コンテナ開発からK8s本番運用まで](https://amzn.to/3pL0uLQ)
+    - [x] ~6, 10
 - AWS
   - [x] [Amazon Web Services 基礎からのネットワーク&サーバー構築](url)
   - [x] [ゼロからわかるAmazon Web Service](url)
