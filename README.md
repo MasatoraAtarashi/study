@@ -160,6 +160,8 @@
   - [x] [Kubernetesチュートリアル](url)
   - [ ] [15Stepで習得 Dockerから入るKubernetes コンテナ開発からK8s本番運用まで](https://amzn.to/3pL0uLQ)
     - [x] ~6, 10
+  - [ ] Kubernetes完全ガイド 第2版 
+  - [ ] Kubernetes実践ガイド　クラウドネイティブアプリケーションを支える技術
 - AWS
   - [x] [Amazon Web Services 基礎からのネットワーク&サーバー構築](url)
   - [x] [ゼロからわかるAmazon Web Service](url)
@@ -205,7 +207,7 @@
   - [ ] この一冊ですべてわかる広告の基本
   - [x] [アトリビューション 広告効果の考え方を根底から覆す新手法](https://amzn.to/3voab3X)
   - [ ] 図解入門ビジネス ネット広告の基本と仕組みがすべてわかる本
-  - [ ] ネット広告ハンドブック
+  - [ ] [ネット広告ハンドブック](https://amzn.to/3q6iArM)
 - エディタ
   - [ ] [IntelliJ IDEA公式チュートリアル](https://pleiades.io/help/idea/discover-intellij-idea.html#IntelliJ-IDEA-supported-languages) 
   - [ ] IntelliJ IDEAハンズオン ――基本操作からプロジェクト管理までマスタ
