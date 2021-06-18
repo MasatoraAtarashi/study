@@ -159,7 +159,7 @@
 - Kubernetes
   - [x] [Kubernetesチュートリアル](url)
   - [ ] [15Stepで習得 Dockerから入るKubernetes コンテナ開発からK8s本番運用まで](https://amzn.to/3pL0uLQ)
-    - [x] ~6, 10
+    - [x] ~2章, 3章6,7,10,14
   - [ ] Kubernetes完全ガイド 第2版 
   - [ ] Kubernetes実践ガイド　クラウドネイティブアプリケーションを支える技術
 - AWS
