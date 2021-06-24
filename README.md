@@ -75,6 +75,7 @@
 - [x] [SQL ゼロからはじめるデータベース操作](https://amzn.to/3uNNOoX)
 - [ ] SQLアンチパターン
 - [x] [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf)
+- [ ] SQLパズル
 
 ## システムソフトウェアとオペレーティング・システム
 - [ ] [Linux Kernel Programming: A comprehensive guide to kernel internals, writing kernel modules, and kernel synchronization](https://amzn.to/3vhizm1)
