@@ -221,3 +221,4 @@
   - [x] [ラズパイマガジン2021年春号](https://amzn.to/3dta1Cy)
 - メッセージキュー
   - [ ] RabbitMQ Tutorials
+- [ ] Principles and Practices of Interconnection Networks
