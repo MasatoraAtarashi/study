@@ -94,6 +94,7 @@
 - [ ] 最新コンパイラ構成技法
 - [ ] ubuntuのスクリプトを読む
 - [ ] SICP: Structure and Interpretation of Computer Programs
+- [ ] The Art of Computer Systems Performance Analysis
 
 ## システム・アーキテクチャ
 - [ ] [コンピュータシステムの理論と実装](https://github.com/MasatoraAtarashi/nand2tetris)
