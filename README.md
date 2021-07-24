@@ -66,9 +66,11 @@
   - [ ] [りあクト！3](url)
 - Go
   - [x] [Goプログラミング実践入門 標準ライブラリでゼロからWebアプリを作る](url)
-  - [x] [GoでISUCONパフォーマンスチューニング ](url)
   - [x] [オンライン版　CA Tech Dojo サーバサイド (Go)編](https://techbowl.co.jp/techtrain/missions/12)
-
+- パフォーマンス・チューニング
+  - [x] [GoでISUCONパフォーマンスチューニング ](url)
+  - [ ] [Webサービスチューニングコンテスト ISUCONのススメ](https://techbookfest.org/product/4915388672376832?productVariantID=6054344950546432)
+  - [ ] [Software Design (ソフトウェアデザイン) 2021年7月号](https://amzn.to/3y4hf8j)
 ## データベース
 - [x] [達人に学ぶDB設計徹底指南書](url)
 - [x] [courseraのSQLコース](url)
