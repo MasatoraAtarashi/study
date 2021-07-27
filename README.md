@@ -42,6 +42,8 @@
   - [x] [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 - Haskell
   - [ ] すごいHaskellたのしく学ぼう！  
+- JavaScript
+  - [ ] [JavaScript Primer 迷わないための入門書](https://jsprimer.net/)
 
 ## Web
 - [x] [Webを支える技術](url)
@@ -49,7 +51,7 @@
 - [ ] この一冊で全部わかるWeb技術の基本
 - [ ] Webエンジニアが知っておきたいインフラの基本
 - [ ] Nginx実践入門
-- [ ] ISUCONのススメ
+- [ ] 初めてのGraphQL ―Webサービスを作って学ぶ新世代API
 - Ruby on Rails
   - [x] [Railsチュートリアル](url)
   - [x] [パーフェクトRuby on Rails](url)
@@ -71,6 +73,7 @@
   - [x] [GoでISUCONパフォーマンスチューニング ](url)
   - [ ] [Webサービスチューニングコンテスト ISUCONのススメ](https://techbookfest.org/product/4915388672376832?productVariantID=6054344950546432)
   - [ ] [Software Design (ソフトウェアデザイン) 2021年7月号](https://amzn.to/3y4hf8j)
+  - [ ] ISUCONのススメ
 ## データベース
 - [x] [達人に学ぶDB設計徹底指南書](url)
 - [x] [courseraのSQLコース](url)
