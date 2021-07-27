@@ -227,3 +227,4 @@
 - メッセージキュー
   - [ ] RabbitMQ Tutorials
 - [ ] Principles and Practices of Interconnection Networks
+- [ ] [Google Chrome - 拡張機能 開発大全 -](https://booth.pm/ja/items/2459744)
