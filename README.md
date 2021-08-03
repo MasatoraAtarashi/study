@@ -37,6 +37,7 @@
   - [x] [JUnit実践入門 ── 体系的に学ぶユニットテストの技法(直近必要になったとこだけ)](https://amzn.to/3phGoc9)
   - [ ] 『なぜ，あなただけJavaでオブジェクト指向開発ができないのか？』～Javaの壁を克服する実践トレーニング～
   - [ ] Java言語で学ぶデザインパターン入門
+  - [ ] Java言語で学ぶデザインパターン入門 マルチスレッド編
   - [ ] Java言語で学ぶリファクタリング入門
 - swift
   - [x] [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
@@ -156,10 +157,14 @@
 - [ ] アンチパターン
 - [ ] マイクロサービスアーキテクチャ
 - [ ] エリック・エヴァンスのドメイン駆動設計
+- [ ] 実践ドメイン駆動設計
+- [ ] ドメイン駆動設計入門 ボトムアップでわかる！ドメイン駆動設計の基本
 - [x] [スクラムガイド](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Japanese.pdf)
 - [x] [アジャイルソフトウェア開発宣言](https://agilemanifesto.org/iso/ja/manifesto.html)
 - [ ] アジャイルサムライ
 - [ ] 知識ゼロから学ぶソフトウェアテスト
+- [ ] オブジェクト指向設計実践ガイド ～Rubyでわかる 進化しつづける柔軟なアプリケーションの育て方
+- [ ] Clean Architecture　達人に学ぶソフトウェアの構造と設計
 
 ## その他
 - [ ] OAuth徹底入門
