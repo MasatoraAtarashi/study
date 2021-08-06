@@ -45,7 +45,7 @@
   - [ ] すごいHaskellたのしく学ぼう！  
 - JavaScript
   - [ ] [JavaScript Primer 迷わないための入門書](https://jsprimer.net/)
-  - [ ] [Progate JavaScriptコース](https://prog-8.com/courses/es6)
+  - [x] [Progate JavaScriptコース](https://prog-8.com/courses/es6)
 
 ## Web
 - [x] [Webを支える技術](url)
