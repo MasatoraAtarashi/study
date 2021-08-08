@@ -48,7 +48,7 @@
   - [x] [Progate JavaScriptコース](https://prog-8.com/courses/es6)
   - [ ] JavaScript Promiseの本
 - TypeScript
-  - [ ] a
+  - [ ] TypeScript Deep Dive
 
 ## Web
 - [x] [Webを支える技術](url)
