@@ -207,7 +207,7 @@
 - デザイン
   - [x] [なるほどデザイン](url)
   - [x] [Figma入門](https://note.com/fjkn/m/m9829c621e025)
-  - [ ] はじめてのUIデザイン
+  - [x] [はじめてのUIデザイン](https://amzn.to/3fU6JJP)
 - Tech Book
   - [x] [Moneyforward Tech Book](url)
   - [x] [ABEMA Tech Book](url)
