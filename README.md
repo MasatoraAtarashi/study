@@ -78,6 +78,10 @@
   - [ ] [Webサービスチューニングコンテスト ISUCONのススメ](https://techbookfest.org/product/4915388672376832?productVariantID=6054344950546432)
   - [ ] [Software Design (ソフトウェアデザイン) 2021年7月号](https://amzn.to/3y4hf8j)
   - [ ] ISUCONのススメ
+- chrome拡張機能
+  - [x] [Google Chrome - 拡張機能 開発大全 -](https://booth.pm/ja/items/2459744)
+  - [ ] [React & TypeScript Chrome Extension Development [2021]](https://www.udemy.com/course/chrome-extension/)
+
 ## データベース
 - [x] [達人に学ぶDB設計徹底指南書](url)
 - [x] [courseraのSQLコース](url)
@@ -236,4 +240,3 @@
 - メッセージキュー
   - [ ] RabbitMQ Tutorials
 - [ ] Principles and Practices of Interconnection Networks
-- [x] [Google Chrome - 拡張機能 開発大全 -](https://booth.pm/ja/items/2459744)
