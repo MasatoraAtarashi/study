@@ -57,7 +57,7 @@
 - [ ] Webエンジニアが知っておきたいインフラの基本
 - [ ] Nginx実践入門
 - [ ] 初めてのGraphQL ―Webサービスを作って学ぶ新世代API
-- [ ] HTML5/CSS3モダンコーディング フロントエンドエンジニアが教える3つの本格レイアウト スタンダード・グリッド・シングルページレイアウトの作り方
+- [ ] [HTML5/CSS3モダンコーディング フロントエンドエンジニアが教える3つの本格レイアウト スタンダード・グリッド・シングルページレイアウトの作り方](https://amzn.to/3m60nKY)
 - Ruby on Rails
   - [x] [Railsチュートリアル](url)
   - [x] [パーフェクトRuby on Rails](url)
@@ -80,7 +80,7 @@
   - [ ] ISUCONのススメ
 - chrome拡張機能
   - [x] [Google Chrome - 拡張機能 開発大全 -](https://booth.pm/ja/items/2459744)
-  - [ ] [React & TypeScript Chrome Extension Development [2021]](https://www.udemy.com/course/chrome-extension/)
+  - [x] [React & TypeScript Chrome Extension Development [2021]](https://www.udemy.com/course/chrome-extension/)
 
 ## データベース
 - [x] [達人に学ぶDB設計徹底指南書](url)
