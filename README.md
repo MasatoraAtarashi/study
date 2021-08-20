@@ -121,6 +121,7 @@
 - [ ] はじめて読む485
 - [ ] CPUの創り方
 - [x] [ARMで学ぶアセンブリ言語入門](https://amzn.to/35MV49T)
+- [ ] Principles and Practices of Interconnection Networks
 
 ## プログラミング
 - [x] [リーダブルコード](url)
@@ -243,7 +244,6 @@
   - [x] [ラズパイマガジン2021年春号](https://amzn.to/3dta1Cy)
 - メッセージキュー
   - [ ] RabbitMQ Tutorials
-- [ ] Principles and Practices of Interconnection Networks
 - 自動化
   - [ ] ひとり情シスのためのRPA導入ガイド
   - [ ] Pythonクローリング＆スクレイピング[増補改訂版] -データ収集・解析のための実践開発ガイド
