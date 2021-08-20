@@ -20,6 +20,7 @@
   - [ ] Goならわかるシステムプログラミング
   - [ ] スターティングGo言語
   - [ ] プログラミング言語Go
+  - [ ] Go言語 ハンズオン
 - Scala
   - [ ] [Scala研修テキスト](https://scala-text.github.io/scala_text/)
     - [x] ~型クラスへの誘い
