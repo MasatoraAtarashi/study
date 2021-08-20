@@ -232,7 +232,7 @@
   - [ ] 図解入門ビジネス ネット広告の基本と仕組みがすべてわかる本
   - [ ] [ネット広告ハンドブック](https://amzn.to/3q6iArM)
   - [ ] 顧客を知るためのデータマネジメントプラットフォーム　DMP入門
-  - [ ] DMPのしくみとオーディエンスデータの活用
+  - [ ] [DMPのしくみとオーディエンスデータの活用](https://amzn.to/3z5z6vU)
 - エディタ
   - [ ] [IntelliJ IDEA公式チュートリアル](https://pleiades.io/help/idea/discover-intellij-idea.html#IntelliJ-IDEA-supported-languages) 
   - [ ] IntelliJ IDEAハンズオン ――基本操作からプロジェクト管理までマスタ
