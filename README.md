@@ -244,3 +244,6 @@
 - メッセージキュー
   - [ ] RabbitMQ Tutorials
 - [ ] Principles and Practices of Interconnection Networks
+- 自動化
+  - [ ] ひとり情シスのためのRPA導入ガイド
+  - [ ] Pythonクローリング＆スクレイピング[増補改訂版] -データ収集・解析のための実践開発ガイド
