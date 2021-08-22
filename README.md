@@ -172,6 +172,7 @@
 - [x] [アジャイルソフトウェア開発宣言](https://agilemanifesto.org/iso/ja/manifesto.html)
 - [ ] アジャイルサムライ
 - [ ] 知識ゼロから学ぶソフトウェアテスト
+- [ ] テスト駆動開発
 - [ ] オブジェクト指向設計実践ガイド ～Rubyでわかる 進化しつづける柔軟なアプリケーションの育て方
 - [ ] Clean Architecture　達人に学ぶソフトウェアの構造と設計
 
@@ -179,6 +180,8 @@
 - [ ] OAuth徹底入門
 - [ ] Web配信の技術
 - [ ] 文字コード超研究
+- [ ] カンバン仕事術
+- [ ] DevOps Handbook
 - [x] [thrift tutorial](https://thrift-tutorial.readthedocs.io/en/latest/index.html)
 - Kubernetes
   - [x] [Kubernetesチュートリアル](url)
@@ -247,3 +250,4 @@
 - 自動化
   - [ ] ひとり情シスのためのRPA導入ガイド
   - [ ] Pythonクローリング＆スクレイピング[増補改訂版] -データ収集・解析のための実践開発ガイド
+  - [ ] 継続的デリバリー
