@@ -83,8 +83,8 @@
   - [x] [Google Chrome - 拡張機能 開発大全 -](https://booth.pm/ja/items/2459744)
   - [x] [React & TypeScript Chrome Extension Development [2021]](https://www.udemy.com/course/chrome-extension/)
 - サーバーレス
-  - [ ] [クリーンアーキテクチャとサーバレスで実装するWebAPI](https://amzn.to/2XPepXu)
-  - [ ] [AWS Lambda実践ガイド](https://amzn.to/3sFCThd)
+  - [x] [クリーンアーキテクチャとサーバレスで実装するWebAPI](https://amzn.to/2XPepXu)
+  - [x] [AWS Lambda実践ガイド](https://amzn.to/3sFCThd)
 
 ## データベース
 - [x] [達人に学ぶDB設計徹底指南書](url)
