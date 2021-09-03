@@ -12,14 +12,13 @@
 - Go
   - [x] [A Tour of Go](url) 
   - [x] [みんなのGo言語](https://gihyo.jp/book/2019/978-4-297-10727-7)
-  - [ ] [プログラミング言語Go完全入門](https://engineering.mercari.com/blog/entry/goforbeginners/)
-    - [x] ~2
-    - [ ] 3~
+  - [x] [プログラミング言語Go完全入門(~2)](https://engineering.mercari.com/blog/entry/goforbeginners/)
   - [ ] Go言語によるWebアプリケーション開発
   - [ ] Go言語による並行処理
   - [ ] Goならわかるシステムプログラミング
   - [ ] スターティングGo言語
   - [ ] プログラミング言語Go
+  - [ ] Go言語 ハンズオン
 - Scala
   - [ ] [Scala研修テキスト](https://scala-text.github.io/scala_text/)
     - [x] ~型クラスへの誘い
@@ -37,13 +36,18 @@
   - [x] [JUnit実践入門 ── 体系的に学ぶユニットテストの技法(直近必要になったとこだけ)](https://amzn.to/3phGoc9)
   - [ ] 『なぜ，あなただけJavaでオブジェクト指向開発ができないのか？』～Javaの壁を克服する実践トレーニング～
   - [ ] Java言語で学ぶデザインパターン入門
+  - [ ] Java言語で学ぶデザインパターン入門 マルチスレッド編
   - [ ] Java言語で学ぶリファクタリング入門
 - swift
   - [x] [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 - Haskell
   - [ ] すごいHaskellたのしく学ぼう！  
 - JavaScript
-  - [ ] [JavaScript Primer 迷わないための入門書](https://jsprimer.net/)
+  - [x] [JavaScript Primer 迷わないための入門書(一部)](https://jsprimer.net/)
+  - [x] [Progate JavaScriptコース](https://prog-8.com/courses/es6)
+  - [ ] JavaScript Promiseの本
+- TypeScript
+  - [ ] TypeScript Deep Dive
 
 ## Web
 - [x] [Webを支える技術](url)
@@ -52,15 +56,14 @@
 - [ ] Webエンジニアが知っておきたいインフラの基本
 - [ ] Nginx実践入門
 - [ ] 初めてのGraphQL ―Webサービスを作って学ぶ新世代API
+- [x] [HTML5/CSS3モダンコーディング フロントエンドエンジニアが教える3つの本格レイアウト スタンダード・グリッド・シングルページレイアウトの作り方](https://amzn.to/3m60nKY)
 - Ruby on Rails
   - [x] [Railsチュートリアル](url)
   - [x] [パーフェクトRuby on Rails](url)
   - [x] [Everyday Rails - RSpecによるRailsテスト入門](url)
   - [x] [使えるRSpec入門 1〜4](url)
   - [x] [現場で使える Ruby on Rails 5速習実践ガイド](https://www.amazon.co.jp/%E7%8F%BE%E5%A0%B4%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B-Ruby-Rails-5%E9%80%9F%E7%BF%92%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-%E5%A4%A7%E5%A0%B4%E5%AF%A7%E5%AD%90/dp/4839962227)
-  - [ ] [Railsガイド](url)
-    - [x] はじめに
-    - [ ] モデル~
+  - [x] [Railsガイド(モデルの途中くらいまで読んだ)](url)
 - React
   - [x] [Reactチュートリアル](url)
   - [x] [りあクト！1](url)
@@ -74,6 +77,13 @@
   - [ ] [Webサービスチューニングコンテスト ISUCONのススメ](https://techbookfest.org/product/4915388672376832?productVariantID=6054344950546432)
   - [ ] [Software Design (ソフトウェアデザイン) 2021年7月号](https://amzn.to/3y4hf8j)
   - [ ] ISUCONのススメ
+- chrome拡張機能
+  - [x] [Google Chrome - 拡張機能 開発大全 -](https://booth.pm/ja/items/2459744)
+  - [x] [React & TypeScript Chrome Extension Development [2021]](https://www.udemy.com/course/chrome-extension/)
+- サーバーレス
+  - [x] [クリーンアーキテクチャとサーバレスで実装するWebAPI](https://amzn.to/2XPepXu)
+  - [x] [AWS Lambda実践ガイド](https://amzn.to/3sFCThd)
+
 ## データベース
 - [x] [達人に学ぶDB設計徹底指南書](url)
 - [x] [courseraのSQLコース](url)
@@ -112,6 +122,7 @@
 - [ ] はじめて読む485
 - [ ] CPUの創り方
 - [x] [ARMで学ぶアセンブリ言語入門](https://amzn.to/35MV49T)
+- [ ] Principles and Practices of Interconnection Networks
 
 ## プログラミング
 - [x] [リーダブルコード](url)
@@ -156,15 +167,22 @@
 - [ ] アンチパターン
 - [ ] マイクロサービスアーキテクチャ
 - [ ] エリック・エヴァンスのドメイン駆動設計
+- [ ] 実践ドメイン駆動設計
+- [ ] ドメイン駆動設計入門 ボトムアップでわかる！ドメイン駆動設計の基本
 - [x] [スクラムガイド](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Japanese.pdf)
 - [x] [アジャイルソフトウェア開発宣言](https://agilemanifesto.org/iso/ja/manifesto.html)
 - [ ] アジャイルサムライ
 - [ ] 知識ゼロから学ぶソフトウェアテスト
+- [ ] テスト駆動開発
+- [ ] オブジェクト指向設計実践ガイド ～Rubyでわかる 進化しつづける柔軟なアプリケーションの育て方
+- [ ] Clean Architecture　達人に学ぶソフトウェアの構造と設計
 
 ## その他
 - [ ] OAuth徹底入門
 - [ ] Web配信の技術
 - [ ] 文字コード超研究
+- [ ] カンバン仕事術
+- [ ] DevOps Handbook
 - [x] [thrift tutorial](https://thrift-tutorial.readthedocs.io/en/latest/index.html)
 - Kubernetes
   - [x] [Kubernetesチュートリアル](url)
@@ -200,6 +218,7 @@
 - デザイン
   - [x] [なるほどデザイン](url)
   - [x] [Figma入門](https://note.com/fjkn/m/m9829c621e025)
+  - [x] [はじめてのUIデザイン](https://amzn.to/3fU6JJP)
 - Tech Book
   - [x] [Moneyforward Tech Book](url)
   - [x] [ABEMA Tech Book](url)
@@ -218,6 +237,9 @@
   - [x] [アトリビューション 広告効果の考え方を根底から覆す新手法](https://amzn.to/3voab3X)
   - [ ] 図解入門ビジネス ネット広告の基本と仕組みがすべてわかる本
   - [ ] [ネット広告ハンドブック](https://amzn.to/3q6iArM)
+  - [ ] 顧客を知るためのデータマネジメントプラットフォーム　DMP入門
+  - [ ] [DMPのしくみとオーディエンスデータの活用](https://amzn.to/3z5z6vU)
+  - [ ] いちばんやさしい音声配信ビジネスの教本 人気講師が教える新しいメディアの基礎
 - エディタ
   - [ ] [IntelliJ IDEA公式チュートリアル](https://pleiades.io/help/idea/discover-intellij-idea.html#IntelliJ-IDEA-supported-languages) 
   - [ ] IntelliJ IDEAハンズオン ――基本操作からプロジェクト管理までマスタ
@@ -226,5 +248,12 @@
   - [x] [ラズパイマガジン2021年春号](https://amzn.to/3dta1Cy)
 - メッセージキュー
   - [ ] RabbitMQ Tutorials
-- [ ] Principles and Practices of Interconnection Networks
-- [ ] [Google Chrome - 拡張機能 開発大全 -](https://booth.pm/ja/items/2459744)
+- 自動化
+  - [ ] ひとり情シスのためのRPA導入ガイド
+  - [ ] Pythonクローリング＆スクレイピング[増補改訂版] -データ収集・解析のための実践開発ガイド
+  - [ ] 継続的デリバリー
+- BizDev
+  - [ ] エンジニアリング組織論への招待
+  - [x] ソフトウェアファースト
+  - [ ] エンジニアのためのマネジメントキャリアパス ―テックリードからCTOまでマネジメントスキル向上ガイド
+  - [ ] エンジニアがビジネスリーダーをめざすための10の法則
