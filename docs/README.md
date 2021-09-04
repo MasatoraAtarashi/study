@@ -19,6 +19,7 @@
   - [ ] スターティングGo言語
   - [ ] プログラミング言語Go
   - [ ] Go言語 ハンズオン
+  - [ ] Go言語でつくるインタプリタ
 - Scala
   - [ ] [Scala研修テキスト](https://scala-text.github.io/scala_text/)
     - [x] ~型クラスへの誘い
@@ -56,6 +57,9 @@
 - [ ] Webエンジニアが知っておきたいインフラの基本
 - [ ] Nginx実践入門
 - [ ] 初めてのGraphQL ―Webサービスを作って学ぶ新世代API
+- [ ] スターティングgRPC
+- [ ] [Web開発者のための]大規模サービス技術入門 ―データ構造、メモリ、OS、DB、サーバ/インフラ
+- [ ] [24時間365日] サーバ/インフラを支える技術 ‾スケーラビリティ、ハイパフォーマンス、省力運用
 - [x] [HTML5/CSS3モダンコーディング フロントエンドエンジニアが教える3つの本格レイアウト スタンダード・グリッド・シングルページレイアウトの作り方](https://amzn.to/3m60nKY)
 - Ruby on Rails
   - [x] [Railsチュートリアル](url)
@@ -91,6 +95,7 @@
 - [ ] SQLアンチパターン
 - [x] [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf)
 - [ ] SQLパズル
+- [ ] RDBMS解剖学 よくわかるリレーショナルデータベースの仕組み
 
 ## システムソフトウェアとオペレーティング・システム
 - [ ] [Linux Kernel Programming: A comprehensive guide to kernel internals, writing kernel modules, and kernel synchronization](https://amzn.to/3vhizm1)
@@ -137,6 +142,7 @@
 - [ ] 達人プログラマー
 - [ ] 良いコードを書く技術
 - [ ] コード・リーディング
+- [ ] プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則
 
 ## アルゴリズム
 - [x] [アルゴリズム図鑑](url)
