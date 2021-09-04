@@ -53,7 +53,7 @@
 ## Web
 - [x] [Webを支える技術](url)
 - [x] [WebAPI The Good Parts](url)
-- [ ] この一冊で全部わかるWeb技術の基本
+- [ ] イラスト図解式 この一冊で全部わかるWeb技術の基本
 - [ ] Webエンジニアが知っておきたいインフラの基本
 - [ ] Nginx実践入門
 - [ ] 初めてのGraphQL ―Webサービスを作って学ぶ新世代API
@@ -81,6 +81,7 @@
   - [ ] [Webサービスチューニングコンテスト ISUCONのススメ](https://techbookfest.org/product/4915388672376832?productVariantID=6054344950546432)
   - [ ] [Software Design (ソフトウェアデザイン) 2021年7月号](https://amzn.to/3y4hf8j)
   - [ ] ISUCONのススメ
+  - [ ] ボトルネックがすぐわかる 現場のための Webサーバ高速化教本
 - chrome拡張機能
   - [x] [Google Chrome - 拡張機能 開発大全 -](https://booth.pm/ja/items/2459744)
   - [x] [React & TypeScript Chrome Extension Development [2021]](https://www.udemy.com/course/chrome-extension/)
@@ -221,10 +222,13 @@
   - [x] [統計学 キャンパス・ゼミ](url)
   - [x] [大学基礎数学 確立統計](url)
   - [x] [統計学 キャンパス・ゼミ](url)
-- デザイン
+- データ分析
+  - [ ] 10年戦えるデータ分析入門 SQLを武器にデータ活用時代を生き抜く
+- UI/UX
   - [x] [なるほどデザイン](url)
   - [x] [Figma入門](https://note.com/fjkn/m/m9829c621e025)
   - [x] [はじめてのUIデザイン](https://amzn.to/3fU6JJP)
+  - [ ] マイクロインタラクション ―UI/UXデザインの神が宿る細部
 - Tech Book
   - [x] [Moneyforward Tech Book](url)
   - [x] [ABEMA Tech Book](url)
