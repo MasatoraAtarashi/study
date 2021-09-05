@@ -250,6 +250,7 @@
   - [ ] 顧客を知るためのデータマネジメントプラットフォーム　DMP入門
   - [ ] [DMPのしくみとオーディエンスデータの活用](https://amzn.to/3z5z6vU)
   - [ ] いちばんやさしい音声配信ビジネスの教本 人気講師が教える新しいメディアの基礎
+  - [ ] CMを科学する
 - エディタ
   - [ ] [IntelliJ IDEA公式チュートリアル](https://pleiades.io/help/idea/discover-intellij-idea.html#IntelliJ-IDEA-supported-languages) 
   - [ ] IntelliJ IDEAハンズオン ――基本操作からプロジェクト管理までマスタ
