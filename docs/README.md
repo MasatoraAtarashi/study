@@ -13,6 +13,8 @@
   - [x] [A Tour of Go](url) 
   - [x] [みんなのGo言語](https://gihyo.jp/book/2019/978-4-297-10727-7)
   - [x] [プログラミング言語Go完全入門](https://engineering.mercari.com/blog/entry/goforbeginners/)
+  - [x] [Goプログラミング実践入門 標準ライブラリでゼロからWebアプリを作る](url)
+  - [x] [オンライン版　CA Tech Dojo サーバサイド (Go)編](https://techbowl.co.jp/techtrain/missions/12)
   - [ ] Go言語によるWebアプリケーション開発
   - [ ] Go言語による並行処理
   - [ ] Goならわかるシステムプログラミング
@@ -20,6 +22,7 @@
   - [ ] プログラミング言語Go
   - [ ] Go言語 ハンズオン
   - [ ] Go言語でつくるインタプリタ
+
 - Scala
   - [ ] [Scala研修テキスト](https://scala-text.github.io/scala_text/)
     - [x] ~型クラスへの誘い
@@ -73,9 +76,6 @@
   - [x] [りあクト！1](url)
   - [x] [りあクト！2](url)
   - [ ] [りあクト！3](url)
-- Go
-  - [x] [Goプログラミング実践入門 標準ライブラリでゼロからWebアプリを作る](url)
-  - [x] [オンライン版　CA Tech Dojo サーバサイド (Go)編](https://techbowl.co.jp/techtrain/missions/12)
 - パフォーマンス・チューニング
   - [x] [GoでISUCONパフォーマンスチューニング ](url)
   - [ ] [Webサービスチューニングコンテスト ISUCONのススメ](https://techbookfest.org/product/4915388672376832?productVariantID=6054344950546432)
