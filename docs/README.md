@@ -97,6 +97,7 @@
 - [x] [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf)
 - [ ] SQLパズル
 - [ ] RDBMS解剖学 よくわかるリレーショナルデータベースの仕組み
+- [ ] 詳説 データベース
 
 ## システムソフトウェアとオペレーティング・システム
 - [ ] [Linux Kernel Programming: A comprehensive guide to kernel internals, writing kernel modules, and kernel synchronization](https://amzn.to/3vhizm1)
