@@ -98,6 +98,7 @@
 - [ ] SQLパズル
 - [ ] RDBMS解剖学 よくわかるリレーショナルデータベースの仕組み
 - [ ] 詳説 データベース
+- [ ] [Webエンジニアのための データベース技術[実践]入門](https://amzn.to/3novP7Z)
 
 ## システムソフトウェアとオペレーティング・システム
 - [ ] [Linux Kernel Programming: A comprehensive guide to kernel internals, writing kernel modules, and kernel synchronization](https://amzn.to/3vhizm1)
