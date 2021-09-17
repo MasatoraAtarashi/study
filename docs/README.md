@@ -204,28 +204,36 @@
   - [x] [ゼロからわかるAmazon Web Service](url)
   - [x] [AWS Hands-on for Beginners 〜スケーラブルウェブサイト構築編〜](https://pages.awscloud.com/event_JAPAN_Hands-on-for-Beginners-Scalable_Contents.html)
   - [x] [AWS Well-Architected Frameworkハンズオン](https://www.wellarchitectedlabs.com/reliability/300_labs/300_testing_for_resiliency_of_ec2_rds_and_s3/)
-- Machine Learning
-  - [x] [Coursera Machine Learning course](url)
-  - [x] [Coursera Deep Learning course](url)
-  - [x] [Udacity Machine Learning course](url)
-  - [ ] Python 機械学習プログラミング 達人データサイエンティストによる理論と実践
-  - [x] [すぐに使える! 業務で実践できる! PythonによるAI・機械学習・深層学習アプリの作り方](url)
-- 数学
-  - [x] [中学3年間の数学を8時間でやり直す本](url)
-  - [x] [初めから始める数学1・A Part1](url)
-  - [x] [初めから始める数学1・A Part2](url)
-  - [x] [初めから始める数学2・B Part1](url)
-  - [x] [初めから始める数学2・B Part2](url)
-  - [x] [初めから始める数学3・C Part1](url)
-  - [x] [初めから始める数学3・C Part2](url)
-  - [x] [大学基礎数学 線形代数 ](url)
-  - [x] [線形代数 キャンパス・ゼミ](url)
-  - [x] [大学基礎数学 確立統計](url)
-  - [x] [統計学 キャンパス・ゼミ](url)
-  - [x] [大学基礎数学 確立統計](url)
-  - [x] [統計学 キャンパス・ゼミ](url)
 - データ分析
   - [ ] 10年戦えるデータ分析入門 SQLを武器にデータ活用時代を生き抜く
+  - 数学
+    - [x] [中学3年間の数学を8時間でやり直す本](url)
+    - [x] [初めから始める数学1・A Part1](url)
+    - [x] [初めから始める数学1・A Part2](url)
+    - [x] [初めから始める数学2・B Part1](url)
+    - [x] [初めから始める数学2・B Part2](url)
+    - [x] [初めから始める数学3・C Part1](url)
+    - [x] [初めから始める数学3・C Part2](url)
+    - [x] [大学基礎数学 線形代数 ](url)
+    - [x] [線形代数 キャンパス・ゼミ](url)
+    - [x] [大学基礎数学 確立統計](url)
+    - [x] [統計学 キャンパス・ゼミ](url)
+    - [x] [大学基礎数学 確立統計](url)
+    - [x] [統計学 キャンパス・ゼミ](url)
+  - 統計分析
+    - [ ] とある弁当屋のデータサイエンティスト
+  - 時系列解析
+  - 数理最適化
+  - Machine Learning
+    - [x] [Coursera Machine Learning course](url)
+    - [x] [Coursera Deep Learning course](url)
+    - [x] [Udacity Machine Learning course](url)
+    - [ ] Python 機械学習プログラミング 達人データサイエンティストによる理論と実践
+    - [x] [すぐに使える! 業務で実践できる! PythonによるAI・機械学習・深層学習アプリの作り方](url)
+  - 制御工学
+  - 因果推論
+  - 計量経済学
+  - 行動経済学
 - UI/UX
   - [x] [なるほどデザイン](url)
   - [x] [Figma入門](https://note.com/fjkn/m/m9829c621e025)
