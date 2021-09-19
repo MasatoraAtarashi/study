@@ -249,6 +249,7 @@
   - [x] [Figma入門](https://note.com/fjkn/m/m9829c621e025)
   - [x] [はじめてのUIデザイン](https://amzn.to/3fU6JJP)
   - [ ] マイクロインタラクション ―UI/UXデザインの神が宿る細部
+  - [ ] Atomic Design ~堅牢で使いやすいUIを効率良く設計する
 - Tech Book
   - [x] [Moneyforward Tech Book](url)
   - [x] [ABEMA Tech Book](url)
