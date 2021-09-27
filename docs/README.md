@@ -52,6 +52,7 @@
   - [ ] JavaScript Promiseの本
 - TypeScript
   - [ ] TypeScript Deep Dive
+- Kotlin
 
 ## Web
 - [x] [Webを支える技術](url)
@@ -254,6 +255,10 @@
   - [x] [Moneyforward Tech Book](url)
   - [x] [ABEMA Tech Book](url)
   - [x] [Wantedly Tech Book](url)
+- DevOps
+  - [ ] [LeanとDevOpsの科学 テクノロジーの戦略的活用が組織変革を加速する](https://amzn.to/2Wdu7uW)
+  - [ ] 継続的デリバリー　信頼できるソフトウエアリリースのためのビルド・テスト・デプロイメントの自動化
+  - [ ] The DevOps ハンドブック 理論・原則・実践のすべて
 - 資格
   - [x] [ITパスポート試験 対策テキスト&過去問題集 (よくわかるマスター)](https://amzn.to/3t5ZHpA)
   - [x] [かんたん合格 基本情報技術者教科書](https://amzn.to/2RkyK3I)
@@ -287,7 +292,6 @@
 - 自動化
   - [x] [ひとり情シスのためのRPA導入ガイド](https://amzn.to/2YoZFyR)
   - [x] [Pythonクローリング＆スクレイピング[増補改訂版] -データ収集・解析のための実践開発ガイド](https://amzn.to/3tabxjy)
-  - [ ] 継続的デリバリー
 - BizDev
   - [ ] [エンジニアリング組織論への招待](url)
   - [x] [ソフトウェアファースト](url)
