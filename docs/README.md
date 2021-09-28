@@ -282,6 +282,7 @@
   - [ ] 次世代広告コミュニケーション
   - [ ] インターネット広告革命―クロスメディアが「広告」を変える。
   - [ ] ネット広告運用“打ち手”大全 成果にこだわるマーケ＆販促 最強の戦略102
+  - [ ] 広告でいちばん大切なこと
 - エディタ
   - [ ] [IntelliJ IDEA公式チュートリアル](https://pleiades.io/help/idea/discover-intellij-idea.html#IntelliJ-IDEA-supported-languages) 
   - [ ] IntelliJ IDEAハンズオン ――基本操作からプロジェクト管理までマスタ
