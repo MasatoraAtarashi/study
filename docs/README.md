@@ -42,6 +42,7 @@
   - [ ] Java言語で学ぶデザインパターン入門
   - [ ] Java言語で学ぶデザインパターン入門 マルチスレッド編
   - [ ] Java言語で学ぶリファクタリング入門
+  - [ ] Effective Java
 - swift
   - [x] [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 - Haskell
@@ -77,6 +78,8 @@
   - [x] [りあクト！1](url)
   - [x] [りあクト！2](url)
   - [ ] [りあクト！3](url)
+- Spring
+  - [ ] Spring Bootが丸わかり Spring解体新書
 - パフォーマンス・チューニング
   - [x] [GoでISUCONパフォーマンスチューニング ](url)
   - [ ] [Webサービスチューニングコンテスト ISUCONのススメ](https://techbookfest.org/product/4915388672376832?productVariantID=6054344950546432)
