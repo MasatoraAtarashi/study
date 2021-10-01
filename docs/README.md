@@ -22,7 +22,6 @@
   - [ ] プログラミング言語Go
   - [ ] Go言語 ハンズオン
   - [ ] Go言語でつくるインタプリタ
-
 - Scala
   - [ ] [Scala研修テキスト](https://scala-text.github.io/scala_text/)
     - [x] ~型クラスへの誘い
