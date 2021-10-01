@@ -45,7 +45,10 @@
 - swift
   - [x] [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 - Haskell
-  - [ ] すごいHaskellたのしく学ぼう！  
+  - [ ] すごいHaskellたのしく学ぼう！
+  - [ ] 関数プログラミング 珠玉のアルゴリズムデザイン
+  - [ ] Real World Haskell: 実戦で学ぶ関数型言語プログラミング
+  - [ ] ふつうのHaskellプログラミング ふつうのプログラマのための関数型言語入門
 - JavaScript
   - [x] [JavaScript Primer 迷わないための入門書(一部)](https://jsprimer.net/)
   - [x] [Progate JavaScriptコース](https://prog-8.com/courses/es6)
