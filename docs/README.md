@@ -167,6 +167,8 @@
 - [ ] DNSがよくわかる教科書
 - [ ] 3分間ネットワーク基礎講座
 - [ ] 詳解TCP/IP
+- [ ] Computer Networking: A Top Down Approach 7/e
+- [ ] Computer Networks 6/e
 
 ## セキュリティ
 - [ ] Linuxサーバーセキュリティ徹底入門
