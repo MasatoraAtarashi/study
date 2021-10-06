@@ -14,7 +14,6 @@
 - [ ] Webエンジニアが知っておきたいインフラの基本
 - [ ] Nginx実践入門
 - [ ] 初めてのGraphQL ―Webサービスを作って学ぶ新世代API
-- [ ] [スターティングgRPC](https://booth.pm/ja/items/1315322)
 - [ ] [Web開発者のための]大規模サービス技術入門 ―データ構造、メモリ、OS、DB、サーバ/インフラ
 - [ ] [24時間365日] サーバ/インフラを支える技術 ‾スケーラビリティ、ハイパフォーマンス、省力運用
 - ネットワーク
@@ -127,7 +126,9 @@
   - [x] [Railsガイド(モデルの途中くらいまで読んだ)](url)
 - Spring
   - [ ] Spring Bootが丸わかり Spring解体新書
-
+- RPC
+  - [x] [thrift tutorial](https://thrift-tutorial.readthedocs.io/en/latest/index.html)
+  - [x] [スターティングgRPC](https://booth.pm/ja/items/1315322)
 
 ### キャッシュ
 
@@ -374,7 +375,6 @@
 - [ ] Web配信の技術
 - [ ] カンバン仕事術
 - [ ] DevOps Handbook
-- [x] [thrift tutorial](https://thrift-tutorial.readthedocs.io/en/latest/index.html)
 - Tech Book
   - [x] [Moneyforward Tech Book](url)
   - [x] [ABEMA Tech Book](url)
