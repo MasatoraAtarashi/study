@@ -45,6 +45,7 @@
   - [x] [りあクト！1](url)
   - [x] [りあクト！2](url)
   - [ ] [りあクト！3](url)
+- Vue.js
 
 ### OS
 
@@ -304,6 +305,7 @@
 - 行動経済学
 
 
+# TODO: カテゴリ再編集
 ## システムソフトウェアとオペレーティング・システム
 - [ ] [Linux Kernel Programming: A comprehensive guide to kernel internals, writing kernel modules, and kernel synchronization](https://amzn.to/3vhizm1)
 - [ ] ゼロからのOS自作入門
