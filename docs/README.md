@@ -9,8 +9,37 @@
 
 # バックエンドエンジニア
 ### インターネット
+- [x] [Webを支える技術](url)
+- [ ] イラスト図解式 この一冊で全部わかるWeb技術の基本
+- [ ] Webエンジニアが知っておきたいインフラの基本
+- [ ] Nginx実践入門
+- [ ] 初めてのGraphQL ―Webサービスを作って学ぶ新世代API
+- [ ] [スターティングgRPC](https://booth.pm/ja/items/1315322)
+- [ ] [Web開発者のための]大規模サービス技術入門 ―データ構造、メモリ、OS、DB、サーバ/インフラ
+- [ ] [24時間365日] サーバ/インフラを支える技術 ‾スケーラビリティ、ハイパフォーマンス、省力運用
+- ネットワーク
+  - [x] [マスタリングTCP/IP 入門編](url)
+  - [ ] Real World HTTP
+  - [ ] ネットワークはなぜつながるのか
+  - [ ] プロフェッショナルIPv6
+  - [ ] 徹底攻略 ネットワークスペシャリスト
+  - [ ] DNSがよくわかる教科書
+  - [ ] 3分間ネットワーク基礎講座
+  - [ ] 詳解TCP/IP
+  - [ ] Computer Networking: A Top Down Approach 7/e
+  - [ ] Computer Networks 6/e
+- パフォーマンス・チューニング
+  - [x] [GoでISUCONパフォーマンスチューニング ](url)
+  - [ ] [Webサービスチューニングコンテスト ISUCONのススメ](https://techbookfest.org/product/4915388672376832?productVariantID=6054344950546432)
+  - [ ] [Software Design (ソフトウェアデザイン) 2021年7月号](https://amzn.to/3y4hf8j)
+  - [ ] ISUCONのススメ
+  - [ ] ボトルネックがすぐわかる 現場のための Webサーバ高速化教本
+- chrome拡張機能
+  - [x] [Google Chrome - 拡張機能 開発大全 -](https://booth.pm/ja/items/2459744)
+  - [x] [React & TypeScript Chrome Extension Development [2021]](https://www.udemy.com/course/chrome-extension/)
 
 ### フロントエンド
+- [x] [HTML5/CSS3モダンコーディング フロントエンドエンジニアが教える3つの本格レイアウト スタンダード・グリッド・シングルページレイアウトの作り方](https://amzn.to/3m60nKY)
 - React
   - [x] [Reactチュートリアル](url)
   - [x] [りあクト！1](url)
@@ -76,8 +105,28 @@
 ### バージョン管理システム
 
 ### データベース
+- [x] [達人に学ぶDB設計徹底指南書](url)
+- [x] [courseraのSQLコース](url)
+- [x] [SQL ゼロからはじめるデータベース操作](https://amzn.to/3uNNOoX)
+- [ ] SQLアンチパターン
+- [x] [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf)
+- [ ] SQLパズル
+- [ ] RDBMS解剖学 よくわかるリレーショナルデータベースの仕組み
+- [ ] 詳説 データベース
+- [ ] [Webエンジニアのための データベース技術[実践]入門](https://amzn.to/3novP7Z)
 
 ### API
+- [x] [WebAPI The Good Parts](url)
+- Ruby on Rails
+  - [x] [Railsチュートリアル](url)
+  - [x] [パーフェクトRuby on Rails](url)
+  - [x] [Everyday Rails - RSpecによるRailsテスト入門](url)
+  - [x] [使えるRSpec入門 1〜4](url)
+  - [x] [現場で使える Ruby on Rails 5速習実践ガイド](https://www.amazon.co.jp/%E7%8F%BE%E5%A0%B4%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B-Ruby-Rails-5%E9%80%9F%E7%BF%92%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-%E5%A4%A7%E5%A0%B4%E5%AF%A7%E5%AD%90/dp/4839962227)
+  - [x] [Railsガイド(モデルの途中くらいまで読んだ)](url)
+- Spring
+  - [ ] Spring Bootが丸わかり Spring解体新書
+
 
 ### キャッシュ
 
@@ -86,14 +135,32 @@
 ### テスト
 
 ### CI/CD
+- DevOps
+  - [ ] [LeanとDevOpsの科学 テクノロジーの戦略的活用が組織変革を加速する](https://amzn.to/2Wdu7uW)
+  - [ ] 継続的デリバリー　信頼できるソフトウエアリリースのためのビルド・テスト・デプロイメントの自動化
+  - [ ] The DevOps ハンドブック 理論・原則・実践のすべて
+- Kubernetes
+  - [x] [Kubernetesチュートリアル](url)
+  - [ ] [15Stepで習得 Dockerから入るKubernetes コンテナ開発からK8s本番運用まで](https://amzn.to/3pL0uLQ)
+    - [x] ~2章, 3章6,7,10,14
+  - [ ] Kubernetes完全ガイド 第2版 
+  - [ ] Kubernetes実践ガイド　クラウドネイティブアプリケーションを支える技術
 
 ### デザインパターン
 
 ### アーキテクチャパターン
+- サーバーレス
+  - [x] [クリーンアーキテクチャとサーバレスで実装するWebAPI](https://amzn.to/2XPepXu)
+  - [x] [AWS Lambda実践ガイド](https://amzn.to/3sFCThd)
 
 ### メッセージブローカー
+- [ ] RabbitMQ Tutorials
 
 ### コンテナ
+- [x] [マンガでわかるDocker](url)
+- [x] [Docker実践ガイド](url)
+- [x] [Docker/Kubernetes実践コンテナ開発入門](url)
+- [ ] Docker
 
 ### 仮想化
 
@@ -103,15 +170,46 @@
 
 ### Webサーバー
 
-### プロダクトを拡大させる
+### クラウド
+- AWS
+  - [x] [Amazon Web Services 基礎からのネットワーク&サーバー構築](url)
+  - [x] [ゼロからわかるAmazon Web Service](url)
+  - [x] [AWS Hands-on for Beginners 〜スケーラブルウェブサイト構築編〜](https://pages.awscloud.com/event_JAPAN_Hands-on-for-Beginners-Scalable_Contents.html)
+  - [x] [AWS Well-Architected Frameworkハンズオン](https://www.wellarchitectedlabs.com/reliability/300_labs/300_testing_for_resiliency_of_ec2_rds_and_s3/)
 
+### プロダクトを拡大させる
+- UI/UX
+  - [x] [なるほどデザイン](url)
+  - [x] [Figma入門](https://note.com/fjkn/m/m9829c621e025)
+  - [x] [はじめてのUIデザイン](https://amzn.to/3fU6JJP)
+  - [ ] マイクロインタラクション ―UI/UXデザインの神が宿る細部
+  - [ ] Atomic Design ~堅牢で使いやすいUIを効率良く設計する
+
+### その他
 
 # CS
 ### 数学
+- [x] [中学3年間の数学を8時間でやり直す本](url)
+- [x] [初めから始める数学1・A Part1](url)
+- [x] [初めから始める数学1・A Part2](url)
+- [x] [初めから始める数学2・B Part1](url)
+- [x] [初めから始める数学2・B Part2](url)
+- [x] [初めから始める数学3・C Part1](url)
+- [x] [初めから始める数学3・C Part2](url)
+- [x] [大学基礎数学 線形代数 ](url)
+- [x] [線形代数 キャンパス・ゼミ](url)
+- [x] [大学基礎数学 確立統計](url)
+- [x] [統計学 キャンパス・ゼミ](url)
+- [x] [大学基礎数学 確立統計](url)
+- [x] [統計学 キャンパス・ゼミ](url)
+
 
 ### 情報理論
 
 ### アルゴリズムとプログラミング
+- [x] [アルゴリズム図鑑](url)
+- [ ] アルゴリズムとデータ構造
+- [ ] 世界で闘うプログラミング力を鍛える本 -コーディング面接189問とその解法-
 
 ### コンピュータ構成要素
 
@@ -123,9 +221,16 @@
 
 ### ヒューマンインタフェース
 
-### ネットワーク
+### マルチメディア
+- [ ] 文字コード超研究
 
 ### セキュリティ
+- [ ] Linuxサーバーセキュリティ徹底入門
+- [ ] 体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 脆弱性が生まれる原理と対策の実践
+- [ ] 暗号技術入門
+- [x] [情報処理教科書 出るとこだけ！情報セキュリティマネジメント](https://amzn.to/2PKSL2S)
+- [ ] 解題pwnable セキュリティコンテストに挑戦しよう！
+
 
 ### システム開発技術
 
@@ -145,67 +250,65 @@
 
 # アドテク
 ### ドメイン知識
+- [x] [アドテクノロジーの教科書 デジタルマーケティング実践指南](https://amzn.to/3hFpH8L)
+- [x] [予算が見える・効果が上がる　ネット広告徹底活用ガイド](https://amzn.to/3hp7JqO)
+- [x] [必携 インターネット広告 プロが押さえておきたい新常識](https://amzn.to/3bsD08B)
+- [x] [ネット広告がわかる 基本キーワード70](https://amzn.to/3f19icI)
+- [x] [ザ・アドテクノロジー](https://amzn.to/33Y4puV)
+- [ ] この一冊ですべてわかる広告の基本
+- [x] [アトリビューション 広告効果の考え方を根底から覆す新手法](https://amzn.to/3voab3X)
+- [ ] 図解入門ビジネス ネット広告の基本と仕組みがすべてわかる本
+- [ ] [ネット広告ハンドブック](https://amzn.to/3q6iArM)
+- [ ] 顧客を知るためのデータマネジメントプラットフォーム　DMP入門
+- [ ] [DMPのしくみとオーディエンスデータの活用](https://amzn.to/3z5z6vU)
+- [ ] いちばんやさしい音声配信ビジネスの教本 人気講師が教える新しいメディアの基礎
+- [ ] CMを科学する
+- [ ] トリプルメディアマーケティング ソーシャルメディア、自社メディア、広告の連携戦略
+- [ ] 究極のターゲティング―次世代ネット広告テクノロジー
+- [ ] 次世代広告コミュニケーション
+- [ ] インターネット広告革命―クロスメディアが「広告」を変える。
+- [ ] ネット広告運用“打ち手”大全 成果にこだわるマーケ＆販促 最強の戦略102
+- [ ] 広告でいちばん大切なこと
+
 
 ### 大規模データ処理
 
 ### 統計・データサイエンス
+- [ ] 10年戦えるデータ分析入門 SQLを武器にデータ活用時代を生き抜く
+- 統計分析
+  - [ ] 完全独習　統計学入門
+  - [ ] とある弁当屋のデータサイエンティスト
+  - [ ] 共分散構造分析 はじめの一歩
+  - [ ] 多変量解析法入門 (ライブラリ新数学大系) 
+- 時系列解析
+  - [ ] [現場ですぐ使える時系列データ分析 ~データサイエンティストのための基礎知識~](https://www.amazon.co.jp/%E7%8F%BE%E5%A0%B4%E3%81%A7%E3%81%99%E3%81%90%E4%BD%BF%E3%81%88%E3%82%8B%E6%99%82%E7%B3%BB%E5%88%97%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90-%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98-%E6%A8%AA%E5%86%85-%E5%A4%A7%E4%BB%8B/dp/4774163015/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E7%8F%BE%E5%A0%B4%E3%81%A7%E3%81%99%E3%81%90%E4%BD%BF%E3%81%88%E3%82%8B%E6%99%82%E7%B3%BB%E5%88%97%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90+%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98&qid=1632919938&sr=8-1)
+  - [ ] 実践 時系列解析 ――統計と機械学習による予測
+- 数理最適化
+  - [ ] これなら分かる最適化数学―基礎原理から計算手法まで
+- Machine Learning
+  - [x] [Coursera Machine Learning course](url)
+  - [x] [Coursera Deep Learning course](url)
+  - [x] [Udacity Machine Learning course](url)
+  - [ ] Python 機械学習プログラミング 達人データサイエンティストによる理論と実践
+  - [x] [すぐに使える! 業務で実践できる! PythonによるAI・機械学習・深層学習アプリの作り方](url)
+- 制御工学
+- 因果推論
+  - [ ] 貧乏人の経済学――もういちど貧困問題を根っこから考える
+  - [ ] 政策評価のための因果関係の見つけ方 ランダム化比較試験入門
+  - [ ] 統計的因果探索 
+  - [ ] 入門 統計的因果推論
+  - [ ] Excelでできるデータドリブン・マーケティング
+  - [ ] データ分析の力　因果関係に迫る思考法
+- 計量経済学
+  - [ ] 計量経済学の第一歩 実証分析のススメ
+- 行動経済学
 
-## Language
-
-## Web
-- [x] [Webを支える技術](url)
-- [x] [WebAPI The Good Parts](url)
-- [ ] イラスト図解式 この一冊で全部わかるWeb技術の基本
-- [ ] Webエンジニアが知っておきたいインフラの基本
-- [ ] Nginx実践入門
-- [ ] 初めてのGraphQL ―Webサービスを作って学ぶ新世代API
-- [ ] [スターティングgRPC](https://booth.pm/ja/items/1315322)
-- [ ] [Web開発者のための]大規模サービス技術入門 ―データ構造、メモリ、OS、DB、サーバ/インフラ
-- [ ] [24時間365日] サーバ/インフラを支える技術 ‾スケーラビリティ、ハイパフォーマンス、省力運用
-- [x] [HTML5/CSS3モダンコーディング フロントエンドエンジニアが教える3つの本格レイアウト スタンダード・グリッド・シングルページレイアウトの作り方](https://amzn.to/3m60nKY)
-- Ruby on Rails
-  - [x] [Railsチュートリアル](url)
-  - [x] [パーフェクトRuby on Rails](url)
-  - [x] [Everyday Rails - RSpecによるRailsテスト入門](url)
-  - [x] [使えるRSpec入門 1〜4](url)
-  - [x] [現場で使える Ruby on Rails 5速習実践ガイド](https://www.amazon.co.jp/%E7%8F%BE%E5%A0%B4%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B-Ruby-Rails-5%E9%80%9F%E7%BF%92%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-%E5%A4%A7%E5%A0%B4%E5%AF%A7%E5%AD%90/dp/4839962227)
-  - [x] [Railsガイド(モデルの途中くらいまで読んだ)](url)
-
-- Spring
-  - [ ] Spring Bootが丸わかり Spring解体新書
-- パフォーマンス・チューニング
-  - [x] [GoでISUCONパフォーマンスチューニング ](url)
-  - [ ] [Webサービスチューニングコンテスト ISUCONのススメ](https://techbookfest.org/product/4915388672376832?productVariantID=6054344950546432)
-  - [ ] [Software Design (ソフトウェアデザイン) 2021年7月号](https://amzn.to/3y4hf8j)
-  - [ ] ISUCONのススメ
-  - [ ] ボトルネックがすぐわかる 現場のための Webサーバ高速化教本
-- chrome拡張機能
-  - [x] [Google Chrome - 拡張機能 開発大全 -](https://booth.pm/ja/items/2459744)
-  - [x] [React & TypeScript Chrome Extension Development [2021]](https://www.udemy.com/course/chrome-extension/)
-- サーバーレス
-  - [x] [クリーンアーキテクチャとサーバレスで実装するWebAPI](https://amzn.to/2XPepXu)
-  - [x] [AWS Lambda実践ガイド](https://amzn.to/3sFCThd)
-
-## データベース
-- [x] [達人に学ぶDB設計徹底指南書](url)
-- [x] [courseraのSQLコース](url)
-- [x] [SQL ゼロからはじめるデータベース操作](https://amzn.to/3uNNOoX)
-- [ ] SQLアンチパターン
-- [x] [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf)
-- [ ] SQLパズル
-- [ ] RDBMS解剖学 よくわかるリレーショナルデータベースの仕組み
-- [ ] 詳説 データベース
-- [ ] [Webエンジニアのための データベース技術[実践]入門](https://amzn.to/3novP7Z)
 
 ## システムソフトウェアとオペレーティング・システム
 - [ ] [Linux Kernel Programming: A comprehensive guide to kernel internals, writing kernel modules, and kernel synchronization](https://amzn.to/3vhizm1)
 - [ ] ゼロからのOS自作入門
 - [x] [ハイパーバイザの作り方～ちゃんと理解する仮想化技術～](http://syuu1228.github.io/howto_implement_hypervisor)
 - [x] [おうちで学べる仮想化の基本](url)
-- [x] [マンガでわかるDocker](url)
-- [x] [Docker実践ガイド](url)
-- [x] [Docker/Kubernetes実践コンテナ開発入門](url)
-- [ ] Docker
 - [ ] [モダンオペレーティングシステム](url)
   - [x] ~2
 - [ ] 入門UNIXシェルプログラミング
@@ -245,29 +348,6 @@
 - [ ] プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則
 - [ ] はじめて学ぶソフトウェアテストの技法
 
-## アルゴリズム
-- [x] [アルゴリズム図鑑](url)
-- [ ] アルゴリズムとデータ構造
-- [ ] 世界で闘うプログラミング力を鍛える本 -コーディング面接189問とその解法-
-
-## ネットワーク
-- [x] [マスタリングTCP/IP 入門編](url)
-- [ ] ネットワークはなぜつながるのか
-- [ ] プロフェッショナルIPv6
-- [ ] 徹底攻略 ネットワークスペシャリスト
-- [ ] DNSがよくわかる教科書
-- [ ] 3分間ネットワーク基礎講座
-- [ ] 詳解TCP/IP
-- [ ] Computer Networking: A Top Down Approach 7/e
-- [ ] Computer Networks 6/e
-
-## セキュリティ
-- [ ] Linuxサーバーセキュリティ徹底入門
-- [ ] 体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 脆弱性が生まれる原理と対策の実践
-- [ ] 暗号技術入門
-- [x] [情報処理教科書 出るとこだけ！情報セキュリティマネジメント](https://amzn.to/2PKSL2S)
-- [ ] 解題pwnable セキュリティコンテストに挑戦しよう！
-
 ## ソフトウェア工学
 - [ ] ソフトウェアアーキテクチャ
 - [ ] オブジェクト指向設計
@@ -286,105 +366,21 @@
 - [ ] オブジェクト指向設計実践ガイド ～Rubyでわかる 進化しつづける柔軟なアプリケーションの育て方
 - [ ] Clean Architecture　達人に学ぶソフトウェアの構造と設計
 
-## データ分析
-- [ ] 10年戦えるデータ分析入門 SQLを武器にデータ活用時代を生き抜く
-- 数学
-  - [x] [中学3年間の数学を8時間でやり直す本](url)
-  - [x] [初めから始める数学1・A Part1](url)
-  - [x] [初めから始める数学1・A Part2](url)
-  - [x] [初めから始める数学2・B Part1](url)
-  - [x] [初めから始める数学2・B Part2](url)
-  - [x] [初めから始める数学3・C Part1](url)
-  - [x] [初めから始める数学3・C Part2](url)
-  - [x] [大学基礎数学 線形代数 ](url)
-  - [x] [線形代数 キャンパス・ゼミ](url)
-  - [x] [大学基礎数学 確立統計](url)
-  - [x] [統計学 キャンパス・ゼミ](url)
-  - [x] [大学基礎数学 確立統計](url)
-  - [x] [統計学 キャンパス・ゼミ](url)
-- 統計分析
-  - [ ] 完全独習　統計学入門
-  - [ ] とある弁当屋のデータサイエンティスト
-  - [ ] 共分散構造分析 はじめの一歩
-  - [ ] 多変量解析法入門 (ライブラリ新数学大系) 
-- 時系列解析
-  - [ ] [現場ですぐ使える時系列データ分析 ~データサイエンティストのための基礎知識~](https://www.amazon.co.jp/%E7%8F%BE%E5%A0%B4%E3%81%A7%E3%81%99%E3%81%90%E4%BD%BF%E3%81%88%E3%82%8B%E6%99%82%E7%B3%BB%E5%88%97%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90-%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98-%E6%A8%AA%E5%86%85-%E5%A4%A7%E4%BB%8B/dp/4774163015/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E7%8F%BE%E5%A0%B4%E3%81%A7%E3%81%99%E3%81%90%E4%BD%BF%E3%81%88%E3%82%8B%E6%99%82%E7%B3%BB%E5%88%97%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90+%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98&qid=1632919938&sr=8-1)
-  - [ ] 実践 時系列解析 ――統計と機械学習による予測
-- 数理最適化
-  - [ ] これなら分かる最適化数学―基礎原理から計算手法まで
-- Machine Learning
-  - [x] [Coursera Machine Learning course](url)
-  - [x] [Coursera Deep Learning course](url)
-  - [x] [Udacity Machine Learning course](url)
-  - [ ] Python 機械学習プログラミング 達人データサイエンティストによる理論と実践
-  - [x] [すぐに使える! 業務で実践できる! PythonによるAI・機械学習・深層学習アプリの作り方](url)
-- 制御工学
-- 因果推論
-  - [ ] 貧乏人の経済学――もういちど貧困問題を根っこから考える
-  - [ ] 政策評価のための因果関係の見つけ方 ランダム化比較試験入門
-  - [ ] 統計的因果探索 
-  - [ ] 入門 統計的因果推論
-  - [ ] Excelでできるデータドリブン・マーケティング
-  - [ ] データ分析の力　因果関係に迫る思考法
-- 計量経済学
-  - [ ] 計量経済学の第一歩 実証分析のススメ
-- 行動経済学
-## その他
+
+# その他
 - [ ] OAuth徹底入門
 - [ ] Web配信の技術
-- [ ] 文字コード超研究
 - [ ] カンバン仕事術
 - [ ] DevOps Handbook
 - [x] [thrift tutorial](https://thrift-tutorial.readthedocs.io/en/latest/index.html)
-- Kubernetes
-  - [x] [Kubernetesチュートリアル](url)
-  - [ ] [15Stepで習得 Dockerから入るKubernetes コンテナ開発からK8s本番運用まで](https://amzn.to/3pL0uLQ)
-    - [x] ~2章, 3章6,7,10,14
-  - [ ] Kubernetes完全ガイド 第2版 
-  - [ ] Kubernetes実践ガイド　クラウドネイティブアプリケーションを支える技術
-- AWS
-  - [x] [Amazon Web Services 基礎からのネットワーク&サーバー構築](url)
-  - [x] [ゼロからわかるAmazon Web Service](url)
-  - [x] [AWS Hands-on for Beginners 〜スケーラブルウェブサイト構築編〜](https://pages.awscloud.com/event_JAPAN_Hands-on-for-Beginners-Scalable_Contents.html)
-  - [x] [AWS Well-Architected Frameworkハンズオン](https://www.wellarchitectedlabs.com/reliability/300_labs/300_testing_for_resiliency_of_ec2_rds_and_s3/)
-- UI/UX
-  - [x] [なるほどデザイン](url)
-  - [x] [Figma入門](https://note.com/fjkn/m/m9829c621e025)
-  - [x] [はじめてのUIデザイン](https://amzn.to/3fU6JJP)
-  - [ ] マイクロインタラクション ―UI/UXデザインの神が宿る細部
-  - [ ] Atomic Design ~堅牢で使いやすいUIを効率良く設計する
 - Tech Book
   - [x] [Moneyforward Tech Book](url)
   - [x] [ABEMA Tech Book](url)
   - [x] [Wantedly Tech Book](url)
-- DevOps
-  - [ ] [LeanとDevOpsの科学 テクノロジーの戦略的活用が組織変革を加速する](https://amzn.to/2Wdu7uW)
-  - [ ] 継続的デリバリー　信頼できるソフトウエアリリースのためのビルド・テスト・デプロイメントの自動化
-  - [ ] The DevOps ハンドブック 理論・原則・実践のすべて
 - 資格
   - [x] [ITパスポート試験 対策テキスト&過去問題集 (よくわかるマスター)](https://amzn.to/3t5ZHpA)
   - [x] [かんたん合格 基本情報技術者教科書](https://amzn.to/2RkyK3I)
   - [x] [キタミ式イラストIT塾 応用情報技術者](https://amzn.to/2PF3uvT)
-- アドテク
-  - [x] [アドテクノロジーの教科書 デジタルマーケティング実践指南](https://amzn.to/3hFpH8L)
-  - [x] [予算が見える・効果が上がる　ネット広告徹底活用ガイド](https://amzn.to/3hp7JqO)
-  - [x] [必携 インターネット広告 プロが押さえておきたい新常識](https://amzn.to/3bsD08B)
-  - [x] [ネット広告がわかる 基本キーワード70](https://amzn.to/3f19icI)
-  - [x] [ザ・アドテクノロジー](https://amzn.to/33Y4puV)
-  - [ ] この一冊ですべてわかる広告の基本
-  - [x] [アトリビューション 広告効果の考え方を根底から覆す新手法](https://amzn.to/3voab3X)
-  - [ ] 図解入門ビジネス ネット広告の基本と仕組みがすべてわかる本
-  - [ ] [ネット広告ハンドブック](https://amzn.to/3q6iArM)
-  - [ ] 顧客を知るためのデータマネジメントプラットフォーム　DMP入門
-  - [ ] [DMPのしくみとオーディエンスデータの活用](https://amzn.to/3z5z6vU)
-  - [ ] いちばんやさしい音声配信ビジネスの教本 人気講師が教える新しいメディアの基礎
-  - [ ] CMを科学する
-  - [ ] トリプルメディアマーケティング ソーシャルメディア、自社メディア、広告の連携戦略
-  - [ ] 究極のターゲティング―次世代ネット広告テクノロジー
-  - [ ] 次世代広告コミュニケーション
-  - [ ] インターネット広告革命―クロスメディアが「広告」を変える。
-  - [ ] ネット広告運用“打ち手”大全 成果にこだわるマーケ＆販促 最強の戦略102
-  - [ ] 広告でいちばん大切なこと
 - エディタ
   - [ ] [IntelliJ IDEA公式チュートリアル](https://pleiades.io/help/idea/discover-intellij-idea.html#IntelliJ-IDEA-supported-languages) 
   - [ ] IntelliJ IDEAハンズオン ――基本操作からプロジェクト管理までマスタ
@@ -392,7 +388,6 @@
   - [ ] これ一冊でできる！ラズベリーパイ超入門
   - [x] [ラズパイマガジン2021年春号](https://amzn.to/3dta1Cy)
 - メッセージキュー
-  - [ ] RabbitMQ Tutorials
 - 自動化
   - [x] [ひとり情シスのためのRPA導入ガイド](https://amzn.to/2YoZFyR)
   - [x] [Pythonクローリング＆スクレイピング[増補改訂版] -データ収集・解析のための実践開発ガイド](https://amzn.to/3tabxjy)
