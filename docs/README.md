@@ -46,6 +46,17 @@
 - Vue.js
 
 ### OS
+- [ ] [Linux Kernel Programming: A comprehensive guide to kernel internals, writing kernel modules, and kernel synchronization](https://amzn.to/3vhizm1)
+- [ ] ゼロからのOS自作入門
+- [ ] [モダンオペレーティングシステム](url)
+  - [x] ~2
+- [ ] 入門UNIXシェルプログラミング
+- [x] [Linux標準教科書](url) 
+- [ ] 詳解LINUXカーネル
+- [ ] 最新コンパイラ構成技法
+- [ ] ubuntuのスクリプトを読む
+- [ ] SICP: Structure and Interpretation of Computer Programs
+- [ ] The Art of Computer Systems Performance Analysis
 
 ### プログラミング言語
 - [ ] 2週間でできる！スクリプト言語の作り方
@@ -113,6 +124,7 @@
 - [ ] RDBMS解剖学 よくわかるリレーショナルデータベースの仕組み
 - [ ] 詳説 データベース
 - [x] [Webエンジニアのための データベース技術[実践]入門(2, 4-2, 9-1~3, 12-5)](https://amzn.to/3novP7Z)
+- [ ] ビッグデータ分析・活用のためのSQLレシピ
 
 ### API
 - [x] [WebAPI The Good Parts](url)
@@ -130,8 +142,14 @@
   - [x] [スターティングgRPC](https://booth.pm/ja/items/1315322)
 
 ### キャッシュ
+- [ ] Web配信の技術
 
 ### Webのセキュリティ
+- [ ] Linuxサーバーセキュリティ徹底入門
+- [ ] 体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 脆弱性が生まれる原理と対策の実践
+- [ ] 暗号技術入門
+- [x] [情報処理教科書 出るとこだけ！情報セキュリティマネジメント](https://amzn.to/2PKSL2S)
+- [ ] 解題pwnable セキュリティコンテストに挑戦しよう！
 
 ### テスト
 
@@ -140,6 +158,7 @@
   - [ ] [LeanとDevOpsの科学 テクノロジーの戦略的活用が組織変革を加速する](https://amzn.to/2Wdu7uW)
   - [ ] 継続的デリバリー　信頼できるソフトウエアリリースのためのビルド・テスト・デプロイメントの自動化
   - [ ] The DevOps ハンドブック 理論・原則・実践のすべて
+  - [ ] DevOps Handbook
 - Kubernetes
   - [x] [Kubernetesチュートリアル](url)
   - [ ] [15Stepで習得 Dockerから入るKubernetes コンテナ開発からK8s本番運用まで](https://amzn.to/3pL0uLQ)
@@ -164,6 +183,8 @@
 - [ ] Docker
 
 ### 仮想化
+- [x] [ハイパーバイザの作り方～ちゃんと理解する仮想化技術～](http://syuu1228.github.io/howto_implement_hypervisor)
+- [x] [おうちで学べる仮想化の基本](url)
 
 ### GraphQL
 - [ ] 初めてのGraphQL ―Webサービスを作って学ぶ新世代API
@@ -227,11 +248,6 @@
 - [ ] 文字コード超研究
 
 ### セキュリティ
-- [ ] Linuxサーバーセキュリティ徹底入門
-- [ ] 体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 脆弱性が生まれる原理と対策の実践
-- [ ] 暗号技術入門
-- [x] [情報処理教科書 出るとこだけ！情報セキュリティマネジメント](https://amzn.to/2PKSL2S)
-- [ ] 解題pwnable セキュリティコンテストに挑戦しよう！
 
 
 ### システム開発技術
@@ -272,7 +288,6 @@
 - [ ] ネット広告運用“打ち手”大全 成果にこだわるマーケ＆販促 最強の戦略102
 - [ ] 広告でいちばん大切なこと
 
-
 ### 大規模データ処理
 
 ### 統計・データサイエンス
@@ -307,20 +322,8 @@
 
 
 # TODO: カテゴリ再編集
-## システムソフトウェアとオペレーティング・システム
-- [ ] [Linux Kernel Programming: A comprehensive guide to kernel internals, writing kernel modules, and kernel synchronization](https://amzn.to/3vhizm1)
-- [ ] ゼロからのOS自作入門
-- [x] [ハイパーバイザの作り方～ちゃんと理解する仮想化技術～](http://syuu1228.github.io/howto_implement_hypervisor)
-- [x] [おうちで学べる仮想化の基本](url)
-- [ ] [モダンオペレーティングシステム](url)
-  - [x] ~2
-- [ ] 入門UNIXシェルプログラミング
-- [x] [Linux標準教科書](url) 
-- [ ] 詳解LINUXカーネル
-- [ ] 最新コンパイラ構成技法
-- [ ] ubuntuのスクリプトを読む
-- [ ] SICP: Structure and Interpretation of Computer Programs
-- [ ] The Art of Computer Systems Performance Analysis
+
+
 
 ## システム・アーキテクチャ
 - [ ] [コンピュータシステムの理論と実装](https://github.com/MasatoraAtarashi/nand2tetris)
@@ -372,9 +375,7 @@
 
 # その他
 - [ ] OAuth徹底入門
-- [ ] Web配信の技術
 - [ ] カンバン仕事術
-- [ ] DevOps Handbook
 - Tech Book
   - [x] [Moneyforward Tech Book](url)
   - [x] [ABEMA Tech Book](url)
@@ -389,7 +390,6 @@
 - 電子工作
   - [ ] これ一冊でできる！ラズベリーパイ超入門
   - [x] [ラズパイマガジン2021年春号](https://amzn.to/3dta1Cy)
-- メッセージキュー
 - 自動化
   - [x] [ひとり情シスのためのRPA導入ガイド](https://amzn.to/2YoZFyR)
   - [x] [Pythonクローリング＆スクレイピング[増補改訂版] -データ収集・解析のための実践開発ガイド](https://amzn.to/3tabxjy)
