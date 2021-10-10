@@ -45,19 +45,6 @@
   - [ ] [りあクト！3](url)
 - Vue.js
 
-### OS
-- [ ] [Linux Kernel Programming: A comprehensive guide to kernel internals, writing kernel modules, and kernel synchronization](https://amzn.to/3vhizm1)
-- [ ] ゼロからのOS自作入門
-- [ ] [モダンオペレーティングシステム](url)
-  - [x] ~2
-- [ ] 入門UNIXシェルプログラミング
-- [x] [Linux標準教科書](url) 
-- [ ] 詳解LINUXカーネル
-- [ ] 最新コンパイラ構成技法
-- [ ] ubuntuのスクリプトを読む
-- [ ] SICP: Structure and Interpretation of Computer Programs
-- [ ] The Art of Computer Systems Performance Analysis
-
 ### プログラミング言語
 - [ ] 2週間でできる！スクリプト言語の作り方
 - C
@@ -93,8 +80,6 @@
   - [x] [Gradle User Guide](http://gradle.monochromeroad.com/docs/userguide/userguide.html)
   - [x] [JUnit実践入門 ── 体系的に学ぶユニットテストの技法(直近必要になったとこだけ)](https://amzn.to/3phGoc9)
   - [ ] 『なぜ，あなただけJavaでオブジェクト指向開発ができないのか？』～Javaの壁を克服する実践トレーニング～
-  - [ ] Java言語で学ぶデザインパターン入門
-  - [ ] Java言語で学ぶデザインパターン入門 マルチスレッド編
   - [ ] Java言語で学ぶリファクタリング入門
   - [ ] Effective Java
 - swift
@@ -153,6 +138,9 @@
 - [ ] 解題pwnable セキュリティコンテストに挑戦しよう！
 
 ### テスト
+- [ ] 知識ゼロから学ぶソフトウェアテスト
+- [ ] テスト駆動開発
+- [ ] はじめて学ぶソフトウェアテストの技法
 
 ### CI/CD
 - DevOps
@@ -168,11 +156,28 @@
   - [ ] Kubernetes実践ガイド　クラウドネイティブアプリケーションを支える技術
 
 ### デザインパターン
+- [ ] Java言語で学ぶデザインパターン入門
+- [ ] Java言語で学ぶデザインパターン入門 マルチスレッド編
+- [ ] オブジェクト指向設計実践ガイド ～Rubyでわかる 進化しつづける柔軟なアプリケーションの育て方
+- [ ] オブジェクト指向設計
+- [ ] オブジェクト指向における再利用のためのデザインパターン
+- [ ] オブジェクト指向でなぜつくるのか
+- [ ] Head First デザインパターン
+- [ ] アンチパターン
 
 ### アーキテクチャパターン
+- DDD
+  - [ ] エリック・エヴァンスのドメイン駆動設計
+  - [ ] 実践ドメイン駆動設計
+  - [ ] ドメイン駆動設計入門 ボトムアップでわかる！ドメイン駆動設計の基本
+- クリーンアーキテクチャ
+  - [ ] Clean Architecture　達人に学ぶソフトウェアの構造と設計
+  - [ ] ソフトウェアアーキテクチャ
 - サーバーレス
   - [x] [クリーンアーキテクチャとサーバレスで実装するWebAPI](https://amzn.to/2XPepXu)
   - [x] [AWS Lambda実践ガイド](https://amzn.to/3sFCThd)
+- マイクロサービス
+  - [ ] マイクロサービスアーキテクチャ
 
 ### メッセージブローカー
 - [ ] RabbitMQ Tutorials
@@ -200,17 +205,7 @@
   - [x] [ゼロからわかるAmazon Web Service](url)
   - [x] [AWS Hands-on for Beginners 〜スケーラブルウェブサイト構築編〜](https://pages.awscloud.com/event_JAPAN_Hands-on-for-Beginners-Scalable_Contents.html)
   - [x] [AWS Well-Architected Frameworkハンズオン](https://www.wellarchitectedlabs.com/reliability/300_labs/300_testing_for_resiliency_of_ec2_rds_and_s3/)
-  - [ ] [AWS CloudFormation ハンズオン](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-cfn-2020-reg-event-LP.html?trk=aws_blog_k)
-
-### プロダクトを拡大させる
-- UI/UX
-  - [x] [なるほどデザイン](url)
-  - [x] [Figma入門](https://note.com/fjkn/m/m9829c621e025)
-  - [x] [はじめてのUIデザイン](https://amzn.to/3fU6JJP)
-  - [ ] マイクロインタラクション ―UI/UXデザインの神が宿る細部
-  - [ ] Atomic Design ~堅牢で使いやすいUIを効率良く設計する
-
-### その他
+  - [ ] [AWS CloudFormation ハンズオン](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-cfn-2020-reg-event-LP.html?trk=aws_blog_k)  
 
 # CS
 ### 数学
@@ -248,27 +243,43 @@
 - [ ] CPUの創り方
 - [x] [ARMで学ぶアセンブリ言語入門](https://amzn.to/35MV49T)
 - [ ] Principles and Practices of Interconnection Networks
+- [ ] RISC-VとChiselで学ぶ　はじめてのCPU自作　――オープンソース命令セットによるカスタムCPU実装への第一歩
 
 ### システム構成要素
 
 ### ソフトウェア
-
+- [ ] [Linux Kernel Programming: A comprehensive guide to kernel internals, writing kernel modules, and kernel synchronization](https://amzn.to/3vhizm1)
+- [ ] ゼロからのOS自作入門
+- [ ] [モダンオペレーティングシステム](url)
+  - [x] ~2
+- [ ] 入門UNIXシェルプログラミング
+- [x] [Linux標準教科書](url) 
+- [ ] 詳解LINUXカーネル
+- [ ] 最新コンパイラ構成技法
+- [ ] ubuntuのスクリプトを読む
+- [ ] SICP: Structure and Interpretation of Computer Programs
+- [ ] The Art of Computer Systems Performance Analysis
 
 ### ハードウェア
+- [ ] これ一冊でできる！ラズベリーパイ超入門
+- [x] [ラズパイマガジン2021年春号](https://amzn.to/3dta1Cy)
 
 ### ヒューマンインタフェース
+- [x] [なるほどデザイン](url)
+- [x] [Figma入門](https://note.com/fjkn/m/m9829c621e025)
+- [x] [はじめてのUIデザイン](https://amzn.to/3fU6JJP)
+- [ ] マイクロインタラクション ―UI/UXデザインの神が宿る細部
+- [ ] Atomic Design ~堅牢で使いやすいUIを効率良く設計する
 
 ### マルチメディア
 - [ ] 文字コード超研究
 
 ### セキュリティ
 
-
 ### システム開発技術
 - [x] [リーダブルコード](url)
 - [x] [関数プログラミング実践入門](https://amzn.to/2P9O81Y)
 - [x] [なぜ関数プログラミングは重要か](https://www.sampou.org/haskell/article/whyfp.html)
-- [ ] オブジェクト指向でなぜつくるのか
 - [ ] Code Reading オープンソースから学ぶソフトウェア開発技法
 - [ ] リファクタリング
 - [ ] レガシーコード改善ガイド
@@ -278,25 +289,11 @@
 - [ ] 良いコードを書く技術
 - [ ] コード・リーディング
 - [ ] プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則
-- [ ] はじめて学ぶソフトウェアテストの技法
-- [ ] ソフトウェアアーキテクチャ
-- [ ] オブジェクト指向設計
-- [ ] オブジェクト指向における再利用のためのデザインパターン
-- [ ] Head First デザインパターン
-- [ ] アンチパターン
-- [ ] マイクロサービスアーキテクチャ
-- [ ] エリック・エヴァンスのドメイン駆動設計
-- [ ] 実践ドメイン駆動設計
-- [ ] ドメイン駆動設計入門 ボトムアップでわかる！ドメイン駆動設計の基本
-- [x] [スクラムガイド](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Japanese.pdf)
-- [x] [アジャイルソフトウェア開発宣言](https://agilemanifesto.org/iso/ja/manifesto.html)
-- [ ] アジャイルサムライ
-- [ ] 知識ゼロから学ぶソフトウェアテスト
-- [ ] テスト駆動開発
-- [ ] オブジェクト指向設計実践ガイド ～Rubyでわかる 進化しつづける柔軟なアプリケーションの育て方
-- [ ] Clean Architecture　達人に学ぶソフトウェアの構造と設計
 
 ### ソフトウェア開発管理技術
+- [ ] アジャイルサムライ
+- [x] [スクラムガイド](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Japanese.pdf)
+- [x] [アジャイルソフトウェア開発宣言](https://agilemanifesto.org/iso/ja/manifesto.html)
 
 ### プロジェクトマネジメント
 
@@ -378,9 +375,6 @@
 - エディタ
   - [ ] [IntelliJ IDEA公式チュートリアル](https://pleiades.io/help/idea/discover-intellij-idea.html#IntelliJ-IDEA-supported-languages) 
   - [ ] IntelliJ IDEAハンズオン ――基本操作からプロジェクト管理までマスタ
-- 電子工作
-  - [ ] これ一冊でできる！ラズベリーパイ超入門
-  - [x] [ラズパイマガジン2021年春号](https://amzn.to/3dta1Cy)
 - 自動化
   - [x] [ひとり情シスのためのRPA導入ガイド](https://amzn.to/2YoZFyR)
   - [x] [Pythonクローリング＆スクレイピング[増補改訂版] -データ収集・解析のための実践開発ガイド](https://amzn.to/3tabxjy)
