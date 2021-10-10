@@ -199,6 +199,7 @@
   - [x] [ゼロからわかるAmazon Web Service](url)
   - [x] [AWS Hands-on for Beginners 〜スケーラブルウェブサイト構築編〜](https://pages.awscloud.com/event_JAPAN_Hands-on-for-Beginners-Scalable_Contents.html)
   - [x] [AWS Well-Architected Frameworkハンズオン](https://www.wellarchitectedlabs.com/reliability/300_labs/300_testing_for_resiliency_of_ec2_rds_and_s3/)
+  - [ ] [AWS CloudFormation ハンズオン](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-cfn-2020-reg-event-LP.html?trk=aws_blog_k)
 
 ### プロダクトを拡大させる
 - UI/UX
@@ -235,10 +236,22 @@
 - [ ] 世界で闘うプログラミング力を鍛える本 -コーディング面接189問とその解法-
 
 ### コンピュータ構成要素
+- [ ] [コンピュータシステムの理論と実装](https://github.com/MasatoraAtarashi/nand2tetris)
+  - [x] ~4章
+- [x] [コンピュータの構成と設計(パタヘネ)(上)](https://amzn.to/3fAB3rT)
+- [ ] コンピュータの構成と設計(パタヘネ)(下)
+- [x] [プロセッサを支える技術](url)
+- [x] [自作エミュレータで学ぶx86アーキテクチャ　コンピュータが動く仕組みを徹底理解！](url)
+- [ ] GPUを支える技術
+- [ ] はじめて読む485
+- [ ] CPUの創り方
+- [x] [ARMで学ぶアセンブリ言語入門](https://amzn.to/35MV49T)
+- [ ] Principles and Practices of Interconnection Networks
 
 ### システム構成要素
 
 ### ソフトウェア
+
 
 ### ハードウェア
 
@@ -251,6 +264,36 @@
 
 
 ### システム開発技術
+- [x] [リーダブルコード](url)
+- [x] [関数プログラミング実践入門](https://amzn.to/2P9O81Y)
+- [x] [なぜ関数プログラミングは重要か](https://www.sampou.org/haskell/article/whyfp.html)
+- [ ] オブジェクト指向でなぜつくるのか
+- [ ] Code Reading オープンソースから学ぶソフトウェア開発技法
+- [ ] リファクタリング
+- [ ] レガシーコード改善ガイド
+- [ ] レガシーコードからの脱却
+- [ ] Code Complete
+- [ ] 達人プログラマー
+- [ ] 良いコードを書く技術
+- [ ] コード・リーディング
+- [ ] プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則
+- [ ] はじめて学ぶソフトウェアテストの技法
+- [ ] ソフトウェアアーキテクチャ
+- [ ] オブジェクト指向設計
+- [ ] オブジェクト指向における再利用のためのデザインパターン
+- [ ] Head First デザインパターン
+- [ ] アンチパターン
+- [ ] マイクロサービスアーキテクチャ
+- [ ] エリック・エヴァンスのドメイン駆動設計
+- [ ] 実践ドメイン駆動設計
+- [ ] ドメイン駆動設計入門 ボトムアップでわかる！ドメイン駆動設計の基本
+- [x] [スクラムガイド](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Japanese.pdf)
+- [x] [アジャイルソフトウェア開発宣言](https://agilemanifesto.org/iso/ja/manifesto.html)
+- [ ] アジャイルサムライ
+- [ ] 知識ゼロから学ぶソフトウェアテスト
+- [ ] テスト駆動開発
+- [ ] オブジェクト指向設計実践ガイド ～Rubyでわかる 進化しつづける柔軟なアプリケーションの育て方
+- [ ] Clean Architecture　達人に学ぶソフトウェアの構造と設計
 
 ### ソフトウェア開発管理技術
 
@@ -319,59 +362,6 @@
 - 計量経済学
   - [ ] 計量経済学の第一歩 実証分析のススメ
 - 行動経済学
-
-
-# TODO: カテゴリ再編集
-
-
-
-## システム・アーキテクチャ
-- [ ] [コンピュータシステムの理論と実装](https://github.com/MasatoraAtarashi/nand2tetris)
-  - [x] ~4章
-- [x] [コンピュータの構成と設計(パタヘネ)(上)](https://amzn.to/3fAB3rT)
-- [ ] コンピュータの構成と設計(パタヘネ)(下)
-- [x] [プロセッサを支える技術](url)
-- [x] [自作エミュレータで学ぶx86アーキテクチャ　コンピュータが動く仕組みを徹底理解！](url)
-- [ ] GPUを支える技術
-- [ ] はじめて読む485
-- [ ] CPUの創り方
-- [x] [ARMで学ぶアセンブリ言語入門](https://amzn.to/35MV49T)
-- [ ] Principles and Practices of Interconnection Networks
-
-## プログラミング
-- [x] [リーダブルコード](url)
-- [x] [関数プログラミング実践入門](https://amzn.to/2P9O81Y)
-- [x] [なぜ関数プログラミングは重要か](https://www.sampou.org/haskell/article/whyfp.html)
-- [ ] オブジェクト指向でなぜつくるのか
-- [ ] Code Reading オープンソースから学ぶソフトウェア開発技法
-- [ ] リファクタリング
-- [ ] レガシーコード改善ガイド
-- [ ] レガシーコードからの脱却
-- [ ] Code Complete
-- [ ] 達人プログラマー
-- [ ] 良いコードを書く技術
-- [ ] コード・リーディング
-- [ ] プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則
-- [ ] はじめて学ぶソフトウェアテストの技法
-
-## ソフトウェア工学
-- [ ] ソフトウェアアーキテクチャ
-- [ ] オブジェクト指向設計
-- [ ] オブジェクト指向における再利用のためのデザインパターン
-- [ ] Head First デザインパターン
-- [ ] アンチパターン
-- [ ] マイクロサービスアーキテクチャ
-- [ ] エリック・エヴァンスのドメイン駆動設計
-- [ ] 実践ドメイン駆動設計
-- [ ] ドメイン駆動設計入門 ボトムアップでわかる！ドメイン駆動設計の基本
-- [x] [スクラムガイド](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Japanese.pdf)
-- [x] [アジャイルソフトウェア開発宣言](https://agilemanifesto.org/iso/ja/manifesto.html)
-- [ ] アジャイルサムライ
-- [ ] 知識ゼロから学ぶソフトウェアテスト
-- [ ] テスト駆動開発
-- [ ] オブジェクト指向設計実践ガイド ～Rubyでわかる 進化しつづける柔軟なアプリケーションの育て方
-- [ ] Clean Architecture　達人に学ぶソフトウェアの構造と設計
-
 
 # その他
 - [ ] OAuth徹底入門
