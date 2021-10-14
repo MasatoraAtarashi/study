@@ -26,6 +26,7 @@
   - [ ] 詳解TCP/IP
   - [ ] Computer Networking: A Top Down Approach 7/e
   - [ ] Computer Networks 6/e
+  - [ ] [UC Berkeley のネットワーク系論文読みの授業シラバス](https://people.eecs.berkeley.edu/~sylvia/cs268-2014/syllabus.html)
 - パフォーマンス・チューニング
   - [x] [GoでISUCONパフォーマンスチューニング ](url)
   - [ ] [Webサービスチューニングコンテスト ISUCONのススメ](https://techbookfest.org/product/4915388672376832?productVariantID=6054344950546432)
