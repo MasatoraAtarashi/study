@@ -150,6 +150,7 @@
   - [ ] 継続的デリバリー　信頼できるソフトウエアリリースのためのビルド・テスト・デプロイメントの自動化
   - [ ] The DevOps ハンドブック 理論・原則・実践のすべて
   - [ ] DevOps Handbook
+  - [ ] [GitHub Actions実践入門](https://miyajan.booth.pm/items/1865906)
 - Kubernetes
   - [x] [Kubernetesチュートリアル](url)
   - [ ] [15Stepで習得 Dockerから入るKubernetes コンテナ開発からK8s本番運用まで](https://amzn.to/3pL0uLQ)
@@ -205,9 +206,13 @@
 - AWS
   - [x] [Amazon Web Services 基礎からのネットワーク&サーバー構築](url)
   - [x] [ゼロからわかるAmazon Web Service](url)
+  - [ ] [AWS Hands-on for Beginners Network編#1 AWS上にセキュアなプライベートネットワーク空間を作成する](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Network1-2020-reg-event-LP.html?trk=aws_introduction_page)
   - [x] [AWS Hands-on for Beginners 〜スケーラブルウェブサイト構築編〜](https://pages.awscloud.com/event_JAPAN_Hands-on-for-Beginners-Scalable_Contents.html)
   - [x] [AWS Well-Architected Frameworkハンズオン](https://www.wellarchitectedlabs.com/reliability/300_labs/300_testing_for_resiliency_of_ec2_rds_and_s3/)
-  - [x] [AWS CloudFormation ハンズオン](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-cfn-2020-reg-event-LP.html?trk=aws_blog_k)  
+  - [x] [AWS CloudFormation ハンズオン](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-cfn-2020-reg-event-LP.html?trk=aws_blog_k) 
+  - [ ] [AWS Batch ハンズオン](https://qiita.com/pottava/items/435c65b1fa72cb643f6e)
+  - [ ] [AWS CI/CD for Amazon ECSハンズオン](https://pages.awscloud.com/rs/112-TZM-766/images/AWS_CICD_ECS_Handson.pdf)
+  - [ ] [Amazon Web Servicesネットワーク入門](https://www.amazon.co.jp/Amazon-Web-Services%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%85%A5%E9%96%80-impress-gear%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-ebook/dp/B01M2BMB0V/ref=sr_1_1?crid=37Q64VTAF5LBM&dchild=1&keywords=aws+unlimited&qid=1634294947&sr=8-1)
 
 # CS
 ### 数学
