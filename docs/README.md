@@ -27,6 +27,7 @@
   - [ ] Computer Networking: A Top Down Approach 7/e
   - [ ] Computer Networks 6/e
   - [ ] [UC Berkeley のネットワーク系論文読みの授業シラバス](https://people.eecs.berkeley.edu/~sylvia/cs268-2014/syllabus.html)
+  - [ ] TCP技術入門 ――進化を続ける基本プロトコル
 - パフォーマンス・チューニング
   - [x] [GoでISUCONパフォーマンスチューニング ](url)
   - [ ] [Webサービスチューニングコンテスト ISUCONのススメ](https://techbookfest.org/product/4915388672376832?productVariantID=6054344950546432)
@@ -262,6 +263,7 @@
 - [ ] ubuntuのスクリプトを読む
 - [ ] SICP: Structure and Interpretation of Computer Programs
 - [ ] The Art of Computer Systems Performance Analysis
+- [ ] 作って理解するOS x86系コンピュータを動かす理論と実装
 
 ### ハードウェア
 - [ ] ディジタル回路設計とコンピュータアーキテクチャ
