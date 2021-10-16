@@ -76,7 +76,6 @@
   - [x] [スッキリわかるJava入門](https://amzn.to/3eyREx3)
   - [x] [スッキリわかるサーブレット&JSP入門](https://amzn.to/3p98tCk)
   - [x] [Gradle User Guide](http://gradle.monochromeroad.com/docs/userguide/userguide.html)
-  - [x] [JUnit実践入門 ── 体系的に学ぶユニットテストの技法(直近必要になったとこだけ)](https://amzn.to/3phGoc9)
   - [ ] 『なぜ，あなただけJavaでオブジェクト指向開発ができないのか？』～Javaの壁を克服する実践トレーニング～
   - [ ] Java言語で学ぶリファクタリング入門
   - [ ] Effective Java
@@ -99,8 +98,6 @@
 - Ruby on Rails
   - [x] [Railsチュートリアル](url)
   - [x] [パーフェクトRuby on Rails](url)
-  - [x] [Everyday Rails - RSpecによるRailsテスト入門](url)
-  - [x] [使えるRSpec入門 1〜4](url)
   - [x] [現場で使える Ruby on Rails 5速習実践ガイド](https://www.amazon.co.jp/%E7%8F%BE%E5%A0%B4%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B-Ruby-Rails-5%E9%80%9F%E7%BF%92%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-%E5%A4%A7%E5%A0%B4%E5%AF%A7%E5%AD%90/dp/4839962227)
   - [x] [Railsガイド(モデルの途中くらいまで読んだ)](url)
 - Spring
@@ -139,6 +136,9 @@
 - [ ] 体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 脆弱性が生まれる原理と対策の実践
 
 ### テスト
+- [x] [JUnit実践入門 ── 体系的に学ぶユニットテストの技法(直近必要になったとこだけ)](https://amzn.to/3phGoc9)
+- [x] [Everyday Rails - RSpecによるRailsテスト入門](url)
+- [x] [使えるRSpec入門 1〜4](url)
 - [ ] 知識ゼロから学ぶソフトウェアテスト
 - [ ] テスト駆動開発
 - [ ] はじめて学ぶソフトウェアテストの技法
