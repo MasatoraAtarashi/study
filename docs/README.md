@@ -100,6 +100,9 @@
 - Kotlin
 
 ### バージョン管理システム
+- [x] [サル先生のGit入門](https://backlog.com/ja/git-tutorial/)
+- [ ] 入門Git
+- [ ] GitHub実践入門
 
 ### データベース
 - [x] [達人に学ぶDB設計徹底指南書](url)
