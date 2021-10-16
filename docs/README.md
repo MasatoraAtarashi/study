@@ -11,10 +11,6 @@
 ### インターネット
 - [x] [Webを支える技術](url)
 - [ ] イラスト図解式 この一冊で全部わかるWeb技術の基本
-- [ ] Webエンジニアが知っておきたいインフラの基本
-- [ ] Nginx実践入門
-- [ ] [Web開発者のための]大規模サービス技術入門 ―データ構造、メモリ、OS、DB、サーバ/インフラ
-- [ ] [24時間365日] サーバ/インフラを支える技術 ‾スケーラビリティ、ハイパフォーマンス、省力運用
 - ネットワーク
   - [x] [マスタリングTCP/IP 入門編](url)
   - [ ] Real World HTTP
@@ -99,6 +95,18 @@
   - [ ] TypeScript Deep Dive
 - Kotlin
 
+### WAF
+- Ruby on Rails
+  - [x] [Railsチュートリアル](url)
+  - [x] [パーフェクトRuby on Rails](url)
+  - [x] [Everyday Rails - RSpecによるRailsテスト入門](url)
+  - [x] [使えるRSpec入門 1〜4](url)
+  - [x] [現場で使える Ruby on Rails 5速習実践ガイド](https://www.amazon.co.jp/%E7%8F%BE%E5%A0%B4%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B-Ruby-Rails-5%E9%80%9F%E7%BF%92%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-%E5%A4%A7%E5%A0%B4%E5%AF%A7%E5%AD%90/dp/4839962227)
+  - [x] [Railsガイド(モデルの途中くらいまで読んだ)](url)
+- Spring
+  - [ ] Spring Boot2 プログラミング入門
+  - [ ] Spring Bootが丸わかり Spring解体新書
+
 ### バージョン管理システム
 - [x] [サル先生のGit入門](https://backlog.com/ja/git-tutorial/)
 - [ ] 入門Git
@@ -117,17 +125,8 @@
 - [ ] ビッグデータ分析・活用のためのSQLレシピ
 
 ### API
-- [x] [WebAPI The Good Parts](url)
-- Ruby on Rails
-  - [x] [Railsチュートリアル](url)
-  - [x] [パーフェクトRuby on Rails](url)
-  - [x] [Everyday Rails - RSpecによるRailsテスト入門](url)
-  - [x] [使えるRSpec入門 1〜4](url)
-  - [x] [現場で使える Ruby on Rails 5速習実践ガイド](https://www.amazon.co.jp/%E7%8F%BE%E5%A0%B4%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B-Ruby-Rails-5%E9%80%9F%E7%BF%92%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-%E5%A4%A7%E5%A0%B4%E5%AF%A7%E5%AD%90/dp/4839962227)
-  - [x] [Railsガイド(モデルの途中くらいまで読んだ)](url)
-- Spring
-  - [ ] Spring Boot2 プログラミング入門
-  - [ ] Spring Bootが丸わかり Spring解体新書
+- REST
+  - [x] [WebAPI The Good Parts](url)
 - RPC
   - [x] [thrift tutorial](https://thrift-tutorial.readthedocs.io/en/latest/index.html)
   - [x] [スターティングgRPC](https://booth.pm/ja/items/1315322)
@@ -201,6 +200,10 @@
 ### WebSocket
 
 ### Webサーバー
+- [ ] Webエンジニアが知っておきたいインフラの基本
+- [ ] Nginx実践入門
+- [ ] [Web開発者のための]大規模サービス技術入門 ―データ構造、メモリ、OS、DB、サーバ/インフラ
+- [ ] [24時間365日] サーバ/インフラを支える技術 ‾スケーラビリティ、ハイパフォーマンス、省力運用
 
 ### クラウド
 - AWS
@@ -386,7 +389,7 @@
 # その他
 - 認証
   - [ ] OAuth徹底入門
-  - [ ] Software Design (ソフトウェアデザイン) 2021年10月号 挫折しないOAuth/OpenID Connect入門
+  - [x] [Software Design (ソフトウェアデザイン) 2021年10月号 挫折しないOAuth/OpenID Connect入門](https://gihyo.jp/magazine/SD/archive/2021/202110)
 - Tech Book
   - [x] [Moneyforward Tech Book](url)
   - [x] [ABEMA Tech Book](url)
