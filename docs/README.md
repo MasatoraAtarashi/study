@@ -233,6 +233,9 @@
 ### 情報理論
 
 ### アルゴリズムとプログラミング
+- [ ] プログラミングコンテストチャレンジブック(蟻本)
+- [ ] プログラミングコンテスト攻略のためのアルゴリズムとデータ構造(螺旋本)
+- [ ] オンラインジャッジではじめるC/C++プログラミング入門(螺旋本入門)
 - [x] [アルゴリズム図鑑](url)
 - [ ] アルゴリズムとデータ構造
 - [ ] 世界で闘うプログラミング力を鍛える本 -コーディング面接189問とその解法-
@@ -305,6 +308,7 @@
 - [ ] アジャイルサムライ
 - [x] [スクラムガイド](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Japanese.pdf)
 - [x] [アジャイルソフトウェア開発宣言](https://agilemanifesto.org/iso/ja/manifesto.html)
+- [ ] カンバン仕事術
 
 ### プロジェクトマネジメント
 
@@ -377,8 +381,9 @@
 - 行動経済学
 
 # その他
-- [ ] OAuth徹底入門
-- [ ] カンバン仕事術
+- 認証
+  - [ ] OAuth徹底入門
+  - [ ] Software Design (ソフトウェアデザイン) 2021年10月号 挫折しないOAuth/OpenID Connect入門
 - Tech Book
   - [x] [Moneyforward Tech Book](url)
   - [x] [ABEMA Tech Book](url)
