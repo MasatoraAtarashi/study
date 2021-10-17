@@ -30,9 +30,6 @@
   - [ ] [Software Design (ソフトウェアデザイン) 2021年7月号](https://amzn.to/3y4hf8j)
   - [ ] ISUCONのススメ
   - [ ] ボトルネックがすぐわかる 現場のための Webサーバ高速化教本
-- chrome拡張機能
-  - [x] [Google Chrome - 拡張機能 開発大全 -](https://booth.pm/ja/items/2459744)
-  - [x] [React & TypeScript Chrome Extension Development [2021]](https://www.udemy.com/course/chrome-extension/)
 
 ### フロントエンド
 - [x] [HTML5/CSS3モダンコーディング フロントエンドエンジニアが教える3つの本格レイアウト スタンダード・グリッド・シングルページレイアウトの作り方](https://amzn.to/3m60nKY)
@@ -42,6 +39,9 @@
   - [x] [りあクト！2](url)
   - [ ] [りあクト！3](url)
 - Vue.js
+- chrome拡張機能
+  - [x] [Google Chrome - 拡張機能 開発大全 -](https://booth.pm/ja/items/2459744)
+  - [x] [React & TypeScript Chrome Extension Development [2021]](https://www.udemy.com/course/chrome-extension/)
 
 ### プログラミング言語
 - [ ] 2週間でできる！スクリプト言語の作り方
@@ -209,14 +209,13 @@
 - AWS
   - [x] [Amazon Web Services 基礎からのネットワーク&サーバー構築](url)
   - [x] [ゼロからわかるAmazon Web Service](url)
-  - [ ] [AWS Hands-on for Beginners Network編#1 AWS上にセキュアなプライベートネットワーク空間を作成する](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Network1-2020-reg-event-LP.html?trk=aws_introduction_page)
+  - [x] [AWS Hands-on for Beginners Network編#1 AWS上にセキュアなプライベートネットワーク空間を作成する](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Network1-2020-reg-event-LP.html?trk=aws_introduction_page)
   - [x] [AWS Hands-on for Beginners 〜スケーラブルウェブサイト構築編〜](https://pages.awscloud.com/event_JAPAN_Hands-on-for-Beginners-Scalable_Contents.html)
   - [x] [AWS Well-Architected Frameworkハンズオン](https://www.wellarchitectedlabs.com/reliability/300_labs/300_testing_for_resiliency_of_ec2_rds_and_s3/)
   - [x] [AWS CloudFormation ハンズオン](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-cfn-2020-reg-event-LP.html?trk=aws_blog_k) 
-  - [ ] [AWS Batch ハンズオン](https://qiita.com/pottava/items/435c65b1fa72cb643f6e)
   - [ ] [AWS CI/CD for Amazon ECSハンズオン](https://pages.awscloud.com/rs/112-TZM-766/images/AWS_CICD_ECS_Handson.pdf)
-  - [ ] [Amazon Web Servicesネットワーク入門](https://www.amazon.co.jp/Amazon-Web-Services%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%85%A5%E9%96%80-impress-gear%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-ebook/dp/B01M2BMB0V/ref=sr_1_1?crid=37Q64VTAF5LBM&dchild=1&keywords=aws+unlimited&qid=1634294947&sr=8-1)
-
+  - [x] [Amazon Web Servicesネットワーク入門](https://www.amazon.co.jp/Amazon-Web-Services%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%85%A5%E9%96%80-impress-gear%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-ebook/dp/B01M2BMB0V/ref=sr_1_1?crid=37Q64VTAF5LBM&dchild=1&keywords=aws+unlimited&qid=1634294947&sr=8-1)
+  - [ ] [【AWS Black Belt Online Seminar】AWS Batch](https://www.youtube.com/watch?v=-2Kz3d7hPBk)
 # CS
 ### 数学
 - [x] [中学3年間の数学を8時間でやり直す本](url)
