@@ -152,8 +152,7 @@
   - [ ] [GitHub Actions実践入門](https://miyajan.booth.pm/items/1865906)
 - Kubernetes
   - [x] [Kubernetesチュートリアル](url)
-  - [ ] [15Stepで習得 Dockerから入るKubernetes コンテナ開発からK8s本番運用まで](https://amzn.to/3pL0uLQ)
-    - [x] ~2章, 3章6,7,10,14
+  - [x] [15Stepで習得 Dockerから入るKubernetes コンテナ開発からK8s本番運用まで(~2章, 3章6,7,10,14)](https://amzn.to/3pL0uLQ)
   - [ ] Kubernetes完全ガイド 第2版 
   - [ ] Kubernetes実践ガイド　クラウドネイティブアプリケーションを支える技術
 
@@ -172,6 +171,7 @@
   - [ ] エリック・エヴァンスのドメイン駆動設計
   - [ ] 実践ドメイン駆動設計
   - [ ] ドメイン駆動設計入門 ボトムアップでわかる！ドメイン駆動設計の基本
+  - [ ] [DomainDrivenDesignQuicklyOnline_JP](https://www.infoq.com/jp/minibooks/domain-driven-design-quickly/)
 - クリーンアーキテクチャ
   - [ ] Clean Architecture　達人に学ぶソフトウェアの構造と設計
   - [ ] ソフトウェアアーキテクチャ
@@ -215,7 +215,7 @@
   - [x] [AWS CloudFormation ハンズオン](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-cfn-2020-reg-event-LP.html?trk=aws_blog_k) 
   - [ ] [AWS CI/CD for Amazon ECSハンズオン](https://pages.awscloud.com/rs/112-TZM-766/images/AWS_CICD_ECS_Handson.pdf)
   - [x] [Amazon Web Servicesネットワーク入門](https://www.amazon.co.jp/Amazon-Web-Services%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%85%A5%E9%96%80-impress-gear%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-ebook/dp/B01M2BMB0V/ref=sr_1_1?crid=37Q64VTAF5LBM&dchild=1&keywords=aws+unlimited&qid=1634294947&sr=8-1)
-  - [ ] [【AWS Black Belt Online Seminar】AWS Batch](https://www.youtube.com/watch?v=-2Kz3d7hPBk)
+  - [x] [【AWS Black Belt Online Seminar】AWS Batch](https://www.youtube.com/watch?v=-2Kz3d7hPBk)
 # CS
 ### 数学
 - [x] [中学3年間の数学を8時間でやり直す本](url)
@@ -235,12 +235,16 @@
 ### 情報理論
 
 ### アルゴリズムとプログラミング
-- [ ] プログラミングコンテストチャレンジブック(蟻本)
-- [ ] プログラミングコンテスト攻略のためのアルゴリズムとデータ構造(螺旋本)
-- [ ] オンラインジャッジではじめるC/C++プログラミング入門(螺旋本入門)
-- [x] [アルゴリズム図鑑](url)
-- [ ] アルゴリズムとデータ構造
-- [ ] 世界で闘うプログラミング力を鍛える本 -コーディング面接189問とその解法-
+- アルゴリズムとデータ構造
+  - [ ] プログラミングコンテストチャレンジブック(蟻本)
+  - [ ] プログラミングコンテスト攻略のためのアルゴリズムとデータ構造(螺旋本)
+  - [ ] オンラインジャッジではじめるC/C++プログラミング入門(螺旋本入門)
+  - [x] [アルゴリズム図鑑](url)
+  - [ ] アルゴリズムとデータ構造
+  - [ ] 世界で闘うプログラミング力を鍛える本 -コーディング面接189問とその解法-
+- 関数型プログラミング
+  - [x] [関数プログラミング実践入門](https://amzn.to/2P9O81Y)
+  - [x] [なぜ関数プログラミングは重要か](https://www.sampou.org/haskell/article/whyfp.html)
 
 ### コンピュータ構成要素
 - [ ] [コンピュータシステムの理論と実装](https://github.com/MasatoraAtarashi/nand2tetris)
@@ -297,8 +301,6 @@
 
 ### システム開発技術
 - [x] [リーダブルコード](url)
-- [x] [関数プログラミング実践入門](https://amzn.to/2P9O81Y)
-- [x] [なぜ関数プログラミングは重要か](https://www.sampou.org/haskell/article/whyfp.html)
 - [ ] Code Reading オープンソースから学ぶソフトウェア開発技法
 - [ ] リファクタリング
 - [ ] レガシーコード改善ガイド
