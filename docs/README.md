@@ -150,7 +150,7 @@
   - [ ] 継続的デリバリー　信頼できるソフトウエアリリースのためのビルド・テスト・デプロイメントの自動化
   - [ ] The DevOps ハンドブック 理論・原則・実践のすべて
   - [ ] DevOps Handbook
-  - [ ] [GitHub Actions実践入門](https://miyajan.booth.pm/items/1865906)
+  - [x] [GitHub Actions実践入門](https://miyajan.booth.pm/items/1865906)
 - Kubernetes
   - [x] [Kubernetesチュートリアル](url)
   - [x] [15Stepで習得 Dockerから入るKubernetes コンテナ開発からK8s本番運用まで(~2章, 3章6,7,10,14)](https://amzn.to/3pL0uLQ)
