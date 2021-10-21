@@ -175,7 +175,7 @@
   - [ ] ドメイン駆動設計入門 ボトムアップでわかる！ドメイン駆動設計の基本
   - [ ] [DomainDrivenDesignQuicklyOnline_JP](https://www.infoq.com/jp/minibooks/domain-driven-design-quickly/)
 - クリーンアーキテクチャ
-  - [ ] Clean Architecture　達人に学ぶソフトウェアの構造と設計
+  - [ ] [Clean Architecture　達人に学ぶソフトウェアの構造と設計](https://asciidwango.jp/post/176293765750/clean-architecture)
   - [ ] ソフトウェアアーキテクチャ
 - サーバーレス
   - [x] [クリーンアーキテクチャとサーバレスで実装するWebAPI](https://amzn.to/2XPepXu)
