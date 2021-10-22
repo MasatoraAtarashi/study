@@ -218,6 +218,8 @@
   - [ ] [AWS CI/CD for Amazon ECSハンズオン](https://pages.awscloud.com/rs/112-TZM-766/images/AWS_CICD_ECS_Handson.pdf)
   - [x] [Amazon Web Servicesネットワーク入門](https://www.amazon.co.jp/Amazon-Web-Services%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%85%A5%E9%96%80-impress-gear%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-ebook/dp/B01M2BMB0V/ref=sr_1_1?crid=37Q64VTAF5LBM&dchild=1&keywords=aws+unlimited&qid=1634294947&sr=8-1)
   - [x] [【AWS Black Belt Online Seminar】AWS Batch](https://www.youtube.com/watch?v=-2Kz3d7hPBk)
+  - [ ] [IAM ベストプラクティス](https://docs.aws.amazon.com/ja_jp/IAM/latest/UserGuide/best-practices.html)
+  - [ ] [AWSの薄い本　IAMのマニアックな話](https://www.amazon.co.jp/AWS%E3%81%AE%E8%96%84%E3%81%84%E6%9C%AC-IAM%E3%81%AE%E3%83%9E%E3%83%8B%E3%82%A2%E3%83%83%E3%82%AF%E3%81%AA%E8%A9%B1-%E4%BD%90%E3%80%85%E6%9C%A8%E6%8B%93%E9%83%8E-ebook/dp/B085PZCMG2/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1LRTY77DNRIUO&dchild=1&keywords=aws+iam&qid=1634889244&sprefix=aws+ia%2Caps%2C568&sr=8-1)
 # CS
 ### 数学
 - [x] [中学3年間の数学を8時間でやり直す本](url)
