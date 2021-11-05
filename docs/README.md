@@ -57,11 +57,12 @@
   - [x] [プログラミング言語Go完全入門](https://engineering.mercari.com/blog/entry/goforbeginners/)
   - [x] [Goプログラミング実践入門 標準ライブラリでゼロからWebアプリを作る](url)
   - [x] [オンライン版　CA Tech Dojo サーバサイド (Go)編](https://techbowl.co.jp/techtrain/missions/12)
-  - [ ] Go言語によるWebアプリケーション開発
-  - [ ] Go言語による並行処理
-  - [ ] Goならわかるシステムプログラミング
+  - [ ] [Effective Go(日本語版)](http://go.shibu.jp/effective_go.html)
+  - [ ] [Go言語によるWebアプリケーション開発](url)
+  - [ ] [Go言語による並行処理](url)
+  - [ ] [Goならわかるシステムプログラミング](url)
   - [ ] スターティングGo言語
-  - [ ] プログラミング言語Go
+  - [ ] [プログラミング言語Go](url)
   - [ ] Go言語 ハンズオン
   - [ ] Go言語でつくるインタプリタ
 - Scala
