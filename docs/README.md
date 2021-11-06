@@ -66,6 +66,7 @@
   - [ ] Go言語 ハンズオン
   - [ ] Go言語でつくるインタプリタ
   - [ ] [Go wiki](https://github.com/golang/go/wiki)
+  - [ ] [Awesome Go(ライブラリのコードを読む)](https://awesome-go.com/)
 - Scala
   - [ ] [Scala研修テキスト](https://scala-text.github.io/scala_text/)
     - [x] ~型クラスへの誘い
