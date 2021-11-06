@@ -27,7 +27,6 @@
 - パフォーマンス・チューニング
   - [x] [GoでISUCONパフォーマンスチューニング ](url)
   - [ ] [Webサービスチューニングコンテスト ISUCONのススメ](https://techbookfest.org/product/4915388672376832?productVariantID=6054344950546432)
-  - [ ] [Software Design (ソフトウェアデザイン) 2021年7月号](https://amzn.to/3y4hf8j)
   - [ ] ISUCONのススメ
   - [ ] ボトルネックがすぐわかる 現場のための Webサーバ高速化教本
 
@@ -422,3 +421,8 @@
   - [x] [ソフトウェアファースト](url)
   - [ ] [エンジニアのためのマネジメントキャリアパス ―テックリードからCTOまでマネジメントスキル向上ガイド](url)
   - [ ] [エンジニアがビジネスリーダーをめざすための10の法則](url)
+- 雑誌
+  - [x] [Software Design 2021年07月号](https://amzn.to/3y4hf8j)
+  - [x] [Software Design 2021年09月号 ](url)
+  - [x] [Software Design 2021年10月号 ](url)
+  - [x] [Software Design 2021年11月号 ](url)
