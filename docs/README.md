@@ -40,6 +40,8 @@
   - [x] [りあクト！2](url)
   - [ ] [りあクト！3](url)
 - Vue.js
+  - [ ] [Vue.js公式ガイド](https://jp.vuejs.org/v2/guide/)
+  - [ ] [基礎から学ぶ Vue.js](https://www.amazon.co.jp/%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6-Vue-js-mio/dp/4863542453/ref=asc_df_4863542453/?tag=jpgo-22&linkCode=df0&hvadid=295706574430&hvpos=1o2&hvnetw=g&hvrand=10468963126835245106&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1009308&hvtargid=pla-524581061219&psc=1&th=1&psc=1)
 - chrome拡張機能
   - [x] [Google Chrome - 拡張機能 開発大全 -](https://booth.pm/ja/items/2459744)
   - [x] [React & TypeScript Chrome Extension Development [2021]](https://www.udemy.com/course/chrome-extension/)
