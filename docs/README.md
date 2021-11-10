@@ -62,12 +62,14 @@
   - [ ] [Go言語によるWebアプリケーション開発](url)
   - [ ] [Go言語による並行処理](url)
   - [ ] [Goならわかるシステムプログラミング](url)
+    - [ ] 3,4章
   - [ ] スターティングGo言語
   - [ ] [プログラミング言語Go](url)
   - [ ] Go言語 ハンズオン
   - [ ] Go言語でつくるインタプリタ
   - [ ] [Go wiki](https://github.com/golang/go/wiki)
   - [ ] [Awesome Go(ライブラリのコードを読む)](https://awesome-go.com/)
+  - [x] [分かるゴールーチンとチャネル](https://docs.google.com/presentation/d/1y-iFHzxKTPmly6TlPRNlne-8rsPJ_IJMSQboHkOcFBo/edit#slide=id.g459ff61f16_0_75)
 - Scala
   - [ ] [Scala研修テキスト](https://scala-text.github.io/scala_text/)
     - [x] ~型クラスへの誘い
