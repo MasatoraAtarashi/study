@@ -13,7 +13,7 @@
 - [ ] イラスト図解式 この一冊で全部わかるWeb技術の基本
 - ネットワーク
   - [x] [マスタリングTCP/IP 入門編](url)
-  - [ ] Real World HTTP
+  - [ ] [Real World HTTP](https://www.oreilly.co.jp/books/9784873119038/)
     - [ ] 3. 6. 11
   - [ ] ネットワークはなぜつながるのか
   - [ ] プロフェッショナルIPv6
