@@ -437,3 +437,5 @@
   - [x] [Software Design 2021年09月号 ](url)
   - [x] [Software Design 2021年10月号 ](url)
   - [x] [Software Design 2021年11月号 ](url)
+- GNU Make
+  - [ ] [令和だけでMake入門](https://speakerdeck.com/pddg/gnu-make-exercise)
