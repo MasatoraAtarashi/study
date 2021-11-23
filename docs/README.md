@@ -281,7 +281,7 @@
 - [x] [ARMで学ぶアセンブリ言語入門](https://amzn.to/35MV49T)
 - [ ] Principles and Practices of Interconnection Networks
 - [ ] [RISC-VとChiselで学ぶ　はじめてのCPU自作　――オープンソース命令セットによるカスタムCPU実装への第一歩](https://github.com/MasatoraAtarashi/riscv-chisel)
-  - [x] ~6
+  - [x] ~12
 - [ ] RISC-V原典
 - [ ] Chiselを始めたい人に読んでほしい本
 
