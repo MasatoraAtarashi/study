@@ -60,7 +60,7 @@
   - [x] [Goプログラミング実践入門 標準ライブラリでゼロからWebアプリを作る](url)
   - [x] [オンライン版　CA Tech Dojo サーバサイド (Go)編](https://techbowl.co.jp/techtrain/missions/12)
   - [ ] [Effective Go](http://go.shibu.jp/effective_go.html)
-  - [ ] Go Codereview Comments
+  - [x] [Go Codereview Comments](https://knsh14.github.io/translations/go-codereview-comments/)
   - [ ] How to Write Go Code
   - [ ] [標準ライブラリ](https://pkg.go.dev/std)
   - [ ] [Go言語によるWebアプリケーション開発](url)
