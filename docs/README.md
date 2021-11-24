@@ -59,7 +59,10 @@
   - [x] [プログラミング言語Go完全入門](https://engineering.mercari.com/blog/entry/goforbeginners/)
   - [x] [Goプログラミング実践入門 標準ライブラリでゼロからWebアプリを作る](url)
   - [x] [オンライン版　CA Tech Dojo サーバサイド (Go)編](https://techbowl.co.jp/techtrain/missions/12)
-  - [ ] [Effective Go(日本語版)](http://go.shibu.jp/effective_go.html)
+  - [ ] [Effective Go](http://go.shibu.jp/effective_go.html)
+  - [ ] Go Codereview Comments
+  - [ ] How to Write Go Code
+  - [ ] [標準ライブラリ](https://pkg.go.dev/std)
   - [ ] [Go言語によるWebアプリケーション開発](url)
   - [ ] [Go言語による並行処理](url)
   - [ ] [Goならわかるシステムプログラミング](url)
