@@ -124,11 +124,8 @@
 
 ### データベース
 - [x] [達人に学ぶDB設計徹底指南書](url)
-- [x] [courseraのSQLコース](url)
-- [x] [SQL ゼロからはじめるデータベース操作](https://amzn.to/3uNNOoX)
 - [ ] SQLアンチパターン
 - [x] [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf)
-- [ ] SQLパズル
 - [ ] RDBMS解剖学 よくわかるリレーショナルデータベースの仕組み
 - [ ] 詳説 データベース
 - [x] [Webエンジニアのための データベース技術[実践]入門](https://amzn.to/3novP7Z)
@@ -138,6 +135,11 @@
 - [ ] グラス片手にデータベース設計 販売管理システム編
 - [ ] 生産管理・原価管理システムのためのデータモデリング
 - [ ] 理論から学ぶデータベース実践入門 ~リレーショナルモデルによる効率的なSQ
+- 集計クエリ
+  - [x] [courseraのSQLコース](url)
+  - [x] [SQL ゼロからはじめるデータベース操作](https://amzn.to/3uNNOoX)
+  - [ ] [データサイエンス100本ノック](https://github.com/MasatoraAtarashi/100knocks-preprocess)
+  - [ ] SQLパズル
 
 ### API
 - REST
