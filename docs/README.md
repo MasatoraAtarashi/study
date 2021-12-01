@@ -138,11 +138,12 @@
 - [ ] グラス片手にデータベース設計 販売管理システム編
 - [ ] 生産管理・原価管理システムのためのデータモデリング
 - [ ] 理論から学ぶデータベース実践入門 ~リレーショナルモデルによる効率的なSQ
-- 集計クエリ
+- SQL
   - [x] [courseraのSQLコース](url)
   - [x] [SQL ゼロからはじめるデータベース操作](https://amzn.to/3uNNOoX)
   - [ ] [データサイエンス100本ノック](https://github.com/MasatoraAtarashi/100knocks-preprocess)
   - [ ] SQLパズル
+  - [ ] [達人に学ぶ SQL 徹底指南書](https://www.amazon.co.jp/dp/4798157821?tag=shoeishacom-22)
 
 ### API
 - REST
