@@ -74,6 +74,9 @@
   - [ ] [Go wiki](https://github.com/golang/go/wiki)
   - [ ] [Awesome Go(ライブラリのコードを読む)](https://awesome-go.com/)
   - [x] [分かるゴールーチンとチャネル](https://docs.google.com/presentation/d/1y-iFHzxKTPmly6TlPRNlne-8rsPJ_IJMSQboHkOcFBo/edit#slide=id.g459ff61f16_0_75)
+  - [ ] NuxtとGoではじめるWebアプリ開発
+  - [ ] [はじめてのGo](https://gihyo.jp/dev/feature/01/go_4beginners)
+  - [ ] [Gopher道場課題](https://github.com/MasatoraAtarashi/gopherdojo-studyroom)
 - Scala
   - [ ] [Scala研修テキスト](https://scala-text.github.io/scala_text/)
     - [x] ~型クラスへの誘い
