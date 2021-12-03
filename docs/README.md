@@ -247,10 +247,12 @@
     - [x] ~2
   - [ ] Amazon Web Services コスト最適化入門
   - [ ] [Amazon Web Services実践入門](https://www.amazon.co.jp/dp/B07JHJF6YN?tag=bigsosu-22&linkCode=ogi&th=1&psc=1)
-    - [x] 5
+    - [x] 5, 7
   - [ ] [Amazon Web Services パターン別構築・運用ガイド](https://www.amazon.co.jp/dp/B07BMQL59H?tag=bigsosu-22&linkCode=ogi&th=1&psc=1)
   - [ ] [AWSではじめるデータレイク: クラウドによる統合型データリポジトリ構築入門](https://www.amazon.co.jp/AWS%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%83%AC%E3%82%A4%E3%82%AF-%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%81%AB%E3%82%88%E3%82%8B%E7%B5%B1%E5%90%88%E5%9E%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E6%A7%8B%E7%AF%89%E5%85%A5%E9%96%80-%E4%B8%8A%E5%8E%9F-%E8%AA%A0/dp/491031301X/ref=sr_1_21?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=AWS&qid=1638347697&sr=8-21)
   - [ ] [AWS認定アソシエイト3資格対策～ソリューションアーキテクト、デベロッパー、SysOpsアドミニストレーター～](https://www.amazon.co.jp/dp/B07TT1N73K?ref_=k4w_oembed_GnuZkS2z7J5Wio&tag=kpembed-20&linkCode=kpd)
+  - [ ] 要点整理から攻略する『AWS認定 データベース-専門知識』
+  - [ ] 【AWS Black Belt Online Seminar】Amazon Relational Database Service (Amazon RDS)
 
 # CS
 ### 数学
@@ -453,5 +455,6 @@
   - [x] [Software Design 2021年10月号 ](url)
   - [x] [Software Design 2021年11月号 ](url)
   - [x] [Software Design 2021年12月号 ](url)
+  - [ ] WEB+DB PRESS Vol.122
 - GNU Make
   - [ ] [令和だけでMake入門](https://speakerdeck.com/pddg/gnu-make-exercise)
