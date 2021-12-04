@@ -77,6 +77,7 @@
   - [ ] NuxtとGoではじめるWebアプリ開発
   - [ ] [はじめてのGo](https://gihyo.jp/dev/feature/01/go_4beginners)
   - [ ] [Gopher道場課題](https://github.com/MasatoraAtarashi/gopherdojo-studyroom)
+  - [ ] [逆引きGoによる静的解析入門](https://tenntenn.booth.pm/items/1319394)
 - Scala
   - [ ] [Scala研修テキスト](https://scala-text.github.io/scala_text/)
     - [x] ~型クラスへの誘い
