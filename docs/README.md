@@ -207,7 +207,6 @@
   - [ ] ソフトウェアアーキテクチャ
 - サーバーレス
   - [x] [クリーンアーキテクチャとサーバレスで実装するWebAPI](https://amzn.to/2XPepXu)
-  - [x] [AWS Lambda実践ガイド](https://amzn.to/3sFCThd)
 - マイクロサービス
   - [ ] マイクロサービスアーキテクチャ
 
@@ -258,6 +257,7 @@
   - [ ] 要点整理から攻略する『AWS認定 データベース-専門知識』
   - [x] [【AWS Black Belt Online Seminar】Amazon Relational Database Service (Amazon RDS)](https://www.youtube.com/watch?v=nDme-ET-_EY)
   - [ ] [【AWS Black Belt Online Seminar】Amazon Aurora MySQL](https://www.youtube.com/watch?v=VerVNchaqVY)
+  - [ ] - [x] [AWS Lambda実践ガイド](https://amzn.to/3sFCThd)
 
 # CS
 ### 数学
