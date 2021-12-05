@@ -256,8 +256,8 @@
   - [ ] [AWS認定アソシエイト3資格対策～ソリューションアーキテクト、デベロッパー、SysOpsアドミニストレーター～](https://www.amazon.co.jp/dp/B07TT1N73K?ref_=k4w_oembed_GnuZkS2z7J5Wio&tag=kpembed-20&linkCode=kpd)
   - [ ] 要点整理から攻略する『AWS認定 データベース-専門知識』
   - [x] [【AWS Black Belt Online Seminar】Amazon Relational Database Service (Amazon RDS)](https://www.youtube.com/watch?v=nDme-ET-_EY)
-  - [ ] [【AWS Black Belt Online Seminar】Amazon Aurora MySQL](https://www.youtube.com/watch?v=VerVNchaqVY)
-  - [ ] - [x] [AWS Lambda実践ガイド](https://amzn.to/3sFCThd)
+  - [x] [【AWS Black Belt Online Seminar】Amazon Aurora MySQL](https://www.youtube.com/watch?v=VerVNchaqVY)
+  - [x] [AWS Lambda実践ガイド](https://amzn.to/3sFCThd)
 
 # CS
 ### 数学
