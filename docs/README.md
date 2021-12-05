@@ -259,6 +259,9 @@
   - [x] [【AWS Black Belt Online Seminar】Amazon Aurora MySQL](https://www.youtube.com/watch?v=VerVNchaqVY)
   - [x] [AWS Lambda実践ガイド](https://amzn.to/3sFCThd)
 
+### データエンジニアリング
+- [ ] 実践的データ基盤への処方箋 〜ビジネス価値創出のためのデータ・システム・ヒトのノウハウ
+
 # CS
 ### 数学
 - [x] [中学3年間の数学を8時間でやり直す本](url)
