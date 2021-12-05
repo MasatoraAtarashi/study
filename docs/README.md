@@ -149,6 +149,8 @@
 ### API
 - REST
   - [x] [WebAPI The Good Parts](url)
+  - [ ] [Web APIの設計](https://www.amazon.co.jp/Web-API%E3%81%AE%E8%A8%AD%E8%A8%88-Arnaud-Lauret-ebook/dp/B08CK2H12H/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=web+api&qid=1638685757&sr=8-1)
+  - [ ] [RESTful Webサービス](https://www.amazon.co.jp/RESTful-Web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-Leonard-Richardson/dp/4873113539/ref=sr_1_5?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=web+api&qid=1638685757&sr=8-5)
 - RPC
   - [x] [thrift tutorial](https://thrift-tutorial.readthedocs.io/en/latest/index.html)
   - [x] [スターティングgRPC](https://booth.pm/ja/items/1315322)
