@@ -258,6 +258,8 @@
   - [x] [【AWS Black Belt Online Seminar】Amazon Relational Database Service (Amazon RDS)](https://www.youtube.com/watch?v=nDme-ET-_EY)
   - [x] [【AWS Black Belt Online Seminar】Amazon Aurora MySQL](https://www.youtube.com/watch?v=VerVNchaqVY)
   - [x] [AWS Lambda実践ガイド](https://amzn.to/3sFCThd)
+  - [x] [【AWS Black Belt Online Seminar】AWS Key Management Service](https://www.youtube.com/watch?v=4F5rSxzu0U4)
+  - [x] [Amazon Aurora deep dive ～性能向上の仕組みと最新アップデート～ | AWS Summit Tokyo 2016](https://www.youtube.com/watch?v=kUH1gLYT6t0)
 
 ### データエンジニアリング
 - [ ] 実践的データ基盤への処方箋 〜ビジネス価値創出のためのデータ・システム・ヒトのノウハウ
