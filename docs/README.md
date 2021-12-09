@@ -62,13 +62,14 @@
   - [ ] [Effective Go](http://go.shibu.jp/effective_go.html)
   - [x] [Go Codereview Comments](https://knsh14.github.io/translations/go-codereview-comments/)
   - [ ] How to Write Go Code
-  - [ ] [標準ライブラリ](https://pkg.go.dev/std)
+  - [ ] [標準ライブラリのGoDoc](https://pkg.go.dev/std)
   - [ ] [Go言語によるWebアプリケーション開発](url)
   - [ ] [Go言語による並行処理](url)
   - [ ] [Goならわかるシステムプログラミング](url)
     - [x] 6, 16章
   - [ ] スターティングGo言語
   - [ ] [プログラミング言語Go](url)
+    - [x] 12章
   - [ ] Go言語 ハンズオン
   - [ ] Go言語でつくるインタプリタ
   - [ ] [Go wiki](https://github.com/golang/go/wiki)
