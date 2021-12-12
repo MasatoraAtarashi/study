@@ -240,12 +240,6 @@
   - [x] [Amazon Web Services 基礎からのネットワーク&サーバー構築](url)
   - [x] [ゼロからわかるAmazon Web Service](url)
   - [x] [AWS Hands-on for Beginners Network編#1 AWS上にセキュアなプライベートネットワーク空間を作成する](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Network1-2020-reg-event-LP.html?trk=aws_introduction_page)
-  - [x] [AWS Hands-on for Beginners 〜スケーラブルウェブサイト構築編〜](https://pages.awscloud.com/event_JAPAN_Hands-on-for-Beginners-Scalable_Contents.html)
-  - [x] [AWS Well-Architected Frameworkハンズオン](https://www.wellarchitectedlabs.com/reliability/300_labs/300_testing_for_resiliency_of_ec2_rds_and_s3/)
-  - [x] [AWS CloudFormation ハンズオン](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-cfn-2020-reg-event-LP.html?trk=aws_blog_k) 
-  - [ ] [AWS CI/CD for Amazon ECSハンズオン](https://pages.awscloud.com/rs/112-TZM-766/images/AWS_CICD_ECS_Handson.pdf)
-  - [x] [Amazon Web Servicesネットワーク入門](https://www.amazon.co.jp/Amazon-Web-Services%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%85%A5%E9%96%80-impress-gear%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-ebook/dp/B01M2BMB0V/ref=sr_1_1?crid=37Q64VTAF5LBM&dchild=1&keywords=aws+unlimited&qid=1634294947&sr=8-1)
-  - [x] [【AWS Black Belt Online Seminar】AWS Batch](https://www.youtube.com/watch?v=-2Kz3d7hPBk)
   - [ ] [IAM ベストプラクティス](https://docs.aws.amazon.com/ja_jp/IAM/latest/UserGuide/best-practices.html)
   - [ ] [AWSの薄い本　IAMのマニアックな話](https://www.amazon.co.jp/AWS%E3%81%AE%E8%96%84%E3%81%84%E6%9C%AC-IAM%E3%81%AE%E3%83%9E%E3%83%8B%E3%82%A2%E3%83%83%E3%82%AF%E3%81%AA%E8%A9%B1-%E4%BD%90%E3%80%85%E6%9C%A8%E6%8B%93%E9%83%8E-ebook/dp/B085PZCMG2/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1LRTY77DNRIUO&dchild=1&keywords=aws+iam&qid=1634889244&sprefix=aws+ia%2Caps%2C568&sr=8-1)
     - [x] ~2
@@ -254,13 +248,25 @@
     - [x] 5, 7
   - [ ] [Amazon Web Services パターン別構築・運用ガイド](https://www.amazon.co.jp/dp/B07BMQL59H?tag=bigsosu-22&linkCode=ogi&th=1&psc=1)
   - [ ] [AWSではじめるデータレイク: クラウドによる統合型データリポジトリ構築入門](https://www.amazon.co.jp/AWS%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%83%AC%E3%82%A4%E3%82%AF-%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%81%AB%E3%82%88%E3%82%8B%E7%B5%B1%E5%90%88%E5%9E%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E6%A7%8B%E7%AF%89%E5%85%A5%E9%96%80-%E4%B8%8A%E5%8E%9F-%E8%AA%A0/dp/491031301X/ref=sr_1_21?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=AWS&qid=1638347697&sr=8-21)
-  - [ ] [AWS認定アソシエイト3資格対策～ソリューションアーキテクト、デベロッパー、SysOpsアドミニストレーター～](https://www.amazon.co.jp/dp/B07TT1N73K?ref_=k4w_oembed_GnuZkS2z7J5Wio&tag=kpembed-20&linkCode=kpd)
-  - [ ] 要点整理から攻略する『AWS認定 データベース-専門知識』
-  - [x] [【AWS Black Belt Online Seminar】Amazon Relational Database Service (Amazon RDS)](https://www.youtube.com/watch?v=nDme-ET-_EY)
-  - [x] [【AWS Black Belt Online Seminar】Amazon Aurora MySQL](https://www.youtube.com/watch?v=VerVNchaqVY)
   - [x] [AWS Lambda実践ガイド](https://amzn.to/3sFCThd)
-  - [x] [【AWS Black Belt Online Seminar】AWS Key Management Service](https://www.youtube.com/watch?v=4F5rSxzu0U4)
   - [x] [Amazon Aurora deep dive ～性能向上の仕組みと最新アップデート～ | AWS Summit Tokyo 2016](https://www.youtube.com/watch?v=kUH1gLYT6t0)
+  - [ ] [Amazon Web Services パターン別構築・運用ガイド](url)
+  - Black Belt サービスカットシリーズ
+    - [x] [AWS Batch](https://www.youtube.com/watch?v=-2Kz3d7hPBk)
+    - [x] [Amazon RDS](https://www.youtube.com/watch?v=nDme-ET-_EY)
+    - [x] [Amazon Aurora MySQL](https://www.youtube.com/watch?v=VerVNchaqVY)
+    - [x] [SNS](url)
+    - [x] [AWS Key Management Service](https://www.youtube.com/watch?v=4F5rSxzu0U4)
+  - AWS ハンズオンシリーズ
+    - [x] [AWS Hands-on for Beginners 〜スケーラブルウェブサイト構築編〜](https://pages.awscloud.com/event_JAPAN_Hands-on-for-Beginners-Scalable_Contents.html)
+    - [x] [AWS Well-Architected Frameworkハンズオン](https://www.wellarchitectedlabs.com/reliability/300_labs/300_testing_for_resiliency_of_ec2_rds_and_s3/)
+    - [x] [AWS CloudFormation ハンズオン](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-cfn-2020-reg-event-LP.html?trk=aws_blog_k) 
+    - [ ] [AWS CI/CD for Amazon ECSハンズオン](https://pages.awscloud.com/rs/112-TZM-766/images/AWS_CICD_ECS_Handson.pdf)
+    - [x] [Amazon Web Servicesネットワーク入門](https://www.amazon.co.jp/Amazon-Web-Services%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%85%A5%E9%96%80-impress-gear%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-ebook/dp/B01M2BMB0V/ref=sr_1_1?crid=37Q64VTAF5LBM&dchild=1&keywords=aws+unlimited&qid=1634294947&sr=8-1)
+  - AWS資格
+    - [ ] [AWS認定ソリューションアーキテクト(アソシエイト)教科書](url)
+    - [ ] 要点整理から攻略する『AWS認定 データベース-専門知識』
+    - [ ] [AWS認定アソシエイト3資格対策～ソリューションアーキテクト、デベロッパー、SysOpsアドミニストレーター～](https://www.amazon.co.jp/dp/B07TT1N73K?ref_=k4w_oembed_GnuZkS2z7J5Wio&tag=kpembed-20&linkCode=kpd)
 
 ### データエンジニアリング
 - [ ] 実践的データ基盤への処方箋 〜ビジネス価値創出のためのデータ・システム・ヒトのノウハウ
