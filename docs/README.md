@@ -257,6 +257,9 @@
     - [x] [Amazon Aurora MySQL](https://www.youtube.com/watch?v=VerVNchaqVY)
     - [x] [SNS](url)
     - [x] [AWS Key Management Service](https://www.youtube.com/watch?v=4F5rSxzu0U4)
+    - [x] [Glue](url)
+    - [x] [IAM(1)](url)
+    - [ ] IAM(2)
   - AWS ハンズオンシリーズ
     - [x] [AWS Hands-on for Beginners 〜スケーラブルウェブサイト構築編〜](https://pages.awscloud.com/event_JAPAN_Hands-on-for-Beginners-Scalable_Contents.html)
     - [x] [AWS Well-Architected Frameworkハンズオン](https://www.wellarchitectedlabs.com/reliability/300_labs/300_testing_for_resiliency_of_ec2_rds_and_s3/)
@@ -339,6 +342,10 @@
 - [ ] ディジタル回路設計とコンピュータアーキテクチャ
 - [ ] これ一冊でできる！ラズベリーパイ超入門
 - [x] [ラズパイマガジン2021年春号](https://amzn.to/3dta1Cy)
+- FPGA
+  - [ ] [TANG PriMERで始めるFPGA&Verilog入門 AI時代の高速・並列計算デバイスへの第一歩 (技術の泉シリーズ（NextPublishing）)](url)
+  - [ ] FPGAの原理と構成
+  - [ ] FPGAでゼロから作るPCI Express
 
 ### ヒューマンインタフェース
 - [x] [なるほどデザイン](url)
