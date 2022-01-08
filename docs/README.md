@@ -79,6 +79,8 @@
   - [ ] [はじめてのGo](https://gihyo.jp/dev/feature/01/go_4beginners)
   - [ ] [Gopher道場課題](https://github.com/MasatoraAtarashi/gopherdojo-studyroom)
   - [ ] [逆引きGoによる静的解析入門](https://tenntenn.booth.pm/items/1319394)
+  - [ ] [エキスパートたちのGo言語 一流のコードから応用力を学ぶ](url)
+  - [x] [Go言語reflectハンドブック](url)
 - Scala
   - [ ] [Scala研修テキスト](https://scala-text.github.io/scala_text/)
     - [x] ~型クラスへの誘い
@@ -479,6 +481,7 @@
   - [x] [Software Design 2021年10月号 ](url)
   - [x] [Software Design 2021年11月号 ](url)
   - [x] [Software Design 2021年12月号 ](url)
+  - [ ] [Software Design 2022年01月号 ](url)
   - [ ] WEB+DB PRESS Vol.122
 - GNU Make
   - [ ] [令和だけでMake入門](https://speakerdeck.com/pddg/gnu-make-exercise)
