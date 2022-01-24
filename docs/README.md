@@ -455,6 +455,7 @@
 # その他
 - [ ] [SOLID原則トレーニング](https://speakerdeck.com/kgmyshin/solid-plus-cqs-plus-dry)
 - [ ] [詳説 正規表現](https://www.amazon.co.jp/gp/product/4873113598?ie=UTF8&camp=1207&creative=8411&creativeASIN=4873113598&linkCode=shr&tag=junic05-22&=books&qid=1454288225&sr=1-2&keywords=%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%8F%BE)
+- [ ] [ITと数学](https://www.amazon.co.jp/dp/4297120666/ref=sspa_dk_detail_3?psc=1p13NParams&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSFlVUUtYNUg5MVVQJmVuY3J5cHRlZElkPUEwNDI1MDI0MzVYM1VHVUlLUTVXQyZlbmNyeXB0ZWRBZElkPUEyMkZaWklBUVVMQTM3JndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 - 認証
   - [ ] OAuth徹底入門
   - [x] [Software Design (ソフトウェアデザイン) 2021年10月号 挫折しないOAuth/OpenID Connect入門](https://gihyo.jp/magazine/SD/archive/2021/202110)
