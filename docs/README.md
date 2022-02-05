@@ -263,6 +263,8 @@
     - [x] [IAM(1)](url)
     - [ ] IAM(2)
     - [x] [Amazon DynamoDB Advanced Design Pattern](https://www.youtube.com/watch?v=Wd5gbLQ2a1E)
+    - [ ] SQS
+    - [ ] API Gateway
   - AWS ハンズオンシリーズ
     - [x] [AWS Hands-on for Beginners 〜スケーラブルウェブサイト構築編〜](https://pages.awscloud.com/event_JAPAN_Hands-on-for-Beginners-Scalable_Contents.html)
     - [x] [AWS Well-Architected Frameworkハンズオン](https://www.wellarchitectedlabs.com/reliability/300_labs/300_testing_for_resiliency_of_ec2_rds_and_s3/)
