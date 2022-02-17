@@ -253,6 +253,11 @@
   - [x] [AWS Lambda実践ガイド](https://amzn.to/3sFCThd)
   - [x] [Amazon Aurora deep dive ～性能向上の仕組みと最新アップデート～ | AWS Summit Tokyo 2016](https://www.youtube.com/watch?v=kUH1gLYT6t0)
   - [ ] [Amazon Web Services パターン別構築・運用ガイド](url)
+  - [x] [めざせ！サーバレスプロフェッショナル](url)
+  - [x] [AWSを活用したユーザー認証実装パターン解説](https://www.youtube.com/watch?app=desktop&v=wnB6Fq7-tHs)
+  - [x] コンテナとサーバレスの使い分け
+  - [x] AWSコンテナ全体概要
+  - [x] AWSコンテナサービス入門
   - Black Belt サービスカットシリーズ
     - [x] [AWS Batch](https://www.youtube.com/watch?v=-2Kz3d7hPBk)
     - [x] [Amazon RDS](https://www.youtube.com/watch?v=nDme-ET-_EY)
@@ -263,8 +268,11 @@
     - [x] [IAM(1)](url)
     - [ ] IAM(2)
     - [x] [Amazon DynamoDB Advanced Design Pattern](https://www.youtube.com/watch?v=Wd5gbLQ2a1E)
-    - [ ] SQS
+    - [x] [SQS](url)
     - [ ] API Gateway
+    - [x] [CloudFront](url)
+    - [ ] [Cognito](url)
+    - [ ] [AWS Lambda Part1](https://www.youtube.com/watch?app=desktop&v=QvPgjEwgiew)
   - AWS ハンズオンシリーズ
     - [x] [AWS Hands-on for Beginners 〜スケーラブルウェブサイト構築編〜](https://pages.awscloud.com/event_JAPAN_Hands-on-for-Beginners-Scalable_Contents.html)
     - [x] [AWS Well-Architected Frameworkハンズオン](https://www.wellarchitectedlabs.com/reliability/300_labs/300_testing_for_resiliency_of_ec2_rds_and_s3/)
@@ -344,6 +352,8 @@
 - [ ] SICP: Structure and Interpretation of Computer Programs
 - [ ] The Art of Computer Systems Performance Analysis
 - [ ] 作って理解するOS x86系コンピュータを動かす理論と実装
+- [ ] 新しいLinuxの教科書
+- [ ] 低レイヤを知りたい人のためのCコンパイラ作成入門
 
 ### ハードウェア
 - [ ] ディジタル回路設計とコンピュータアーキテクチャ
