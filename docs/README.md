@@ -269,10 +269,17 @@
     - [ ] IAM(2)
     - [x] [Amazon DynamoDB Advanced Design Pattern](https://www.youtube.com/watch?v=Wd5gbLQ2a1E)
     - [x] [SQS](url)
-    - [ ] API Gateway
+    - [x] [API Gateway](url)
     - [x] [CloudFront](url)
     - [ ] [Cognito](url)
-    - [ ] [AWS Lambda Part1](https://www.youtube.com/watch?app=desktop&v=QvPgjEwgiew)
+    - [x] [AWS Lambda Part1](https://www.youtube.com/watch?app=desktop&v=QvPgjEwgiew)
+    - [x] [AWS Lambda Part2](url)
+    - [x] [AWS Lambda Part3](url)
+    - [x] [AWS Lambda Part4](url)
+    - [x] [Step Functions](url)
+    - [ ] ECS
+    - [ ] Fargate
+    - [ ] EKS
   - AWS ハンズオンシリーズ
     - [x] [AWS Hands-on for Beginners 〜スケーラブルウェブサイト構築編〜](https://pages.awscloud.com/event_JAPAN_Hands-on-for-Beginners-Scalable_Contents.html)
     - [x] [AWS Well-Architected Frameworkハンズオン](https://www.wellarchitectedlabs.com/reliability/300_labs/300_testing_for_resiliency_of_ec2_rds_and_s3/)
