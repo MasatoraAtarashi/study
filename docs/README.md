@@ -277,9 +277,9 @@
     - [x] [AWS Lambda Part3](url)
     - [x] [AWS Lambda Part4](url)
     - [x] [Step Functions](url)
-    - [ ] ECS
-    - [ ] Fargate
-    - [ ] EKS
+    - [x] [ECS](url)
+    - [x] [Fargate](url)
+    - [x] [EKS](url)
   - AWS ハンズオンシリーズ
     - [x] [AWS Hands-on for Beginners 〜スケーラブルウェブサイト構築編〜](https://pages.awscloud.com/event_JAPAN_Hands-on-for-Beginners-Scalable_Contents.html)
     - [x] [AWS Well-Architected Frameworkハンズオン](https://www.wellarchitectedlabs.com/reliability/300_labs/300_testing_for_resiliency_of_ec2_rds_and_s3/)
