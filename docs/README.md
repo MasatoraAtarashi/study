@@ -189,6 +189,7 @@
 
 ### デザインパターン
 - [ ] [Java言語で学ぶデザインパターン入門](url)
+  - [x] ~2
 - [ ] Java言語で学ぶデザインパターン入門 マルチスレッド編
 - [ ] オブジェクト指向設計実践ガイド ～Rubyでわかる 進化しつづける柔軟なアプリケーションの育て方
 - [ ] オブジェクト指向設計
@@ -280,6 +281,8 @@
     - [x] [ECS](url)
     - [x] [Fargate](url)
     - [x] [EKS](url)
+    - [x] [Athena](url)
+    - [x] [Amplify](url)
   - AWS ハンズオンシリーズ
     - [x] [AWS Hands-on for Beginners 〜スケーラブルウェブサイト構築編〜](https://pages.awscloud.com/event_JAPAN_Hands-on-for-Beginners-Scalable_Contents.html)
     - [x] [AWS Well-Architected Frameworkハンズオン](https://www.wellarchitectedlabs.com/reliability/300_labs/300_testing_for_resiliency_of_ec2_rds_and_s3/)
