@@ -293,6 +293,7 @@
     - [x] [Amazon Web Servicesネットワーク入門](https://www.amazon.co.jp/Amazon-Web-Services%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%85%A5%E9%96%80-impress-gear%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-ebook/dp/B01M2BMB0V/ref=sr_1_1?crid=37Q64VTAF5LBM&dchild=1&keywords=aws+unlimited&qid=1634294947&sr=8-1)
     - [x] [AWS Hands-on for Beginners 〜 Serverless 編 〜](https://pages.awscloud.com/event_JAPAN_Hands-on-for-Beginners-Serverless-2019_Contents.html)
     - [x] [Amazon DynamoDBをはじめよう！](https://www.youtube.com/watch?v=whJ1FPCZfLM)
+    - [ ] [CDK Workshop](https://cdkworkshop.com/)
   - AWS資格
     - [ ] [AWS認定ソリューションアーキテクト(アソシエイト)教科書](url)
     - [ ] 要点整理から攻略する『AWS認定 データベース-専門知識』
@@ -366,6 +367,7 @@
 - [ ] 作って理解するOS x86系コンピュータを動かす理論と実装
 - [ ] 新しいLinuxの教科書
 - [ ] 低レイヤを知りたい人のためのCコンパイラ作成入門
+- [ ] [Linuxブートキャンプ](url)
 
 ### ハードウェア
 - [ ] ディジタル回路設計とコンピュータアーキテクチャ
