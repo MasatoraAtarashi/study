@@ -79,7 +79,7 @@
   - [ ] [はじめてのGo](https://gihyo.jp/dev/feature/01/go_4beginners)
   - [ ] [Gopher道場課題](https://github.com/MasatoraAtarashi/gopherdojo-studyroom)
   - [ ] [逆引きGoによる静的解析入門](https://tenntenn.booth.pm/items/1319394)
-  - [ ] [エキスパートたちのGo言語 一流のコードから応用力を学ぶ](url)
+  - [x] [エキスパートたちのGo言語 一流のコードから応用力を学ぶ](url)
   - [x] [Go言語reflectハンドブック](url)
 - Scala
   - [ ] [Scala研修テキスト](https://scala-text.github.io/scala_text/)
@@ -104,7 +104,7 @@
   - [ ] すごいHaskellたのしく学ぼう！
   - [ ] 関数プログラミング 珠玉のアルゴリズムデザイン
   - [ ] Real World Haskell: 実戦で学ぶ関数型言語プログラミング
-  - [ ] ふつうのHaskellプログラミング ふつうのプログラマのための関数型言語入門
+  - [ ] [ふつうのHaskellプログラミング ふつうのプログラマのための関数型言語入門](url)
 - JavaScript
   - [x] [JavaScript Primer 迷わないための入門書(一部)](https://jsprimer.net/)
   - [x] [Progate JavaScriptコース](https://prog-8.com/courses/es6)
@@ -125,13 +125,13 @@
 
 ### バージョン管理システム
 - [x] [サル先生のGit入門](https://backlog.com/ja/git-tutorial/)
-- [ ] 入門Git
-- [ ] GitHub実践入門
+- [ ] [入門Git](url)
+- [ ] [GitHub実践入門](url)
 - [x] [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/index.ja_JP.html)
 
 ### データベース
 - [x] [達人に学ぶDB設計徹底指南書](url)
-- [ ] SQLアンチパターン
+- [ ] [SQLアンチパターン](url)
 - [x] [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf)
 - [ ] RDBMS解剖学 よくわかるリレーショナルデータベースの仕組み
 - [ ] 詳説 データベース
@@ -188,8 +188,8 @@
   - [ ] Kubernetes実践ガイド　クラウドネイティブアプリケーションを支える技術
 
 ### デザインパターン
-- [ ] [Java言語で学ぶデザインパターン入門](url)
-  - [x] ~2
+- [ ] [Java言語で学ぶデザインパターン入門](https://github.com/MasatoraAtarashi/Design-Pattern-Go)
+  - [x] 途中
 - [ ] Java言語で学ぶデザインパターン入門 マルチスレッド編
 - [ ] オブジェクト指向設計実践ガイド ～Rubyでわかる 進化しつづける柔軟なアプリケーションの育て方
 - [ ] オブジェクト指向設計
@@ -293,7 +293,7 @@
     - [x] [Amazon Web Servicesネットワーク入門](https://www.amazon.co.jp/Amazon-Web-Services%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%85%A5%E9%96%80-impress-gear%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-ebook/dp/B01M2BMB0V/ref=sr_1_1?crid=37Q64VTAF5LBM&dchild=1&keywords=aws+unlimited&qid=1634294947&sr=8-1)
     - [x] [AWS Hands-on for Beginners 〜 Serverless 編 〜](https://pages.awscloud.com/event_JAPAN_Hands-on-for-Beginners-Serverless-2019_Contents.html)
     - [x] [Amazon DynamoDBをはじめよう！](https://www.youtube.com/watch?v=whJ1FPCZfLM)
-    - [ ] [CDK Workshop](https://cdkworkshop.com/)
+    - [x] [CDK Workshop](https://cdkworkshop.com/)
   - AWS資格
     - [ ] [AWS認定ソリューションアーキテクト(アソシエイト)教科書](url)
     - [ ] 要点整理から攻略する『AWS認定 データベース-専門知識』
