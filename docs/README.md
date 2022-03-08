@@ -433,14 +433,14 @@
   - [x] [必携 インターネット広告 プロが押さえておきたい新常識](https://amzn.to/3bsD08B)
   - [x] [ネット広告がわかる 基本キーワード70](https://amzn.to/3f19icI)
   - [x] [ザ・アドテクノロジー](https://amzn.to/33Y4puV)
-  - [ ] この一冊ですべてわかる広告の基本
+  - [x] [この一冊ですべてわかる広告の基本](url)
   - [x] [アトリビューション 広告効果の考え方を根底から覆す新手法](https://amzn.to/3voab3X)
   - [ ] 図解入門ビジネス ネット広告の基本と仕組みがすべてわかる本
-  - [ ] [ネット広告ハンドブック](https://amzn.to/3q6iArM)
+  - [x] [ネット広告ハンドブック](https://amzn.to/3q6iArM)
   - [ ] 顧客を知るためのデータマネジメントプラットフォーム　DMP入門
   - [ ] [DMPのしくみとオーディエンスデータの活用](https://amzn.to/3z5z6vU)
-  - [ ] いちばんやさしい音声配信ビジネスの教本 人気講師が教える新しいメディアの基礎
-  - [ ] CMを科学する
+  - [x] [いちばんやさしい音声配信ビジネスの教本 人気講師が教える新しいメディアの基礎](url)
+  - [x] [CMを科学する](url)
   - [ ] トリプルメディアマーケティング ソーシャルメディア、自社メディア、広告の連携戦略
   - [ ] 究極のターゲティング―次世代ネット広告テクノロジー
   - [ ] 次世代広告コミュニケーション
@@ -488,6 +488,7 @@
 - [ ] [詳説 正規表現](https://www.amazon.co.jp/gp/product/4873113598?ie=UTF8&camp=1207&creative=8411&creativeASIN=4873113598&linkCode=shr&tag=junic05-22&=books&qid=1454288225&sr=1-2&keywords=%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%8F%BE)
 - [ ] [ITと数学](https://www.amazon.co.jp/dp/4297120666/ref=sspa_dk_detail_3?psc=1p13NParams&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSFlVUUtYNUg5MVVQJmVuY3J5cHRlZElkPUEwNDI1MDI0MzVYM1VHVUlLUTVXQyZlbmNyeXB0ZWRBZElkPUEyMkZaWklBUVVMQTM3JndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 - [ ] [ハンズオンNode.js](url)
+- [ ] [データ指向アプリケーション](url)
 - 認証
   - [ ] OAuth徹底入門
   - [x] [Software Design (ソフトウェアデザイン) 2021年10月号 挫折しないOAuth/OpenID Connect入門](https://gihyo.jp/magazine/SD/archive/2021/202110)
