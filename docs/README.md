@@ -110,6 +110,7 @@
   - [x] [Progate JavaScriptコース](https://prog-8.com/courses/es6)
   - [ ] JavaScript Promiseの本
 - TypeScript
+  - [ ] [サバイバルTypeScript](https://typescriptbook.jp/)
   - [ ] TypeScript Deep Dive
 - Kotlin
 
