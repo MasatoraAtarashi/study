@@ -1,3 +1,5 @@
+# [ScrapBox](https://scrapbox.io/masatora/)に移行しました
+
 # 勉強したこと・しようとしていることの記録
 - 勉強したやつは青くなってる。しようと思ってるのは白い
 - [その他読んだ本はこちら](https://booklog.jp/users/masatora-ata?display=front)
