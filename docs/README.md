@@ -8,7 +8,7 @@
 - [応用情報技術者試験](https://www.jitec.ipa.go.jp/1_13download/syllabus_ap_ver6_1.pdf)
 - [アドテクカオスマップ](https://rtbsquare.work/%e6%ad%b4%e4%bb%a3%e3%81%ae%e3%82%ab%e3%82%aa%e3%82%b9%e3%83%9e%e3%83%83%e3%83%97%ef%bc%88%e6%97%a5%e6%9c%ac%e7%89%88%ef%bc%89)
 
-
+a
 # バックエンドエンジニア
 ### インターネット
 - [x] [Webを支える技術](url)
